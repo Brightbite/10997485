@@ -1,6 +1,34 @@
 # NETWORK PERFORMANCE – SOFTWARE AND USER STATISTICS
 # Kunanon Pititheerachot#10997485
 
+Please clone all resources and put them in the main folders following from table below.
+
+When all the files are in place please open terminal and start nagios service and apache2 service.
+
+Nagios Core commands:
+  - sudo service nagios start (to start monitoring tool process)
+  - sudo service nagios restart
+  - sudo service nagios stop
+  - sudo service nagios status
+
+Apache2 commands:
+  - sudo service apache2 start (to start web interface for monitoring tool functions)
+  - sudo service apache2 stop
+  - sudo service apache2 restart
+
+Get access to the localhost on the web browser:
+  - http:127.0.0.1
+
+Nagios account for login nagios web interface
+  - ID: nagiosadmin
+  - PW: nagiosadmin
+
+Main folders
+- Nagios
+- Nagiosgraph
+- etc
+
+
 Nagios
   - bin
     - nagios
@@ -138,6 +166,13 @@ Nagiosgraph
   - var
     - log	
     - rrd	
+
+
+
+
+
+
+
 
 
 
