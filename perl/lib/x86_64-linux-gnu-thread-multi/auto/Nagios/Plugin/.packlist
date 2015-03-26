@@ -1,0 +1,16 @@
+/usr/local/nagios/perl/lib/Nagios/Plugin.pm
+/usr/local/nagios/perl/lib/Nagios/Plugin/Config.pm
+/usr/local/nagios/perl/lib/Nagios/Plugin/ExitResult.pm
+/usr/local/nagios/perl/lib/Nagios/Plugin/Functions.pm
+/usr/local/nagios/perl/lib/Nagios/Plugin/Getopt.pm
+/usr/local/nagios/perl/lib/Nagios/Plugin/Performance.pm
+/usr/local/nagios/perl/lib/Nagios/Plugin/Range.pm
+/usr/local/nagios/perl/lib/Nagios/Plugin/Threshold.pm
+/usr/local/nagios/perl/man/man3/Nagios::Plugin.3pm
+/usr/local/nagios/perl/man/man3/Nagios::Plugin::Config.3pm
+/usr/local/nagios/perl/man/man3/Nagios::Plugin::ExitResult.3pm
+/usr/local/nagios/perl/man/man3/Nagios::Plugin::Functions.3pm
+/usr/local/nagios/perl/man/man3/Nagios::Plugin::Getopt.3pm
+/usr/local/nagios/perl/man/man3/Nagios::Plugin::Performance.3pm
+/usr/local/nagios/perl/man/man3/Nagios::Plugin::Range.3pm
+/usr/local/nagios/perl/man/man3/Nagios::Plugin::Threshold.3pm

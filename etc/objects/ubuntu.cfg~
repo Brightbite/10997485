@@ -1,0 +1,56 @@
+#Ubuntu Host
+define host {				
+	host_name			Linux_ubuntu
+	alias				Linux ubuntu
+	address				10.0.2.15
+	max_check_attempts		4
+	register			1
+	}
+define service {
+	host_name			Linux_ubuntu
+	service_description		PING
+	check_command			check_ping!100.0,20%!500.0,60%
+	max_check_attempts		4
+	check_interval			4
+	retry_interval			4
+	check_period			24x7
+	check_freshness			1
+	#contact_group			admins
+	notification_interval		2
+	notification_period		24x7
+	#notification_enabled		1
+	register			1
+	action_url			/nagiosgraph/cgi-bin/show.cgi?host=$HOSTNAME$&service=$SERVICEDESC$&db=pl,data&db=pl,warn&db=pl,crit&geom=1000x200' onMouseOver='showGraphPopup(this)' onMouseOut='hideGraphPopup()' rel='/nagiosgraph/cgi-bin/showgraph.cgi?host=$HOSTNAME$&service=$SERVICEDESC$&db=pl,data&db=pl,warn&db=pl,crit
+
+	}
+
+define service {
+	host_name			Linux_ubuntu
+	service_description		CPU Load
+	check_command			check_local_load!5.0,4.0,3.0!10.0,6.0,4.0
+	max_check_attempts		4
+	check_interval			4
+	retry_interval			4
+	check_period			24x7
+	check_freshness			1
+	register			1
+	action_url              	/nagiosgraph/cgi-bin/show.cgi?host=$HOSTNAME$&service=$SERVICEDESC$&geom=1000x200' onMouseOver='showGraphPopup(this)' onMouseOut='hideGraphPopup()' rel='/nagiosgraph/cgi-bin/showgraph.cgi?host=$HOSTNAME$&service=$SERVICEDESC$
+	}
+
+define service {
+	host_name			Linux_ubuntu
+	service_description		Response Time
+	check_command			check_http
+	max_check_attempts		4
+	check_interval			4
+	retry_interval			4
+	check_period			24x7
+	check_freshness			1
+	register			1
+	action_url              	/nagiosgraph/cgi-bin/show.cgi?host=$HOSTNAME$&service=$SERVICEDESC$&geom=1000x200' onMouseOver='showGraphPopup(this)' onMouseOut='hideGraphPopup()' rel='/nagiosgraph/cgi-bin/showgraph.cgi?host=$HOSTNAME$&service=$SERVICEDESC$
+	}
+
+
+
+#END OF FILE
+
