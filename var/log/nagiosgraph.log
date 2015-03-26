@@ -1,0 +1,1375 @@
+Sat Feb 14 22:47:10 2015 insert.pl 25237 warn output/perfdata not recognized:
+hostname:localhost
+servicedesc:SSH
+output:connect to address 127.0.0.1 and port 22: Connection refused
+perfdata:
+Sat Feb 14 22:52:19 2015 insert.pl 25354 warn output/perfdata not recognized:
+hostname:localhost
+servicedesc:SSH
+output:connect to address 127.0.0.1 and port 22: Connection refused
+perfdata:
+Sat Feb 14 22:57:11 2015 insert.pl 25487 warn output/perfdata not recognized:
+hostname:localhost
+servicedesc:SSH
+output:connect to address 127.0.0.1 and port 22: Connection refused
+perfdata:
+Sat Feb 14 23:02:11 2015 insert.pl 25586 warn output/perfdata not recognized:
+hostname:localhost
+servicedesc:SSH
+output:connect to address 127.0.0.1 and port 22: Connection refused
+perfdata:
+Sat Feb 14 23:07:24 2015 insert.pl 25749 warn output/perfdata not recognized:
+hostname:localhost
+servicedesc:SSH
+output:connect to address 127.0.0.1 and port 22: Connection refused
+perfdata:
+Sat Feb 14 23:12:24 2015 insert.pl 25866 warn output/perfdata not recognized:
+hostname:localhost
+servicedesc:SSH
+output:connect to address 127.0.0.1 and port 22: Connection refused
+perfdata:
+Sat Feb 14 23:17:24 2015 insert.pl 25993 warn output/perfdata not recognized:
+hostname:localhost
+servicedesc:SSH
+output:connect to address 127.0.0.1 and port 22: Connection refused
+perfdata:
+Sat Feb 14 23:22:24 2015 insert.pl 26190 warn output/perfdata not recognized:
+hostname:localhost
+servicedesc:SSH
+output:connect to address 127.0.0.1 and port 22: Connection refused
+perfdata:
+Sat Feb 14 23:27:24 2015 insert.pl 26330 warn output/perfdata not recognized:
+hostname:localhost
+servicedesc:SSH
+output:connect to address 127.0.0.1 and port 22: Connection refused
+perfdata:
+Sat Feb 14 23:32:24 2015 insert.pl 26455 warn output/perfdata not recognized:
+hostname:localhost
+servicedesc:SSH
+output:connect to address 127.0.0.1 and port 22: Connection refused
+perfdata:
+Sun Feb 15 01:08:14 2015 insert.pl 26694 warn output/perfdata not recognized:
+hostname:localhost
+servicedesc:SSH
+output:connect to address 127.0.0.1 and port 22: Connection refused
+perfdata:
+Sun Feb 15 01:13:14 2015 insert.pl 26958 warn output/perfdata not recognized:
+hostname:localhost
+servicedesc:SSH
+output:connect to address 127.0.0.1 and port 22: Connection refused
+perfdata:
+Sun Feb 15 01:18:30 2015 insert.pl 27130 warn output/perfdata not recognized:
+hostname:localhost
+servicedesc:SSH
+output:connect to address 127.0.0.1 and port 22: Connection refused
+perfdata:
+Sun Feb 15 01:23:00 2015 insert.pl 27382 warn output/perfdata not recognized:
+hostname:localhost
+servicedesc:SSH
+output:connect to address 127.0.0.1 and port 22: Connection refused
+perfdata:
+Sun Feb 15 01:28:00 2015 insert.pl 27464 warn output/perfdata not recognized:
+hostname:localhost
+servicedesc:SSH
+output:connect to address 127.0.0.1 and port 22: Connection refused
+perfdata:
+Sun Feb 15 01:33:00 2015 insert.pl 27598 warn output/perfdata not recognized:
+hostname:localhost
+servicedesc:SSH
+output:connect to address 127.0.0.1 and port 22: Connection refused
+perfdata:
+Sun Feb 15 01:37:47 2015 insert.pl 27846 warn output/perfdata not recognized:
+hostname:localhost
+servicedesc:SSH
+output:connect to address 127.0.0.1 and port 22: Connection refused
+perfdata:
+Sun Feb 15 01:42:47 2015 insert.pl 28028 warn output/perfdata not recognized:
+hostname:localhost
+servicedesc:SSH
+output:connect to address 127.0.0.1 and port 22: Connection refused
+perfdata:
+Sun Feb 15 01:47:47 2015 insert.pl 28158 warn output/perfdata not recognized:
+hostname:localhost
+servicedesc:SSH
+output:connect to address 127.0.0.1 and port 22: Connection refused
+perfdata:
+Sun Feb 15 01:52:47 2015 insert.pl 28264 warn output/perfdata not recognized:
+hostname:localhost
+servicedesc:SSH
+output:connect to address 127.0.0.1 and port 22: Connection refused
+perfdata:
+Sun Feb 15 01:57:47 2015 insert.pl 28349 warn output/perfdata not recognized:
+hostname:localhost
+servicedesc:SSH
+output:connect to address 127.0.0.1 and port 22: Connection refused
+perfdata:
+Sun Feb 15 02:02:47 2015 insert.pl 28479 warn output/perfdata not recognized:
+hostname:localhost
+servicedesc:SSH
+output:connect to address 127.0.0.1 and port 22: Connection refused
+perfdata:
+Sun Feb 15 02:07:47 2015 insert.pl 28644 warn output/perfdata not recognized:
+hostname:localhost
+servicedesc:SSH
+output:connect to address 127.0.0.1 and port 22: Connection refused
+perfdata:
+Sun Feb 15 02:12:47 2015 insert.pl 28770 warn output/perfdata not recognized:
+hostname:localhost
+servicedesc:SSH
+output:connect to address 127.0.0.1 and port 22: Connection refused
+perfdata:
+Sun Feb 15 02:17:47 2015 insert.pl 28872 warn output/perfdata not recognized:
+hostname:localhost
+servicedesc:SSH
+output:connect to address 127.0.0.1 and port 22: Connection refused
+perfdata:
+Sun Feb 15 02:22:47 2015 insert.pl 29108 warn output/perfdata not recognized:
+hostname:localhost
+servicedesc:SSH
+output:connect to address 127.0.0.1 and port 22: Connection refused
+perfdata:
+Sun Feb 15 02:28:01 2015 insert.pl 29274 warn output/perfdata not recognized:
+hostname:localhost
+servicedesc:SSH
+output:connect to address 127.0.0.1 and port 22: Connection refused
+perfdata:
+Sun Feb 15 19:45:18 2015 insert.pl 30448 warn output/perfdata not recognized:
+hostname:localhost
+servicedesc:SSH
+output:connect to address 127.0.0.1 and port 22: Connection refused
+perfdata:
+Sun Feb 15 19:48:48 2015 insert.pl 30480 warn output/perfdata not recognized:
+hostname:localhost
+servicedesc:SSH
+output:connect to address 127.0.0.1 and port 22: Connection refused
+perfdata:
+Sun Feb 15 19:53:48 2015 insert.pl 30569 warn output/perfdata not recognized:
+hostname:localhost
+servicedesc:SSH
+output:connect to address 127.0.0.1 and port 22: Connection refused
+perfdata:
+Sun Feb 15 19:58:48 2015 insert.pl 30650 warn output/perfdata not recognized:
+hostname:localhost
+servicedesc:SSH
+output:connect to address 127.0.0.1 and port 22: Connection refused
+perfdata:
+Sun Feb 15 20:03:40 2015 insert.pl 30887 warn output/perfdata not recognized:
+hostname:localhost
+servicedesc:SSH
+output:connect to address 127.0.0.1 and port 22: Connection refused
+perfdata:
+Sun Feb 15 20:08:40 2015 insert.pl 30982 warn output/perfdata not recognized:
+hostname:localhost
+servicedesc:SSH
+output:connect to address 127.0.0.1 and port 22: Connection refused
+perfdata:
+Sun Feb 15 20:13:40 2015 insert.pl 31073 warn output/perfdata not recognized:
+hostname:localhost
+servicedesc:SSH
+output:connect to address 127.0.0.1 and port 22: Connection refused
+perfdata:
+Sun Feb 15 20:18:40 2015 insert.pl 31159 warn output/perfdata not recognized:
+hostname:localhost
+servicedesc:SSH
+output:connect to address 127.0.0.1 and port 22: Connection refused
+perfdata:
+Sun Feb 15 20:23:40 2015 insert.pl 31321 warn output/perfdata not recognized:
+hostname:localhost
+servicedesc:SSH
+output:connect to address 127.0.0.1 and port 22: Connection refused
+perfdata:
+Sun Feb 15 20:28:40 2015 insert.pl 31406 warn output/perfdata not recognized:
+hostname:localhost
+servicedesc:SSH
+output:connect to address 127.0.0.1 and port 22: Connection refused
+perfdata:
+Sun Feb 15 20:33:40 2015 insert.pl 31511 warn output/perfdata not recognized:
+hostname:localhost
+servicedesc:SSH
+output:connect to address 127.0.0.1 and port 22: Connection refused
+perfdata:
+Sun Feb 15 20:41:31 2015 insert.pl 31821 warn output/perfdata not recognized:
+hostname:localhost
+servicedesc:SSH
+output:connect to address 127.0.0.1 and port 22: Connection refused
+perfdata:
+Sun Feb 15 20:46:31 2015 insert.pl 31903 warn output/perfdata not recognized:
+hostname:localhost
+servicedesc:SSH
+output:connect to address 127.0.0.1 and port 22: Connection refused
+perfdata:
+Sun Feb 15 20:51:31 2015 insert.pl 31983 warn output/perfdata not recognized:
+hostname:localhost
+servicedesc:SSH
+output:connect to address 127.0.0.1 and port 22: Connection refused
+perfdata:
+Sun Feb 15 20:56:31 2015 insert.pl 32067 warn output/perfdata not recognized:
+hostname:localhost
+servicedesc:SSH
+output:connect to address 127.0.0.1 and port 22: Connection refused
+perfdata:
+Sun Feb 15 21:01:31 2015 insert.pl 32165 warn output/perfdata not recognized:
+hostname:localhost
+servicedesc:SSH
+output:connect to address 127.0.0.1 and port 22: Connection refused
+perfdata:
+Sun Feb 15 21:06:31 2015 insert.pl 32283 warn output/perfdata not recognized:
+hostname:localhost
+servicedesc:SSH
+output:connect to address 127.0.0.1 and port 22: Connection refused
+perfdata:
+Sun Feb 15 21:11:31 2015 insert.pl 32564 warn output/perfdata not recognized:
+hostname:localhost
+servicedesc:SSH
+output:connect to address 127.0.0.1 and port 22: Connection refused
+perfdata:
+Sun Feb 15 21:16:31 2015 insert.pl 32716 warn output/perfdata not recognized:
+hostname:localhost
+servicedesc:SSH
+output:connect to address 127.0.0.1 and port 22: Connection refused
+perfdata:
+Sun Feb 15 21:21:30 2015 insert.pl 460 warn output/perfdata not recognized:
+hostname:localhost
+servicedesc:SSH
+output:connect to address 127.0.0.1 and port 22: Connection refused
+perfdata:
+Sun Feb 15 21:26:30 2015 insert.pl 549 warn output/perfdata not recognized:
+hostname:localhost
+servicedesc:SSH
+output:connect to address 127.0.0.1 and port 22: Connection refused
+perfdata:
+Sun Feb 15 21:31:30 2015 insert.pl 660 warn output/perfdata not recognized:
+hostname:localhost
+servicedesc:SSH
+output:connect to address 127.0.0.1 and port 22: Connection refused
+perfdata:
+Sun Feb 15 21:36:30 2015 insert.pl 759 warn output/perfdata not recognized:
+hostname:localhost
+servicedesc:SSH
+output:connect to address 127.0.0.1 and port 22: Connection refused
+perfdata:
+Sun Feb 15 21:41:30 2015 insert.pl 907 warn output/perfdata not recognized:
+hostname:localhost
+servicedesc:SSH
+output:connect to address 127.0.0.1 and port 22: Connection refused
+perfdata:
+Sun Feb 15 21:46:30 2015 insert.pl 1025 warn output/perfdata not recognized:
+hostname:localhost
+servicedesc:SSH
+output:connect to address 127.0.0.1 and port 22: Connection refused
+perfdata:
+Sun Feb 15 21:51:30 2015 insert.pl 1109 warn output/perfdata not recognized:
+hostname:localhost
+servicedesc:SSH
+output:connect to address 127.0.0.1 and port 22: Connection refused
+perfdata:
+Sun Feb 15 21:56:30 2015 insert.pl 1202 warn output/perfdata not recognized:
+hostname:localhost
+servicedesc:SSH
+output:connect to address 127.0.0.1 and port 22: Connection refused
+perfdata:
+Sun Feb 15 22:01:30 2015 insert.pl 1306 warn output/perfdata not recognized:
+hostname:localhost
+servicedesc:SSH
+output:connect to address 127.0.0.1 and port 22: Connection refused
+perfdata:
+Sun Feb 15 22:06:30 2015 insert.pl 1388 warn output/perfdata not recognized:
+hostname:localhost
+servicedesc:SSH
+output:connect to address 127.0.0.1 and port 22: Connection refused
+perfdata:
+Sun Feb 15 22:11:30 2015 insert.pl 1520 warn output/perfdata not recognized:
+hostname:localhost
+servicedesc:SSH
+output:connect to address 127.0.0.1 and port 22: Connection refused
+perfdata:
+Sun Feb 15 22:16:30 2015 insert.pl 1633 warn output/perfdata not recognized:
+hostname:localhost
+servicedesc:SSH
+output:connect to address 127.0.0.1 and port 22: Connection refused
+perfdata:
+Sun Feb 15 22:21:30 2015 insert.pl 1773 warn output/perfdata not recognized:
+hostname:localhost
+servicedesc:SSH
+output:connect to address 127.0.0.1 and port 22: Connection refused
+perfdata:
+Sun Feb 15 22:26:43 2015 insert.pl 2086 warn output/perfdata not recognized:
+hostname:localhost
+servicedesc:SSH
+output:connect to address 127.0.0.1 and port 22: Connection refused
+perfdata:
+Sun Feb 15 22:31:37 2015 insert.pl 2375 warn output/perfdata not recognized:
+hostname:localhost
+servicedesc:SSH
+output:connect to address 127.0.0.1 and port 22: Connection refused
+perfdata:
+Sun Feb 15 22:36:37 2015 insert.pl 2460 warn output/perfdata not recognized:
+hostname:localhost
+servicedesc:SSH
+output:connect to address 127.0.0.1 and port 22: Connection refused
+perfdata:
+Sun Feb 15 22:41:37 2015 insert.pl 2579 warn output/perfdata not recognized:
+hostname:localhost
+servicedesc:SSH
+output:connect to address 127.0.0.1 and port 22: Connection refused
+perfdata:
+Sun Feb 22 17:27:17 2015 insert.pl 1194 warn output/perfdata not recognized:
+hostname:localhost
+servicedesc:SSH
+output:connect to address 127.0.0.1 and port 22: Connection refused
+perfdata:
+Sun Feb 22 17:27:17 2015 insert.pl 1194 warn output/perfdata not recognized:
+hostname:localhost
+servicedesc:SSH
+output:connect to address 127.0.0.1 and port 22: Connection refused
+perfdata:
+Sun Feb 22 17:27:17 2015 insert.pl 1194 warn output/perfdata not recognized:
+hostname:localhost
+servicedesc:SSH
+output:connect to address 127.0.0.1 and port 22: Connection refused
+perfdata:
+Sun Feb 22 17:27:17 2015 insert.pl 1194 warn output/perfdata not recognized:
+hostname:localhost
+servicedesc:SSH
+output:connect to address 127.0.0.1 and port 22: Connection refused
+perfdata:
+Sun Feb 22 17:27:17 2015 insert.pl 1194 warn output/perfdata not recognized:
+hostname:localhost
+servicedesc:SSH
+output:connect to address 127.0.0.1 and port 22: Connection refused
+perfdata:
+Sun Feb 22 17:27:17 2015 insert.pl 1194 warn output/perfdata not recognized:
+hostname:localhost
+servicedesc:SSH
+output:connect to address 127.0.0.1 and port 22: Connection refused
+perfdata:
+Sun Feb 22 17:27:17 2015 insert.pl 1194 warn output/perfdata not recognized:
+hostname:localhost
+servicedesc:SSH
+output:connect to address 127.0.0.1 and port 22: Connection refused
+perfdata:
+Sun Feb 22 17:27:17 2015 insert.pl 1194 warn output/perfdata not recognized:
+hostname:localhost
+servicedesc:SSH
+output:connect to address 127.0.0.1 and port 22: Connection refused
+perfdata:
+Sun Feb 22 17:27:17 2015 insert.pl 1194 warn output/perfdata not recognized:
+hostname:localhost
+servicedesc:SSH
+output:connect to address 127.0.0.1 and port 22: Connection refused
+perfdata:
+Sun Feb 22 17:27:17 2015 insert.pl 1194 warn output/perfdata not recognized:
+hostname:localhost
+servicedesc:SSH
+output:connect to address 127.0.0.1 and port 22: Connection refused
+perfdata:
+Sun Feb 22 17:27:17 2015 insert.pl 1194 warn output/perfdata not recognized:
+hostname:localhost
+servicedesc:SSH
+output:connect to address 127.0.0.1 and port 22: Connection refused
+perfdata:
+Sun Feb 22 17:27:17 2015 insert.pl 1194 warn output/perfdata not recognized:
+hostname:localhost
+servicedesc:SSH
+output:connect to address 127.0.0.1 and port 22: Connection refused
+perfdata:
+Sun Feb 22 17:27:17 2015 insert.pl 1194 warn output/perfdata not recognized:
+hostname:localhost
+servicedesc:SSH
+output:connect to address 127.0.0.1 and port 22: Connection refused
+perfdata:
+Sun Feb 22 17:27:17 2015 insert.pl 1194 warn output/perfdata not recognized:
+hostname:localhost
+servicedesc:SSH
+output:connect to address 127.0.0.1 and port 22: Connection refused
+perfdata:
+Sun Feb 22 17:27:17 2015 insert.pl 1194 warn output/perfdata not recognized:
+hostname:localhost
+servicedesc:SSH
+output:connect to address 127.0.0.1 and port 22: Connection refused
+perfdata:
+Sun Feb 22 17:27:17 2015 insert.pl 1194 warn output/perfdata not recognized:
+hostname:localhost
+servicedesc:SSH
+output:connect to address 127.0.0.1 and port 22: Connection refused
+perfdata:
+Sun Feb 22 17:27:17 2015 insert.pl 1194 warn output/perfdata not recognized:
+hostname:localhost
+servicedesc:SSH
+output:connect to address 127.0.0.1 and port 22: Connection refused
+perfdata:
+Sun Feb 22 17:27:17 2015 insert.pl 1194 warn output/perfdata not recognized:
+hostname:localhost
+servicedesc:SSH
+output:connect to address 127.0.0.1 and port 22: Connection refused
+perfdata:
+Sun Feb 22 17:27:17 2015 insert.pl 1194 warn output/perfdata not recognized:
+hostname:localhost
+servicedesc:SSH
+output:connect to address 127.0.0.1 and port 22: Connection refused
+perfdata:
+Sun Feb 22 17:27:17 2015 insert.pl 1194 warn output/perfdata not recognized:
+hostname:localhost
+servicedesc:SSH
+output:connect to address 127.0.0.1 and port 22: Connection refused
+perfdata:
+Sun Feb 22 17:27:17 2015 insert.pl 1194 warn output/perfdata not recognized:
+hostname:localhost
+servicedesc:SSH
+output:connect to address 127.0.0.1 and port 22: Connection refused
+perfdata:
+Sun Feb 22 17:27:17 2015 insert.pl 1194 warn output/perfdata not recognized:
+hostname:localhost
+servicedesc:SSH
+output:connect to address 127.0.0.1 and port 22: Connection refused
+perfdata:
+Sun Feb 22 17:27:17 2015 insert.pl 1194 warn output/perfdata not recognized:
+hostname:localhost
+servicedesc:SSH
+output:connect to address 127.0.0.1 and port 22: Connection refused
+perfdata:
+Sun Feb 22 17:27:17 2015 insert.pl 1194 warn output/perfdata not recognized:
+hostname:localhost
+servicedesc:SSH
+output:connect to address 127.0.0.1 and port 22: Connection refused
+perfdata:
+Sun Feb 22 17:27:17 2015 insert.pl 1194 warn output/perfdata not recognized:
+hostname:localhost
+servicedesc:SSH
+output:connect to address 127.0.0.1 and port 22: Connection refused
+perfdata:
+Sun Feb 22 17:27:17 2015 insert.pl 1194 warn output/perfdata not recognized:
+hostname:localhost
+servicedesc:SSH
+output:connect to address 127.0.0.1 and port 22: Connection refused
+perfdata:
+Sun Feb 22 17:27:17 2015 insert.pl 1194 warn output/perfdata not recognized:
+hostname:localhost
+servicedesc:SSH
+output:connect to address 127.0.0.1 and port 22: Connection refused
+perfdata:
+Sun Feb 22 17:27:17 2015 insert.pl 1194 warn output/perfdata not recognized:
+hostname:localhost
+servicedesc:SSH
+output:connect to address 127.0.0.1 and port 22: Connection refused
+perfdata:
+Sun Feb 22 17:27:17 2015 insert.pl 1194 warn output/perfdata not recognized:
+hostname:localhost
+servicedesc:SSH
+output:connect to address 127.0.0.1 and port 22: Connection refused
+perfdata:
+Sun Feb 22 17:27:17 2015 insert.pl 1194 warn output/perfdata not recognized:
+hostname:localhost
+servicedesc:SSH
+output:connect to address 127.0.0.1 and port 22: Connection refused
+perfdata:
+Sun Feb 22 17:27:17 2015 insert.pl 1194 warn output/perfdata not recognized:
+hostname:localhost
+servicedesc:SSH
+output:connect to address 127.0.0.1 and port 22: Connection refused
+perfdata:
+Sun Feb 22 17:27:17 2015 insert.pl 1194 warn output/perfdata not recognized:
+hostname:localhost
+servicedesc:SSH
+output:connect to address 127.0.0.1 and port 22: Connection refused
+perfdata:
+Sun Feb 22 17:27:17 2015 insert.pl 1194 warn output/perfdata not recognized:
+hostname:localhost
+servicedesc:SSH
+output:connect to address 127.0.0.1 and port 22: Connection refused
+perfdata:
+Sun Feb 22 17:27:17 2015 insert.pl 1194 warn output/perfdata not recognized:
+hostname:localhost
+servicedesc:SSH
+output:connect to address 127.0.0.1 and port 22: Connection refused
+perfdata:
+Sun Feb 22 17:27:17 2015 insert.pl 1194 warn output/perfdata not recognized:
+hostname:localhost
+servicedesc:SSH
+output:connect to address 127.0.0.1 and port 22: Connection refused
+perfdata:
+Sun Feb 22 17:27:17 2015 insert.pl 1194 warn output/perfdata not recognized:
+hostname:localhost
+servicedesc:SSH
+output:connect to address 127.0.0.1 and port 22: Connection refused
+perfdata:
+Sun Feb 22 17:27:17 2015 insert.pl 1194 warn output/perfdata not recognized:
+hostname:localhost
+servicedesc:SSH
+output:connect to address 127.0.0.1 and port 22: Connection refused
+perfdata:
+Sun Feb 22 17:27:17 2015 insert.pl 1194 warn output/perfdata not recognized:
+hostname:localhost
+servicedesc:SSH
+output:connect to address 127.0.0.1 and port 22: Connection refused
+perfdata:
+Sun Feb 22 17:27:17 2015 insert.pl 1194 warn output/perfdata not recognized:
+hostname:localhost
+servicedesc:SSH
+output:connect to address 127.0.0.1 and port 22: Connection refused
+perfdata:
+Sun Feb 22 17:27:17 2015 insert.pl 1194 warn output/perfdata not recognized:
+hostname:localhost
+servicedesc:SSH
+output:connect to address 127.0.0.1 and port 22: Connection refused
+perfdata:
+Sun Feb 22 17:27:17 2015 insert.pl 1194 warn output/perfdata not recognized:
+hostname:localhost
+servicedesc:SSH
+output:connect to address 127.0.0.1 and port 22: Connection refused
+perfdata:
+Sun Feb 22 17:27:17 2015 insert.pl 1194 warn output/perfdata not recognized:
+hostname:localhost
+servicedesc:SSH
+output:connect to address 127.0.0.1 and port 22: Connection refused
+perfdata:
+Sun Feb 22 17:27:17 2015 insert.pl 1194 warn output/perfdata not recognized:
+hostname:localhost
+servicedesc:SSH
+output:connect to address 127.0.0.1 and port 22: Connection refused
+perfdata:
+Sun Feb 22 17:27:17 2015 insert.pl 1194 warn output/perfdata not recognized:
+hostname:localhost
+servicedesc:SSH
+output:connect to address 127.0.0.1 and port 22: Connection refused
+perfdata:
+Sun Feb 22 17:27:17 2015 insert.pl 1194 warn output/perfdata not recognized:
+hostname:localhost
+servicedesc:SSH
+output:connect to address 127.0.0.1 and port 22: Connection refused
+perfdata:
+Sun Feb 22 17:27:17 2015 insert.pl 1194 warn output/perfdata not recognized:
+hostname:localhost
+servicedesc:SSH
+output:connect to address 127.0.0.1 and port 22: Connection refused
+perfdata:
+Sun Feb 22 17:27:17 2015 insert.pl 1194 warn output/perfdata not recognized:
+hostname:localhost
+servicedesc:SSH
+output:connect to address 127.0.0.1 and port 22: Connection refused
+perfdata:
+Sun Feb 22 17:27:17 2015 insert.pl 1194 warn output/perfdata not recognized:
+hostname:localhost
+servicedesc:SSH
+output:connect to address 127.0.0.1 and port 22: Connection refused
+perfdata:
+Sun Feb 22 17:27:17 2015 insert.pl 1194 warn output/perfdata not recognized:
+hostname:localhost
+servicedesc:SSH
+output:connect to address 127.0.0.1 and port 22: Connection refused
+perfdata:
+Sun Feb 22 17:27:17 2015 insert.pl 1194 warn output/perfdata not recognized:
+hostname:localhost
+servicedesc:SSH
+output:connect to address 127.0.0.1 and port 22: Connection refused
+perfdata:
+Sun Feb 22 17:27:17 2015 insert.pl 1194 warn output/perfdata not recognized:
+hostname:localhost
+servicedesc:SSH
+output:connect to address 127.0.0.1 and port 22: Connection refused
+perfdata:
+Sun Feb 22 17:27:17 2015 insert.pl 1194 warn output/perfdata not recognized:
+hostname:localhost
+servicedesc:SSH
+output:connect to address 127.0.0.1 and port 22: Connection refused
+perfdata:
+Sun Feb 22 17:27:17 2015 insert.pl 1194 warn output/perfdata not recognized:
+hostname:localhost
+servicedesc:SSH
+output:connect to address 127.0.0.1 and port 22: Connection refused
+perfdata:
+Sun Feb 22 17:27:17 2015 insert.pl 1194 warn output/perfdata not recognized:
+hostname:localhost
+servicedesc:SSH
+output:connect to address 127.0.0.1 and port 22: Connection refused
+perfdata:
+Sun Feb 22 17:27:17 2015 insert.pl 1194 warn output/perfdata not recognized:
+hostname:localhost
+servicedesc:SSH
+output:connect to address 127.0.0.1 and port 22: Connection refused
+perfdata:
+Sun Feb 22 17:27:17 2015 insert.pl 1194 warn output/perfdata not recognized:
+hostname:localhost
+servicedesc:SSH
+output:connect to address 127.0.0.1 and port 22: Connection refused
+perfdata:
+Sun Feb 22 17:27:17 2015 insert.pl 1194 warn output/perfdata not recognized:
+hostname:localhost
+servicedesc:SSH
+output:connect to address 127.0.0.1 and port 22: Connection refused
+perfdata:
+Sun Feb 22 17:27:17 2015 insert.pl 1194 warn output/perfdata not recognized:
+hostname:localhost
+servicedesc:SSH
+output:connect to address 127.0.0.1 and port 22: Connection refused
+perfdata:
+Sun Feb 22 17:27:17 2015 insert.pl 1194 warn output/perfdata not recognized:
+hostname:localhost
+servicedesc:SSH
+output:connect to address 127.0.0.1 and port 22: Connection refused
+perfdata:
+Sun Feb 22 17:27:17 2015 insert.pl 1194 warn output/perfdata not recognized:
+hostname:localhost
+servicedesc:SSH
+output:connect to address 127.0.0.1 and port 22: Connection refused
+perfdata:
+Sun Feb 22 17:27:17 2015 insert.pl 1194 warn output/perfdata not recognized:
+hostname:localhost
+servicedesc:SSH
+output:connect to address 127.0.0.1 and port 22: Connection refused
+perfdata:
+Sun Feb 22 17:27:17 2015 insert.pl 1194 warn output/perfdata not recognized:
+hostname:localhost
+servicedesc:SSH
+output:connect to address 127.0.0.1 and port 22: Connection refused
+perfdata:
+Sun Feb 22 17:27:17 2015 insert.pl 1194 warn output/perfdata not recognized:
+hostname:localhost
+servicedesc:SSH
+output:connect to address 127.0.0.1 and port 22: Connection refused
+perfdata:
+Sun Feb 22 17:27:17 2015 insert.pl 1194 warn output/perfdata not recognized:
+hostname:localhost
+servicedesc:SSH
+output:connect to address 127.0.0.1 and port 22: Connection refused
+perfdata:
+Sun Feb 22 17:27:17 2015 insert.pl 1194 warn output/perfdata not recognized:
+hostname:localhost
+servicedesc:SSH
+output:connect to address 127.0.0.1 and port 22: Connection refused
+perfdata:
+Sun Feb 22 17:27:17 2015 insert.pl 1194 warn output/perfdata not recognized:
+hostname:localhost
+servicedesc:SSH
+output:connect to address 127.0.0.1 and port 22: Connection refused
+perfdata:
+Sun Feb 22 17:27:17 2015 insert.pl 1194 warn output/perfdata not recognized:
+hostname:localhost
+servicedesc:SSH
+output:connect to address 127.0.0.1 and port 22: Connection refused
+perfdata:
+Sun Feb 22 17:27:17 2015 insert.pl 1194 warn output/perfdata not recognized:
+hostname:localhost
+servicedesc:SSH
+output:connect to address 127.0.0.1 and port 22: Connection refused
+perfdata:
+Sun Feb 22 17:27:17 2015 insert.pl 1194 warn output/perfdata not recognized:
+hostname:localhost
+servicedesc:SSH
+output:connect to address 127.0.0.1 and port 22: Connection refused
+perfdata:
+Sun Feb 22 17:27:17 2015 insert.pl 1194 warn output/perfdata not recognized:
+hostname:localhost
+servicedesc:SSH
+output:connect to address 127.0.0.1 and port 22: Connection refused
+perfdata:
+Sun Feb 22 17:27:17 2015 insert.pl 1194 warn output/perfdata not recognized:
+hostname:localhost
+servicedesc:SSH
+output:connect to address 127.0.0.1 and port 22: Connection refused
+perfdata:
+Sun Feb 22 17:27:17 2015 insert.pl 1194 warn output/perfdata not recognized:
+hostname:localhost
+servicedesc:SSH
+output:connect to address 127.0.0.1 and port 22: Connection refused
+perfdata:
+Sun Feb 22 17:27:17 2015 insert.pl 1194 warn output/perfdata not recognized:
+hostname:localhost
+servicedesc:SSH
+output:connect to address 127.0.0.1 and port 22: Connection refused
+perfdata:
+Sun Feb 22 17:27:17 2015 insert.pl 1194 warn output/perfdata not recognized:
+hostname:localhost
+servicedesc:SSH
+output:connect to address 127.0.0.1 and port 22: Connection refused
+perfdata:
+Sun Feb 22 17:27:17 2015 insert.pl 1194 warn output/perfdata not recognized:
+hostname:localhost
+servicedesc:SSH
+output:connect to address 127.0.0.1 and port 22: Connection refused
+perfdata:
+Sun Feb 22 17:27:17 2015 insert.pl 1194 warn output/perfdata not recognized:
+hostname:localhost
+servicedesc:SSH
+output:connect to address 127.0.0.1 and port 22: Connection refused
+perfdata:
+Sun Feb 22 17:27:17 2015 insert.pl 1194 warn output/perfdata not recognized:
+hostname:localhost
+servicedesc:SSH
+output:connect to address 127.0.0.1 and port 22: Connection refused
+perfdata:
+Sun Feb 22 17:27:17 2015 insert.pl 1194 warn output/perfdata not recognized:
+hostname:localhost
+servicedesc:SSH
+output:connect to address 127.0.0.1 and port 22: Connection refused
+perfdata:
+Sun Feb 22 17:27:17 2015 insert.pl 1194 warn output/perfdata not recognized:
+hostname:localhost
+servicedesc:SSH
+output:connect to address 127.0.0.1 and port 22: Connection refused
+perfdata:
+Sun Feb 22 17:27:17 2015 insert.pl 1194 warn output/perfdata not recognized:
+hostname:localhost
+servicedesc:SSH
+output:connect to address 127.0.0.1 and port 22: Connection refused
+perfdata:
+Sun Feb 22 17:27:17 2015 insert.pl 1194 warn output/perfdata not recognized:
+hostname:localhost
+servicedesc:SSH
+output:connect to address 127.0.0.1 and port 22: Connection refused
+perfdata:
+Sun Feb 22 17:27:17 2015 insert.pl 1194 warn output/perfdata not recognized:
+hostname:localhost
+servicedesc:SSH
+output:connect to address 127.0.0.1 and port 22: Connection refused
+perfdata:
+Sun Feb 22 17:27:17 2015 insert.pl 1194 warn output/perfdata not recognized:
+hostname:localhost
+servicedesc:SSH
+output:connect to address 127.0.0.1 and port 22: Connection refused
+perfdata:
+Sun Feb 22 17:27:17 2015 insert.pl 1194 warn output/perfdata not recognized:
+hostname:localhost
+servicedesc:SSH
+output:connect to address 127.0.0.1 and port 22: Connection refused
+perfdata:
+Sun Feb 22 17:27:17 2015 insert.pl 1194 warn output/perfdata not recognized:
+hostname:localhost
+servicedesc:SSH
+output:connect to address 127.0.0.1 and port 22: Connection refused
+perfdata:
+Sun Feb 22 17:27:17 2015 insert.pl 1194 warn output/perfdata not recognized:
+hostname:localhost
+servicedesc:SSH
+output:connect to address 127.0.0.1 and port 22: Connection refused
+perfdata:
+Sun Feb 22 17:27:17 2015 insert.pl 1194 warn output/perfdata not recognized:
+hostname:localhost
+servicedesc:SSH
+output:connect to address 127.0.0.1 and port 22: Connection refused
+perfdata:
+Sun Feb 22 17:27:17 2015 insert.pl 1194 warn output/perfdata not recognized:
+hostname:localhost
+servicedesc:SSH
+output:connect to address 127.0.0.1 and port 22: Connection refused
+perfdata:
+Sun Feb 22 17:27:17 2015 insert.pl 1194 warn output/perfdata not recognized:
+hostname:localhost
+servicedesc:SSH
+output:connect to address 127.0.0.1 and port 22: Connection refused
+perfdata:
+Sun Feb 22 17:30:47 2015 insert.pl 1455 warn output/perfdata not recognized:
+hostname:localhost
+servicedesc:SSH
+output:connect to address 127.0.0.1 and port 22: Connection refused
+perfdata:
+Sun Feb 22 17:35:17 2015 insert.pl 1635 warn output/perfdata not recognized:
+hostname:localhost
+servicedesc:SSH
+output:connect to address 127.0.0.1 and port 22: Connection refused
+perfdata:
+Sun Feb 22 17:40:17 2015 insert.pl 1960 warn output/perfdata not recognized:
+hostname:localhost
+servicedesc:SSH
+output:connect to address 127.0.0.1 and port 22: Connection refused
+perfdata:
+Sun Feb 22 17:45:17 2015 insert.pl 2227 warn output/perfdata not recognized:
+hostname:localhost
+servicedesc:SSH
+output:connect to address 127.0.0.1 and port 22: Connection refused
+perfdata:
+Sun Feb 22 17:50:17 2015 insert.pl 2373 warn output/perfdata not recognized:
+hostname:localhost
+servicedesc:SSH
+output:connect to address 127.0.0.1 and port 22: Connection refused
+perfdata:
+Sun Feb 22 17:55:41 2015 insert.pl 2570 warn output/perfdata not recognized:
+hostname:localhost
+servicedesc:SSH
+output:connect to address 127.0.0.1 and port 22: Connection refused
+perfdata:
+Sun Feb 22 18:00:41 2015 insert.pl 2721 warn output/perfdata not recognized:
+hostname:localhost
+servicedesc:SSH
+output:connect to address 127.0.0.1 and port 22: Connection refused
+perfdata:
+Sun Feb 22 18:05:41 2015 insert.pl 2861 warn output/perfdata not recognized:
+hostname:localhost
+servicedesc:SSH
+output:connect to address 127.0.0.1 and port 22: Connection refused
+perfdata:
+Sun Feb 22 18:10:41 2015 insert.pl 3016 warn output/perfdata not recognized:
+hostname:localhost
+servicedesc:SSH
+output:connect to address 127.0.0.1 and port 22: Connection refused
+perfdata:
+Sun Feb 22 18:15:29 2015 insert.pl 3188 warn output/perfdata not recognized:
+hostname:localhost
+servicedesc:SSH
+output:connect to address 127.0.0.1 and port 22: Connection refused
+perfdata:
+Sun Feb 22 18:20:45 2015 insert.pl 3420 warn output/perfdata not recognized:
+hostname:localhost
+servicedesc:SSH
+output:connect to address 127.0.0.1 and port 22: Connection refused
+perfdata:
+Sun Feb 22 18:25:45 2015 insert.pl 3550 warn output/perfdata not recognized:
+hostname:localhost
+servicedesc:SSH
+output:connect to address 127.0.0.1 and port 22: Connection refused
+perfdata:
+Sun Feb 22 18:30:30 2015 insert.pl 3699 warn output/perfdata not recognized:
+hostname:localhost
+servicedesc:SSH
+output:connect to address 127.0.0.1 and port 22: Connection refused
+perfdata:
+Sun Feb 22 18:35:30 2015 insert.pl 3885 warn output/perfdata not recognized:
+hostname:localhost
+servicedesc:SSH
+output:connect to address 127.0.0.1 and port 22: Connection refused
+perfdata:
+Sun Feb 22 18:40:30 2015 insert.pl 6857 warn output/perfdata not recognized:
+hostname:localhost
+servicedesc:SSH
+output:connect to address 127.0.0.1 and port 22: Connection refused
+perfdata:
+Sun Feb 22 18:45:30 2015 insert.pl 7018 warn output/perfdata not recognized:
+hostname:localhost
+servicedesc:SSH
+output:connect to address 127.0.0.1 and port 22: Connection refused
+perfdata:
+Sun Feb 22 18:50:30 2015 insert.pl 7536 warn output/perfdata not recognized:
+hostname:localhost
+servicedesc:SSH
+output:connect to address 127.0.0.1 and port 22: Connection refused
+perfdata:
+Sun Feb 22 18:55:30 2015 insert.pl 7699 warn output/perfdata not recognized:
+hostname:localhost
+servicedesc:SSH
+output:connect to address 127.0.0.1 and port 22: Connection refused
+perfdata:
+Sun Feb 22 19:00:37 2015 insert.pl 7902 warn output/perfdata not recognized:
+hostname:localhost
+servicedesc:SSH
+output:connect to address 127.0.0.1 and port 22: Connection refused
+perfdata:
+Sun Feb 22 19:05:37 2015 insert.pl 8050 warn output/perfdata not recognized:
+hostname:localhost
+servicedesc:SSH
+output:connect to address 127.0.0.1 and port 22: Connection refused
+perfdata:
+Sun Feb 22 19:10:26 2015 insert.pl 8465 warn output/perfdata not recognized:
+hostname:localhost
+servicedesc:SSH
+output:connect to address 127.0.0.1 and port 22: Connection refused
+perfdata:
+Sun Feb 22 19:43:45 2015 insert.pl 9435 warn output/perfdata not recognized:
+hostname:localhost
+servicedesc:SSH
+output:connect to address 127.0.0.1 and port 22: Connection refused
+perfdata:
+Sun Feb 22 19:48:57 2015 insert.pl 9637 warn output/perfdata not recognized:
+hostname:localhost
+servicedesc:SSH
+output:connect to address 127.0.0.1 and port 22: Connection refused
+perfdata:
+Sun Feb 22 19:48:57 2015 insert.pl 9637 warn output/perfdata not recognized:
+hostname:myubuntu
+servicedesc:FTP Monitoring
+output:(No output on stdout) stderr: Could not resolve hostname -c: Name or service not known
+perfdata:
+Sun Feb 22 19:48:57 2015 insert.pl 9637 warn output/perfdata not recognized:
+hostname:myubuntu
+servicedesc:Total Processes
+output:(No output on stdout) stderr: Could not resolve hostname -c: Name or service not known
+perfdata:
+Sun Feb 22 19:50:57 2015 insert.pl 9720 warn output/perfdata not recognized:
+hostname:myubuntu
+servicedesc:Total Processes
+output:(No output on stdout) stderr: Could not resolve hostname -c: Name or service not known
+perfdata:
+Sun Feb 22 19:53:27 2015 insert.pl 9791 warn output/perfdata not recognized:
+hostname:localhost
+servicedesc:SSH
+output:connect to address 127.0.0.1 and port 22: Connection refused
+perfdata:
+Sun Feb 22 19:53:27 2015 insert.pl 9791 warn output/perfdata not recognized:
+hostname:myubuntu
+servicedesc:SSH Monitoring
+output:(No output on stdout) stderr: Could not resolve hostname -c: Name or service not known
+perfdata:
+Sun Feb 22 19:56:58 2015 insert.pl 9948 warn output/perfdata not recognized:
+hostname:myubuntu
+servicedesc:CPU Load
+output:(No output on stdout) stderr: Could not resolve hostname -c: Name or service not known
+perfdata:
+Sun Feb 22 19:58:28 2015 insert.pl 9985 warn output/perfdata not recognized:
+hostname:localhost
+servicedesc:SSH
+output:connect to address 127.0.0.1 and port 22: Connection refused
+perfdata:
+Sun Feb 22 19:59:27 2015 insert.pl 10012 warn output/perfdata not recognized:
+hostname:myubuntu
+servicedesc:FTP Monitoring
+output:(No output on stdout) stderr: Could not resolve hostname -c: Name or service not known
+perfdata:
+Sun Feb 22 19:59:27 2015 insert.pl 10012 warn output/perfdata not recognized:
+hostname:myubuntu
+servicedesc:Current Users
+output:(No output on stdout) stderr: Could not resolve hostname -c: Name or service not known
+perfdata:
+Sun Feb 22 20:00:57 2015 insert.pl 10094 warn output/perfdata not recognized:
+hostname:myubuntu
+servicedesc:Total Processes
+output:(No output on stdout) stderr: Could not resolve hostname -c: Name or service not known
+perfdata:
+Sun Feb 22 20:01:27 2015 insert.pl 10106 warn output/perfdata not recognized:
+hostname:myubuntu
+servicedesc:SSH Monitoring
+output:(No output on stdout) stderr: Could not resolve hostname -c: Name or service not known
+perfdata:
+Sun Feb 22 20:03:27 2015 insert.pl 10149 warn output/perfdata not recognized:
+hostname:localhost
+servicedesc:SSH
+output:connect to address 127.0.0.1 and port 22: Connection refused
+perfdata:
+Sun Feb 22 20:06:57 2015 insert.pl 10253 warn output/perfdata not recognized:
+hostname:myubuntu
+servicedesc:CPU Load
+output:(No output on stdout) stderr: Could not resolve hostname -c: Name or service not known
+perfdata:
+Sun Feb 22 20:08:27 2015 insert.pl 10308 warn output/perfdata not recognized:
+hostname:localhost
+servicedesc:SSH
+output:connect to address 127.0.0.1 and port 22: Connection refused
+perfdata:
+Sun Feb 22 20:13:46 2015 insert.pl 10479 warn output/perfdata not recognized:
+hostname:localhost
+servicedesc:SSH
+output:connect to address 127.0.0.1 and port 22: Connection refused
+perfdata:
+Sun Feb 22 20:18:46 2015 insert.pl 10616 warn output/perfdata not recognized:
+hostname:localhost
+servicedesc:SSH
+output:connect to address 127.0.0.1 and port 22: Connection refused
+perfdata:
+Sun Feb 22 20:23:46 2015 insert.pl 10788 warn output/perfdata not recognized:
+hostname:localhost
+servicedesc:SSH
+output:connect to address 127.0.0.1 and port 22: Connection refused
+perfdata:
+Sun Feb 22 20:28:46 2015 insert.pl 10924 warn output/perfdata not recognized:
+hostname:localhost
+servicedesc:SSH
+output:connect to address 127.0.0.1 and port 22: Connection refused
+perfdata:
+Sun Feb 22 20:33:47 2015 insert.pl 11115 warn output/perfdata not recognized:
+hostname:localhost
+servicedesc:SSH
+output:connect to address 127.0.0.1 and port 22: Connection refused
+perfdata:
+Sun Feb 22 20:38:17 2015 insert.pl 11254 warn output/perfdata not recognized:
+hostname:localhost
+servicedesc:SSH
+output:connect to address 127.0.0.1 and port 22: Connection refused
+perfdata:
+Sun Feb 22 20:43:32 2015 insert.pl 11508 warn output/perfdata not recognized:
+hostname:localhost
+servicedesc:SSH
+output:connect to address 127.0.0.1 and port 22: Connection refused
+perfdata:
+Sun Feb 22 20:48:32 2015 insert.pl 11646 warn output/perfdata not recognized:
+hostname:localhost
+servicedesc:SSH
+output:connect to address 127.0.0.1 and port 22: Connection refused
+perfdata:
+Sun Feb 22 20:53:32 2015 insert.pl 11784 warn output/perfdata not recognized:
+hostname:localhost
+servicedesc:SSH
+output:connect to address 127.0.0.1 and port 22: Connection refused
+perfdata:
+Sun Feb 22 20:58:32 2015 insert.pl 11940 warn output/perfdata not recognized:
+hostname:localhost
+servicedesc:SSH
+output:connect to address 127.0.0.1 and port 22: Connection refused
+perfdata:
+Sun Feb 22 21:03:32 2015 insert.pl 12106 warn output/perfdata not recognized:
+hostname:localhost
+servicedesc:SSH
+output:connect to address 127.0.0.1 and port 22: Connection refused
+perfdata:
+Sun Feb 22 21:08:32 2015 insert.pl 12272 warn output/perfdata not recognized:
+hostname:localhost
+servicedesc:SSH
+output:connect to address 127.0.0.1 and port 22: Connection refused
+perfdata:
+Sun Feb 22 21:14:04 2015 insert.pl 12524 warn output/perfdata not recognized:
+hostname:localhost
+servicedesc:SSH
+output:connect to address 127.0.0.1 and port 22: Connection refused
+perfdata:
+Mon Feb 23 20:21:46 2015 insert.pl 13417 warn output/perfdata not recognized:
+hostname:localhost
+servicedesc:SSH
+output:connect to address 127.0.0.1 and port 22: Connection refused
+perfdata:
+Mon Feb 23 20:21:46 2015 insert.pl 13417 warn output/perfdata not recognized:
+hostname:localhost
+servicedesc:SSH
+output:connect to address 127.0.0.1 and port 22: Connection refused
+perfdata:
+Mon Feb 23 20:21:46 2015 insert.pl 13417 warn output/perfdata not recognized:
+hostname:localhost
+servicedesc:SSH
+output:connect to address 127.0.0.1 and port 22: Connection refused
+perfdata:
+Mon Feb 23 20:22:45 2015 insert.pl 13439 warn output/perfdata not recognized:
+hostname:Linux_ubuntu
+servicedesc:Check Load
+output:(No output on stdout) stderr: Could not resolve hostname -c: Name or service not known
+perfdata:
+Mon Feb 23 20:22:45 2015 insert.pl 13439 warn output/perfdata not recognized:
+hostname:localhost
+servicedesc:SSH
+output:connect to address 127.0.0.1 and port 22: Connection refused
+perfdata:
+Mon Feb 23 20:26:45 2015 insert.pl 13583 warn output/perfdata not recognized:
+hostname:Linux_ubuntu
+servicedesc:Check Load
+output:(No output on stdout) stderr: Could not resolve hostname -c: Name or service not known
+perfdata:
+Mon Feb 23 20:27:45 2015 insert.pl 13614 warn output/perfdata not recognized:
+hostname:localhost
+servicedesc:SSH
+output:connect to address 127.0.0.1 and port 22: Connection refused
+perfdata:
+Mon Feb 23 20:30:45 2015 insert.pl 13713 warn output/perfdata not recognized:
+hostname:Linux_ubuntu
+servicedesc:Check Load
+output:(No output on stdout) stderr: Could not resolve hostname -c: Name or service not known
+perfdata:
+Mon Feb 23 20:32:45 2015 insert.pl 13752 warn output/perfdata not recognized:
+hostname:localhost
+servicedesc:SSH
+output:connect to address 127.0.0.1 and port 22: Connection refused
+perfdata:
+Mon Feb 23 20:37:53 2015 insert.pl 13917 warn output/perfdata not recognized:
+hostname:localhost
+servicedesc:SSH
+output:connect to address 127.0.0.1 and port 22: Connection refused
+perfdata:
+Mon Feb 23 20:42:41 2015 insert.pl 14150 warn output/perfdata not recognized:
+hostname:localhost
+servicedesc:SSH
+output:connect to address 127.0.0.1 and port 22: Connection refused
+perfdata:
+Mon Feb 23 20:46:37 2015 insert.pl 14301 warn output/perfdata not recognized:
+hostname:Linux_ubuntu
+servicedesc:Current Users
+output:(No output on stdout) stderr: Could not resolve hostname -c: Name or service not known
+perfdata:
+Mon Feb 23 20:47:37 2015 insert.pl 14322 warn output/perfdata not recognized:
+hostname:localhost
+servicedesc:SSH
+output:connect to address 127.0.0.1 and port 22: Connection refused
+perfdata:
+Mon Feb 23 20:48:37 2015 insert.pl 14344 warn output/perfdata not recognized:
+hostname:Linux_ubuntu
+servicedesc:Current Users
+output:(No output on stdout) stderr: Could not resolve hostname -c: Name or service not known
+perfdata:
+Mon Feb 23 20:49:07 2015 insert.pl 14355 warn output/perfdata not recognized:
+hostname:Linux_ubuntu
+servicedesc:CPU Load
+output:(No output on stdout) stderr: Could not resolve hostname -c: Name or service not known
+perfdata:
+Mon Feb 23 20:50:38 2015 insert.pl 14420 warn output/perfdata not recognized:
+hostname:Linux_ubuntu
+servicedesc:Current Users
+output:(No output on stdout) stderr: Could not resolve hostname -c: Name or service not known
+perfdata:
+Mon Feb 23 20:52:37 2015 insert.pl 14460 warn output/perfdata not recognized:
+hostname:localhost
+servicedesc:SSH
+output:connect to address 127.0.0.1 and port 22: Connection refused
+perfdata:
+Mon Feb 23 20:57:37 2015 insert.pl 14646 warn output/perfdata not recognized:
+hostname:localhost
+servicedesc:SSH
+output:connect to address 127.0.0.1 and port 22: Connection refused
+perfdata:
+Mon Feb 23 21:02:30 2015 insert.pl 14894 warn output/perfdata not recognized:
+hostname:localhost
+servicedesc:SSH
+output:connect to address 127.0.0.1 and port 22: Connection refused
+perfdata:
+Mon Feb 23 21:03:30 2015 insert.pl 14933 warn output/perfdata not recognized:
+hostname:linksys-srw224p
+servicedesc:Port 1 Bandwidth Usage
+output:check_mrtgtraf: Unable to open MRTG log file
+perfdata:MAX> -w <warning_pair> -c <critical_pair> [-e expire_minutes]
+Mon Feb 23 21:05:09 2015 insert.pl 15040 warn output/perfdata not recognized:
+hostname:linksys-srw224p
+servicedesc:Port 1 Link Status
+output:External command error: Timeout: No Response from 10.0.2.15:161.
+perfdata:
+Mon Feb 23 21:05:39 2015 insert.pl 15050 warn output/perfdata not recognized:
+hostname:linksys-srw224p
+servicedesc:Port 1 Bandwidth Usage
+output:check_mrtgtraf: Unable to open MRTG log file
+perfdata:MAX> -w <warning_pair> -c <critical_pair> [-e expire_minutes]
+Mon Feb 23 21:06:39 2015 insert.pl 15086 warn output/perfdata not recognized:
+hostname:linksys-srw224p
+servicedesc:Uptime
+output:External command error: Bad operator (INTEGER): At line 73 in /usr/share/mibs/ietf/SNMPv2-PDU
+perfdata:
+Mon Feb 23 21:07:11 2015 insert.pl 15118 warn output/perfdata not recognized:
+hostname:linksys-srw224p
+servicedesc:Port 1 Link Status
+output:External command error: Error in packet
+perfdata:
+Mon Feb 23 21:07:41 2015 insert.pl 15134 warn output/perfdata not recognized:
+hostname:linksys-srw224p
+servicedesc:Port 1 Bandwidth Usage
+output:check_mrtgtraf: Unable to open MRTG log file
+perfdata:MAX> -w <warning_pair> -c <critical_pair> [-e expire_minutes]
+Mon Feb 23 21:07:41 2015 insert.pl 15134 warn output/perfdata not recognized:
+hostname:localhost
+servicedesc:SSH
+output:connect to address 127.0.0.1 and port 22: Connection refused
+perfdata:
+Mon Feb 23 21:08:13 2015 insert.pl 15151 warn output/perfdata not recognized:
+hostname:linksys-srw224p
+servicedesc:Uptime
+output:SNMP OK - Timeticks: (2809375) 7:48:13.75
+perfdata:
+Mon Feb 23 21:09:12 2015 insert.pl 15186 warn output/perfdata not recognized:
+hostname:linksys-srw224p
+servicedesc:Port 1 Link Status
+output:External command error: Error in packet
+perfdata:
+Mon Feb 23 21:12:41 2015 insert.pl 15429 warn output/perfdata not recognized:
+hostname:localhost
+servicedesc:SSH
+output:connect to address 127.0.0.1 and port 22: Connection refused
+perfdata:
+Mon Feb 23 21:17:40 2015 insert.pl 15732 warn output/perfdata not recognized:
+hostname:linksys-srw224p
+servicedesc:Port 1 Bandwidth Usage
+output:check_mrtgtraf: Unable to open MRTG log file
+perfdata:MAX> -w <warning_pair> -c <critical_pair> [-e expire_minutes]
+Mon Feb 23 21:17:40 2015 insert.pl 15732 warn output/perfdata not recognized:
+hostname:localhost
+servicedesc:SSH
+output:connect to address 127.0.0.1 and port 22: Connection refused
+perfdata:
+Mon Feb 23 21:18:40 2015 insert.pl 15768 warn output/perfdata not recognized:
+hostname:linksys-srw224p
+servicedesc:Uptime
+output:External command error: Bad operator (INTEGER): At line 73 in /usr/share/mibs/ietf/SNMPv2-PDU
+perfdata:
+Mon Feb 23 21:19:10 2015 insert.pl 15784 warn output/perfdata not recognized:
+hostname:linksys-srw224p
+servicedesc:Port 1 Link Status
+output:External command error: Timeout: No Response from 10.0.2.15:161.
+perfdata:
+Mon Feb 23 21:20:40 2015 insert.pl 15882 warn output/perfdata not recognized:
+hostname:linksys-srw224p
+servicedesc:Uptime
+output:External command error: Bad operator (INTEGER): At line 73 in /usr/share/mibs/ietf/SNMPv2-PDU
+perfdata:
+Mon Feb 23 21:22:40 2015 insert.pl 15929 warn output/perfdata not recognized:
+hostname:linksys-srw224p
+servicedesc:Uptime
+output:External command error: Bad operator (INTEGER): At line 73 in /usr/share/mibs/ietf/SNMPv2-PDU
+perfdata:
+Mon Feb 23 21:22:40 2015 insert.pl 15929 warn output/perfdata not recognized:
+hostname:localhost
+servicedesc:SSH
+output:connect to address 127.0.0.1 and port 22: Connection refused
+perfdata:
+Mon Feb 23 21:27:40 2015 insert.pl 16079 warn output/perfdata not recognized:
+hostname:linksys-srw224p
+servicedesc:Port 1 Bandwidth Usage
+output:check_mrtgtraf: Unable to open MRTG log file
+perfdata:MAX> -w <warning_pair> -c <critical_pair> [-e expire_minutes]
+Mon Feb 23 21:27:40 2015 insert.pl 16079 warn output/perfdata not recognized:
+hostname:localhost
+servicedesc:SSH
+output:connect to address 127.0.0.1 and port 22: Connection refused
+perfdata:
+Mon Feb 23 21:29:10 2015 insert.pl 16158 warn output/perfdata not recognized:
+hostname:linksys-srw224p
+servicedesc:Port 1 Link Status
+output:External command error: Timeout: No Response from 10.0.2.15:161.
+perfdata:
+Mon Feb 23 21:32:35 2015 insert.pl 16346 warn output/perfdata not recognized:
+hostname:linksys-srw224p
+servicedesc:Uptime
+output:SNMP OK - Timeticks: (2953039) 8:12:10.39
+perfdata:
+Mon Feb 23 21:37:35 2015 insert.pl 16538 warn output/perfdata not recognized:
+hostname:linksys-srw224p
+servicedesc:Port 1 Bandwidth Usage
+output:check_mrtgtraf: Unable to open MRTG log file
+perfdata:MAX> -w <warning_pair> -c <critical_pair> [-e expire_minutes]
+Mon Feb 23 21:39:05 2015 insert.pl 16600 warn output/perfdata not recognized:
+hostname:linksys-srw224p
+servicedesc:Port 1 Link Status
+output:External command error: Error in packet
+perfdata:
+Mon Feb 23 21:42:35 2015 insert.pl 16841 warn output/perfdata not recognized:
+hostname:linksys-srw224p
+servicedesc:Uptime
+output:SNMP OK - Timeticks: (3013027) 8:22:10.27
+perfdata:
+Mon Feb 23 21:52:35 2015 insert.pl 17108 warn output/perfdata not recognized:
+hostname:linksys-srw224p
+servicedesc:Uptime
+output:SNMP OK - Timeticks: (3072975) 8:32:09.75
+perfdata:
+Mon Feb 23 22:02:35 2015 insert.pl 17414 warn output/perfdata not recognized:
+hostname:linksys-srw224p
+servicedesc:Uptime
+output:SNMP OK - Timeticks: (3133013) 8:42:10.13
+perfdata:
+Mon Feb 23 22:12:35 2015 insert.pl 17717 warn output/perfdata not recognized:
+hostname:linksys-srw224p
+servicedesc:Uptime
+output:SNMP OK - Timeticks: (3192955) 8:52:09.55
+perfdata:
+Mon Feb 23 23:42:08 2015 insert.pl 18424 warn output/perfdata not recognized:
+hostname:linksys-srw224p
+servicedesc:Uptime
+output:SNMP OK - Timeticks: (3252715) 9:02:07.15
+perfdata:
+Mon Feb 23 23:52:08 2015 insert.pl 18699 warn output/perfdata not recognized:
+hostname:linksys-srw224p
+servicedesc:Uptime
+output:SNMP OK - Timeticks: (3312670) 9:12:06.70
+perfdata:
+Tue Feb 24 00:02:08 2015 insert.pl 19008 warn output/perfdata not recognized:
+hostname:linksys-srw224p
+servicedesc:Uptime
+output:SNMP OK - Timeticks: (3372711) 9:22:07.11
+perfdata:
+Tue Feb 24 00:12:08 2015 insert.pl 19577 warn output/perfdata not recognized:
+hostname:linksys-srw224p
+servicedesc:Uptime
+output:SNMP OK - Timeticks: (3432586) 9:32:05.86
+perfdata:
+Tue Feb 24 13:33:50 2015 insert.pl 20334 warn output/perfdata not recognized:
+hostname:linksys-srw224p
+servicedesc:Uptime
+output:SNMP OK - Timeticks: (3493382) 9:42:13.82
+perfdata:
+Tue Feb 24 13:53:33 2015 insert.pl 21049 warn output/perfdata not recognized:
+hostname:localhost
+servicedesc:PING
+output:(Service check timed out after 636.71 seconds)
+perfdata:
+Tue Feb 24 13:54:02 2015 insert.pl 21068 warn output/perfdata not recognized:
+hostname:linksys-srw224p
+servicedesc:Uptime
+output:SNMP OK - Timeticks: (3550858) 9:51:48.58
+perfdata:
+Wed Feb 25 19:59:00 2015 insert.pl 21906 warn output/perfdata not recognized:
+hostname:linksys-srw224p
+servicedesc:Uptime
+output:SNMP OK - Timeticks: (3610605) 10:01:46.05
+perfdata:
+Wed Feb 25 20:01:00 2015 insert.pl 21987 warn output/perfdata not recognized:
+hostname:Linux_ubuntu
+servicedesc:Response Time
+output:connect to address 10.0.2.15 and port 80: Network is unreachable
+perfdata:
+Wed Feb 25 20:01:00 2015 insert.pl 21987 warn output/perfdata not recognized:
+hostname:Linux_ubuntu
+servicedesc:PING
+output:CRITICAL - Network Unreachable (10.0.2.15)
+perfdata:
+Wed Feb 25 20:05:00 2015 insert.pl 22058 warn output/perfdata not recognized:
+hostname:Linux_ubuntu
+servicedesc:Response Time
+output:connect to address 10.0.2.15 and port 80: Network is unreachable
+perfdata:
+Wed Feb 25 20:05:00 2015 insert.pl 22058 warn output/perfdata not recognized:
+hostname:Linux_ubuntu
+servicedesc:PING
+output:CRITICAL - Network Unreachable (10.0.2.15)
+perfdata:
+Wed Feb 25 20:09:00 2015 insert.pl 22177 warn output/perfdata not recognized:
+hostname:Linux_ubuntu
+servicedesc:Response Time
+output:connect to address 10.0.2.15 and port 80: Network is unreachable
+perfdata:
+Wed Feb 25 20:09:00 2015 insert.pl 22177 warn output/perfdata not recognized:
+hostname:Linux_ubuntu
+servicedesc:PING
+output:CRITICAL - Network Unreachable (10.0.2.15)
+perfdata:
+Wed Feb 25 20:09:00 2015 insert.pl 22177 warn output/perfdata not recognized:
+hostname:linksys-srw224p
+servicedesc:Uptime
+output:SNMP OK - Timeticks: (3670818) 10:11:48.18
+perfdata:
+Wed Feb 25 20:13:00 2015 insert.pl 22301 warn output/perfdata not recognized:
+hostname:Linux_ubuntu
+servicedesc:Response Time
+output:connect to address 10.0.2.15 and port 80: Network is unreachable
+perfdata:
+Wed Feb 25 20:13:00 2015 insert.pl 22301 warn output/perfdata not recognized:
+hostname:Linux_ubuntu
+servicedesc:PING
+output:CRITICAL - Network Unreachable (10.0.2.15)
+perfdata:
+Wed Feb 25 20:19:02 2015 insert.pl 8508 warn output/perfdata not recognized:
+hostname:linksys-srw224p
+servicedesc:Uptime
+output:CRITICAL - Plugin timed out while executing system call
+perfdata:
+Wed Feb 25 20:21:04 2015 insert.pl 10063 warn output/perfdata not recognized:
+hostname:linksys-srw224p
+servicedesc:Uptime
+output:CRITICAL - Plugin timed out while executing system call
+perfdata:
+Wed Feb 25 20:23:04 2015 insert.pl 10770 warn output/perfdata not recognized:
+hostname:linksys-srw224p
+servicedesc:Uptime
+output:CRITICAL - Plugin timed out while executing system call
+perfdata:
+Wed Feb 25 20:34:30 2015 insert.pl 23442 warn output/perfdata not recognized:
+hostname:linksys-srw224p
+servicedesc:Uptime
+output:SNMP OK - Timeticks: (3823728) 10:37:17.28
+perfdata:
+Wed Feb 25 20:44:30 2015 insert.pl 31623 warn output/perfdata not recognized:
+hostname:linksys-srw224p
+servicedesc:Uptime
+output:SNMP OK - Timeticks: (3883332) 10:47:13.32
+perfdata:
+Wed Feb 25 20:54:30 2015 insert.pl 2773 warn output/perfdata not recognized:
+hostname:linksys-srw224p
+servicedesc:Uptime
+output:CRITICAL - Plugin timed out while executing system call
+perfdata:
+Wed Feb 25 20:56:31 2015 insert.pl 3240 warn output/perfdata not recognized:
+hostname:linksys-srw224p
+servicedesc:Uptime
+output:SNMP OK - Timeticks: (3955243) 10:59:12.43
+perfdata:
+Wed Feb 25 21:06:30 2015 insert.pl 3704 warn output/perfdata not recognized:
+hostname:linksys-srw224p
+servicedesc:Uptime
+output:SNMP OK - Timeticks: (4015335) 11:09:13.35
+perfdata:
+Wed Feb 25 21:16:30 2015 insert.pl 4155 warn output/perfdata not recognized:
+hostname:linksys-srw224p
+servicedesc:Uptime
+output:SNMP OK - Timeticks: (4075313) 11:19:13.13
+perfdata:
+Wed Feb 25 21:26:30 2015 insert.pl 7963 warn output/perfdata not recognized:
+hostname:linksys-srw224p
+servicedesc:Uptime
+output:SNMP OK - Timeticks: (4135547) 11:29:15.47
+perfdata:
