@@ -1,0 +1,1640 @@
+[1423953010] Nagios 4.0.8 starting... (PID=24978)
+[1423953010] Local time is Sat Feb 14 22:30:10 GMT 2015
+[1423953010] LOG VERSION: 2.0
+[1423953010] qh: Socket '/usr/local/nagios/var/rw/nagios.qh' successfully initialized
+[1423953010] qh: core query handler registered
+[1423953010] nerd: Channel hostchecks registered successfully
+[1423953010] nerd: Channel servicechecks registered successfully
+[1423953010] nerd: Channel opathchecks registered successfully
+[1423953010] nerd: Fully initialized and ready to rock!
+[1423953010] wproc: Successfully registered manager as @wproc with query handler
+[1423953010] wproc: Registry request: name=Core Worker 24981;pid=24981
+[1423953010] wproc: Registry request: name=Core Worker 24983;pid=24983
+[1423953010] wproc: Registry request: name=Core Worker 24980;pid=24980
+[1423953010] wproc: Registry request: name=Core Worker 24982;pid=24982
+[1423953011] Successfully launched command file worker with pid 24984
+[1423953235] SERVICE ALERT: localhost;SSH;CRITICAL;SOFT;1;connect to address 127.0.0.1 and port 22: Connection refused
+[1423953295] SERVICE ALERT: localhost;SSH;CRITICAL;SOFT;2;connect to address 127.0.0.1 and port 22: Connection refused
+[1423953355] SERVICE ALERT: localhost;SSH;CRITICAL;SOFT;3;connect to address 127.0.0.1 and port 22: Connection refused
+[1423953415] SERVICE ALERT: localhost;SSH;CRITICAL;HARD;4;connect to address 127.0.0.1 and port 22: Connection refused
+[1423953789] Caught SIGTERM, shutting down...
+[1423953790] Successfully shutdown... (PID=24978)
+[1423953790] Event broker module 'NERD' deinitialized successfully.
+[1423953790] Nagios 4.0.8 starting... (PID=25104)
+[1423953790] Local time is Sat Feb 14 22:43:10 GMT 2015
+[1423953790] LOG VERSION: 2.0
+[1423953790] qh: Socket '/usr/local/nagios/var/rw/nagios.qh' successfully initialized
+[1423953790] qh: core query handler registered
+[1423953790] nerd: Channel hostchecks registered successfully
+[1423953790] nerd: Channel servicechecks registered successfully
+[1423953790] nerd: Channel opathchecks registered successfully
+[1423953790] nerd: Fully initialized and ready to rock!
+[1423953790] wproc: Successfully registered manager as @wproc with query handler
+[1423953790] wproc: Registry request: name=Core Worker 25105;pid=25105
+[1423953790] wproc: Registry request: name=Core Worker 25108;pid=25108
+[1423953790] wproc: Registry request: name=Core Worker 25106;pid=25106
+[1423953790] wproc: Registry request: name=Core Worker 25107;pid=25107
+[1423953790] Successfully launched command file worker with pid 25110
+[1423954218] Caught SIGTERM, shutting down...
+[1423954218] Successfully shutdown... (PID=25104)
+[1423954218] Event broker module 'NERD' deinitialized successfully.
+[1423954218] Nagios 4.0.8 starting... (PID=25292)
+[1423954218] Local time is Sat Feb 14 22:50:18 GMT 2015
+[1423954218] LOG VERSION: 2.0
+[1423954218] qh: Socket '/usr/local/nagios/var/rw/nagios.qh' successfully initialized
+[1423954218] qh: core query handler registered
+[1423954218] nerd: Channel hostchecks registered successfully
+[1423954218] nerd: Channel servicechecks registered successfully
+[1423954218] nerd: Channel opathchecks registered successfully
+[1423954218] nerd: Fully initialized and ready to rock!
+[1423954218] wproc: Successfully registered manager as @wproc with query handler
+[1423954219] wproc: Registry request: name=Core Worker 25295;pid=25295
+[1423954219] wproc: Registry request: name=Core Worker 25293;pid=25293
+[1423954219] wproc: Registry request: name=Core Worker 25296;pid=25296
+[1423954219] wproc: Registry request: name=Core Worker 25294;pid=25294
+[1423954219] Successfully launched command file worker with pid 25298
+[1423954480] Caught SIGTERM, shutting down...
+[1423954480] Successfully shutdown... (PID=25292)
+[1423954480] Event broker module 'NERD' deinitialized successfully.
+[1423954480] Nagios 4.0.8 starting... (PID=25412)
+[1423954480] Local time is Sat Feb 14 22:54:40 GMT 2015
+[1423954480] LOG VERSION: 2.0
+[1423954480] qh: Socket '/usr/local/nagios/var/rw/nagios.qh' successfully initialized
+[1423954480] qh: core query handler registered
+[1423954480] nerd: Channel hostchecks registered successfully
+[1423954480] nerd: Channel servicechecks registered successfully
+[1423954480] nerd: Channel opathchecks registered successfully
+[1423954480] nerd: Fully initialized and ready to rock!
+[1423954480] wproc: Successfully registered manager as @wproc with query handler
+[1423954480] wproc: Registry request: name=Core Worker 25413;pid=25413
+[1423954480] wproc: Registry request: name=Core Worker 25415;pid=25415
+[1423954481] wproc: Registry request: name=Core Worker 25416;pid=25416
+[1423954481] wproc: Registry request: name=Core Worker 25414;pid=25414
+[1423954481] Successfully launched command file worker with pid 25418
+[1423955004] Caught SIGTERM, shutting down...
+[1423955004] Successfully shutdown... (PID=25412)
+[1423955004] Event broker module 'NERD' deinitialized successfully.
+[1423955004] Nagios 4.0.8 starting... (PID=25605)
+[1423955004] Local time is Sat Feb 14 23:03:24 GMT 2015
+[1423955004] LOG VERSION: 2.0
+[1423955004] qh: Socket '/usr/local/nagios/var/rw/nagios.qh' successfully initialized
+[1423955004] qh: core query handler registered
+[1423955004] nerd: Channel hostchecks registered successfully
+[1423955004] nerd: Channel servicechecks registered successfully
+[1423955004] nerd: Channel opathchecks registered successfully
+[1423955004] nerd: Fully initialized and ready to rock!
+[1423955004] wproc: Successfully registered manager as @wproc with query handler
+[1423955004] wproc: Registry request: name=Core Worker 25607;pid=25607
+[1423955004] wproc: Registry request: name=Core Worker 25608;pid=25608
+[1423955004] wproc: Registry request: name=Core Worker 25610;pid=25610
+[1423955004] wproc: Registry request: name=Core Worker 25609;pid=25609
+[1423955004] Successfully launched command file worker with pid 25611
+[1423962439] Warning: A system time change of 5450 seconds (0d 1h 30m 50s forwards in time) has been detected.  Compensating...
+[1423963080] Caught SIGTERM, shutting down...
+[1423963080] Successfully shutdown... (PID=25605)
+[1423963080] Event broker module 'NERD' deinitialized successfully.
+[1423963080] Nagios 4.0.8 starting... (PID=27063)
+[1423963080] Local time is Sun Feb 15 01:18:00 GMT 2015
+[1423963080] LOG VERSION: 2.0
+[1423963080] qh: Socket '/usr/local/nagios/var/rw/nagios.qh' successfully initialized
+[1423963080] qh: core query handler registered
+[1423963080] nerd: Channel hostchecks registered successfully
+[1423963080] nerd: Channel servicechecks registered successfully
+[1423963080] nerd: Channel opathchecks registered successfully
+[1423963080] nerd: Fully initialized and ready to rock!
+[1423963080] wproc: Successfully registered manager as @wproc with query handler
+[1423963080] wproc: Registry request: name=Core Worker 27067;pid=27067
+[1423963080] wproc: Registry request: name=Core Worker 27066;pid=27066
+[1423963080] wproc: Registry request: name=Core Worker 27065;pid=27065
+[1423963080] wproc: Registry request: name=Core Worker 27068;pid=27068
+[1423963080] Successfully launched command file worker with pid 27069
+[1423964027] Caught SIGTERM, shutting down...
+[1423964027] Successfully shutdown... (PID=27063)
+[1423964027] Event broker module 'NERD' deinitialized successfully.
+[1423964027] Nagios 4.0.8 starting... (PID=27618)
+[1423964027] Local time is Sun Feb 15 01:33:47 GMT 2015
+[1423964027] LOG VERSION: 2.0
+[1423964027] qh: Socket '/usr/local/nagios/var/rw/nagios.qh' successfully initialized
+[1423964027] qh: core query handler registered
+[1423964027] nerd: Channel hostchecks registered successfully
+[1423964027] nerd: Channel servicechecks registered successfully
+[1423964027] nerd: Channel opathchecks registered successfully
+[1423964027] nerd: Fully initialized and ready to rock!
+[1423964027] wproc: Successfully registered manager as @wproc with query handler
+[1423964027] wproc: Registry request: name=Core Worker 27622;pid=27622
+[1423964027] wproc: Registry request: name=Core Worker 27621;pid=27621
+[1423964027] wproc: Registry request: name=Core Worker 27620;pid=27620
+[1423964027] wproc: Registry request: name=Core Worker 27623;pid=27623
+[1423964027] Successfully launched command file worker with pid 27624
+[1423967250] Caught SIGTERM, shutting down...
+[1423967250] Successfully shutdown... (PID=27618)
+[1423967250] Event broker module 'NERD' deinitialized successfully.
+[1423967251] Nagios 4.0.8 starting... (PID=29196)
+[1423967251] Local time is Sun Feb 15 02:27:31 GMT 2015
+[1423967251] LOG VERSION: 2.0
+[1423967251] qh: Socket '/usr/local/nagios/var/rw/nagios.qh' successfully initialized
+[1423967251] qh: core query handler registered
+[1423967251] nerd: Channel hostchecks registered successfully
+[1423967251] nerd: Channel servicechecks registered successfully
+[1423967251] nerd: Channel opathchecks registered successfully
+[1423967251] nerd: Fully initialized and ready to rock!
+[1423967251] wproc: Successfully registered manager as @wproc with query handler
+[1423967251] wproc: Registry request: name=Core Worker 29199;pid=29199
+[1423967251] wproc: Registry request: name=Core Worker 29200;pid=29200
+[1423967251] wproc: Registry request: name=Core Worker 29201;pid=29201
+[1423967251] wproc: Registry request: name=Core Worker 29198;pid=29198
+[1423967251] Successfully launched command file worker with pid 29202
+[1424025908] Warning: A system time change of 58449 seconds (0d 16h 14m 9s forwards in time) has been detected.  Compensating...
+[1424027864] Warning: A system time change of 1948 seconds (0d 0h 32m 28s forwards in time) has been detected.  Compensating...
+[1424028239] Caught SIGTERM, shutting down...
+[1424028239] Successfully shutdown... (PID=29196)
+[1424028239] Event broker module 'NERD' deinitialized successfully.
+[1424028239] Nagios 4.0.8 starting... (PID=29858)
+[1424028239] Local time is Sun Feb 15 19:23:59 GMT 2015
+[1424028239] LOG VERSION: 2.0
+[1424028239] qh: Socket '/usr/local/nagios/var/rw/nagios.qh' successfully initialized
+[1424028239] qh: core query handler registered
+[1424028239] nerd: Channel hostchecks registered successfully
+[1424028239] nerd: Channel servicechecks registered successfully
+[1424028239] nerd: Channel opathchecks registered successfully
+[1424028239] nerd: Fully initialized and ready to rock!
+[1424028239] wproc: Successfully registered manager as @wproc with query handler
+[1424028239] wproc: Registry request: name=Core Worker 29862;pid=29862
+[1424028239] wproc: Registry request: name=Core Worker 29861;pid=29861
+[1424028239] wproc: Registry request: name=Core Worker 29863;pid=29863
+[1424028239] wproc: Registry request: name=Core Worker 29860;pid=29860
+[1424028239] Warning: Duplicate definition found for command 'process-service-perfdata-for-nagiosgraph' (config file '/usr/local/nagios/etc/objects/commands.cfg', starting on line 252)
+[1424028239] Error: Could not add object property in file '/usr/local/nagios/etc/objects/commands.cfg' on line 253.
+[1424028239] Bailing out due to one or more errors encountered in the configuration files. Run Nagios from the command line with the -v option to verify your config before restarting. (PID=29858)
+[1424028239] Event broker module 'NERD' deinitialized successfully.
+[1424028239] Nagios 4.0.8 starting... (PID=29864)
+[1424028239] Local time is Sun Feb 15 19:23:59 GMT 2015
+[1424028239] LOG VERSION: 2.0
+[1424028239] qh: Socket '/usr/local/nagios/var/rw/nagios.qh' successfully initialized
+[1424028239] qh: core query handler registered
+[1424028239] nerd: Channel hostchecks registered successfully
+[1424028239] nerd: Channel servicechecks registered successfully
+[1424028239] nerd: Channel opathchecks registered successfully
+[1424028239] nerd: Fully initialized and ready to rock!
+[1424028239] wproc: Successfully registered manager as @wproc with query handler
+[1424028239] wproc: Registry request: name=Core Worker 29867;pid=29867
+[1424028239] wproc: Registry request: name=Core Worker 29866;pid=29866
+[1424028239] wproc: Registry request: name=Core Worker 29865;pid=29865
+[1424028239] wproc: Registry request: name=Core Worker 29868;pid=29868
+[1424028239] Warning: Duplicate definition found for command 'process-service-perfdata-for-nagiosgraph' (config file '/usr/local/nagios/etc/objects/commands.cfg', starting on line 252)
+[1424028239] Error: Could not add object property in file '/usr/local/nagios/etc/objects/commands.cfg' on line 253.
+[1424028239] Bailing out due to one or more errors encountered in the configuration files. Run Nagios from the command line with the -v option to verify your config before restarting. (PID=29864)
+[1424028239] Event broker module 'NERD' deinitialized successfully.
+[1424028239] Nagios 4.0.8 starting... (PID=29870)
+[1424028239] Local time is Sun Feb 15 19:23:59 GMT 2015
+[1424028239] LOG VERSION: 2.0
+[1424028239] qh: Socket '/usr/local/nagios/var/rw/nagios.qh' successfully initialized
+[1424028239] qh: core query handler registered
+[1424028239] nerd: Channel hostchecks registered successfully
+[1424028239] nerd: Channel servicechecks registered successfully
+[1424028239] nerd: Channel opathchecks registered successfully
+[1424028239] nerd: Fully initialized and ready to rock!
+[1424028239] wproc: Successfully registered manager as @wproc with query handler
+[1424028239] wproc: Registry request: name=Core Worker 29874;pid=29874
+[1424028239] wproc: Registry request: name=Core Worker 29873;pid=29873
+[1424028239] wproc: Registry request: name=Core Worker 29872;pid=29872
+[1424028239] wproc: Registry request: name=Core Worker 29871;pid=29871
+[1424028239] Warning: Duplicate definition found for command 'process-service-perfdata-for-nagiosgraph' (config file '/usr/local/nagios/etc/objects/commands.cfg', starting on line 252)
+[1424028239] Error: Could not add object property in file '/usr/local/nagios/etc/objects/commands.cfg' on line 253.
+[1424028239] Bailing out due to one or more errors encountered in the configuration files. Run Nagios from the command line with the -v option to verify your config before restarting. (PID=29870)
+[1424028239] Event broker module 'NERD' deinitialized successfully.
+[1424028239] Nagios 4.0.8 starting... (PID=29876)
+[1424028239] Local time is Sun Feb 15 19:23:59 GMT 2015
+[1424028239] LOG VERSION: 2.0
+[1424028239] qh: Socket '/usr/local/nagios/var/rw/nagios.qh' successfully initialized
+[1424028239] qh: core query handler registered
+[1424028239] nerd: Channel hostchecks registered successfully
+[1424028239] nerd: Channel servicechecks registered successfully
+[1424028239] nerd: Channel opathchecks registered successfully
+[1424028239] nerd: Fully initialized and ready to rock!
+[1424028239] wproc: Successfully registered manager as @wproc with query handler
+[1424028239] wproc: Registry request: name=Core Worker 29879;pid=29879
+[1424028239] wproc: Registry request: name=Core Worker 29878;pid=29878
+[1424028239] wproc: Registry request: name=Core Worker 29877;pid=29877
+[1424028239] wproc: Registry request: name=Core Worker 29880;pid=29880
+[1424028239] Warning: Duplicate definition found for command 'process-service-perfdata-for-nagiosgraph' (config file '/usr/local/nagios/etc/objects/commands.cfg', starting on line 252)
+[1424028239] Error: Could not add object property in file '/usr/local/nagios/etc/objects/commands.cfg' on line 253.
+[1424028239] Bailing out due to one or more errors encountered in the configuration files. Run Nagios from the command line with the -v option to verify your config before restarting. (PID=29876)
+[1424028239] Event broker module 'NERD' deinitialized successfully.
+[1424028239] Nagios 4.0.8 starting... (PID=29882)
+[1424028239] Local time is Sun Feb 15 19:23:59 GMT 2015
+[1424028239] LOG VERSION: 2.0
+[1424028239] qh: Socket '/usr/local/nagios/var/rw/nagios.qh' successfully initialized
+[1424028239] qh: core query handler registered
+[1424028239] nerd: Channel hostchecks registered successfully
+[1424028239] nerd: Channel servicechecks registered successfully
+[1424028239] nerd: Channel opathchecks registered successfully
+[1424028239] nerd: Fully initialized and ready to rock!
+[1424028239] wproc: Successfully registered manager as @wproc with query handler
+[1424028239] wproc: Registry request: name=Core Worker 29884;pid=29884
+[1424028239] wproc: Registry request: name=Core Worker 29883;pid=29883
+[1424028239] wproc: Registry request: name=Core Worker 29885;pid=29885
+[1424028239] wproc: Registry request: name=Core Worker 29886;pid=29886
+[1424028239] Warning: Duplicate definition found for command 'process-service-perfdata-for-nagiosgraph' (config file '/usr/local/nagios/etc/objects/commands.cfg', starting on line 252)
+[1424028239] Error: Could not add object property in file '/usr/local/nagios/etc/objects/commands.cfg' on line 253.
+[1424028239] Bailing out due to one or more errors encountered in the configuration files. Run Nagios from the command line with the -v option to verify your config before restarting. (PID=29882)
+[1424028239] Event broker module 'NERD' deinitialized successfully.
+[1424028239] Nagios 4.0.8 starting... (PID=29888)
+[1424028239] Local time is Sun Feb 15 19:23:59 GMT 2015
+[1424028239] LOG VERSION: 2.0
+[1424028239] qh: Socket '/usr/local/nagios/var/rw/nagios.qh' successfully initialized
+[1424028239] qh: core query handler registered
+[1424028239] nerd: Channel hostchecks registered successfully
+[1424028239] nerd: Channel servicechecks registered successfully
+[1424028239] nerd: Channel opathchecks registered successfully
+[1424028239] nerd: Fully initialized and ready to rock!
+[1424028239] wproc: Successfully registered manager as @wproc with query handler
+[1424028239] wproc: Registry request: name=Core Worker 29889;pid=29889
+[1424028239] wproc: Registry request: name=Core Worker 29892;pid=29892
+[1424028239] wproc: Registry request: name=Core Worker 29890;pid=29890
+[1424028239] wproc: Registry request: name=Core Worker 29893;pid=29893
+[1424028239] Warning: Duplicate definition found for command 'process-service-perfdata-for-nagiosgraph' (config file '/usr/local/nagios/etc/objects/commands.cfg', starting on line 252)
+[1424028239] Error: Could not add object property in file '/usr/local/nagios/etc/objects/commands.cfg' on line 253.
+[1424028239] Bailing out due to one or more errors encountered in the configuration files. Run Nagios from the command line with the -v option to verify your config before restarting. (PID=29888)
+[1424028239] Event broker module 'NERD' deinitialized successfully.
+[1424028461] Nagios 4.0.8 starting... (PID=30054)
+[1424028461] Local time is Sun Feb 15 19:27:41 GMT 2015
+[1424028461] LOG VERSION: 2.0
+[1424028461] qh: Socket '/usr/local/nagios/var/rw/nagios.qh' successfully initialized
+[1424028461] qh: core query handler registered
+[1424028461] nerd: Channel hostchecks registered successfully
+[1424028461] nerd: Channel servicechecks registered successfully
+[1424028461] nerd: Channel opathchecks registered successfully
+[1424028461] nerd: Fully initialized and ready to rock!
+[1424028461] wproc: Successfully registered manager as @wproc with query handler
+[1424028461] wproc: Registry request: name=Core Worker 30058;pid=30058
+[1424028461] wproc: Registry request: name=Core Worker 30057;pid=30057
+[1424028461] wproc: Registry request: name=Core Worker 30059;pid=30059
+[1424028461] wproc: Registry request: name=Core Worker 30056;pid=30056
+[1424028461] Warning: Duplicate definition found for command 'process-service-perfdata-for-nagiosgraph' (config file '/usr/local/nagios/etc/objects/commands.cfg', starting on line 252)
+[1424028461] Error: Could not add object property in file '/usr/local/nagios/etc/objects/commands.cfg' on line 253.
+[1424028461] Bailing out due to one or more errors encountered in the configuration files. Run Nagios from the command line with the -v option to verify your config before restarting. (PID=30054)
+[1424028461] Event broker module 'NERD' deinitialized successfully.
+[1424028461] Nagios 4.0.8 starting... (PID=30060)
+[1424028461] Local time is Sun Feb 15 19:27:41 GMT 2015
+[1424028461] LOG VERSION: 2.0
+[1424028461] qh: Socket '/usr/local/nagios/var/rw/nagios.qh' successfully initialized
+[1424028461] qh: core query handler registered
+[1424028461] nerd: Channel hostchecks registered successfully
+[1424028461] nerd: Channel servicechecks registered successfully
+[1424028461] nerd: Channel opathchecks registered successfully
+[1424028461] nerd: Fully initialized and ready to rock!
+[1424028461] wproc: Successfully registered manager as @wproc with query handler
+[1424028461] wproc: Registry request: name=Core Worker 30063;pid=30063
+[1424028461] wproc: Registry request: name=Core Worker 30062;pid=30062
+[1424028461] wproc: Registry request: name=Core Worker 30064;pid=30064
+[1424028461] wproc: Registry request: name=Core Worker 30061;pid=30061
+[1424028461] Warning: Duplicate definition found for command 'process-service-perfdata-for-nagiosgraph' (config file '/usr/local/nagios/etc/objects/commands.cfg', starting on line 252)
+[1424028461] Error: Could not add object property in file '/usr/local/nagios/etc/objects/commands.cfg' on line 253.
+[1424028461] Bailing out due to one or more errors encountered in the configuration files. Run Nagios from the command line with the -v option to verify your config before restarting. (PID=30060)
+[1424028461] Event broker module 'NERD' deinitialized successfully.
+[1424028461] Nagios 4.0.8 starting... (PID=30066)
+[1424028461] Local time is Sun Feb 15 19:27:41 GMT 2015
+[1424028461] LOG VERSION: 2.0
+[1424028461] qh: Socket '/usr/local/nagios/var/rw/nagios.qh' successfully initialized
+[1424028461] qh: core query handler registered
+[1424028461] nerd: Channel hostchecks registered successfully
+[1424028461] nerd: Channel servicechecks registered successfully
+[1424028461] nerd: Channel opathchecks registered successfully
+[1424028461] nerd: Fully initialized and ready to rock!
+[1424028461] wproc: Successfully registered manager as @wproc with query handler
+[1424028461] wproc: Registry request: name=Core Worker 30068;pid=30068
+[1424028461] wproc: Registry request: name=Core Worker 30070;pid=30070
+[1424028461] wproc: Registry request: name=Core Worker 30069;pid=30069
+[1424028461] wproc: Registry request: name=Core Worker 30067;pid=30067
+[1424028461] Warning: Duplicate definition found for command 'process-service-perfdata-for-nagiosgraph' (config file '/usr/local/nagios/etc/objects/commands.cfg', starting on line 252)
+[1424028461] Error: Could not add object property in file '/usr/local/nagios/etc/objects/commands.cfg' on line 253.
+[1424028461] Bailing out due to one or more errors encountered in the configuration files. Run Nagios from the command line with the -v option to verify your config before restarting. (PID=30066)
+[1424028461] Event broker module 'NERD' deinitialized successfully.
+[1424028461] Nagios 4.0.8 starting... (PID=30072)
+[1424028461] Local time is Sun Feb 15 19:27:41 GMT 2015
+[1424028461] LOG VERSION: 2.0
+[1424028461] qh: Socket '/usr/local/nagios/var/rw/nagios.qh' successfully initialized
+[1424028461] qh: core query handler registered
+[1424028461] nerd: Channel hostchecks registered successfully
+[1424028461] nerd: Channel servicechecks registered successfully
+[1424028461] nerd: Channel opathchecks registered successfully
+[1424028461] nerd: Fully initialized and ready to rock!
+[1424028461] wproc: Successfully registered manager as @wproc with query handler
+[1424028461] wproc: Registry request: name=Core Worker 30075;pid=30075
+[1424028461] wproc: Registry request: name=Core Worker 30076;pid=30076
+[1424028461] wproc: Registry request: name=Core Worker 30073;pid=30073
+[1424028461] wproc: Registry request: name=Core Worker 30074;pid=30074
+[1424028461] Warning: Duplicate definition found for command 'process-service-perfdata-for-nagiosgraph' (config file '/usr/local/nagios/etc/objects/commands.cfg', starting on line 252)
+[1424028461] Error: Could not add object property in file '/usr/local/nagios/etc/objects/commands.cfg' on line 253.
+[1424028461] Bailing out due to one or more errors encountered in the configuration files. Run Nagios from the command line with the -v option to verify your config before restarting. (PID=30072)
+[1424028461] Event broker module 'NERD' deinitialized successfully.
+[1424028461] Nagios 4.0.8 starting... (PID=30078)
+[1424028461] Local time is Sun Feb 15 19:27:41 GMT 2015
+[1424028461] LOG VERSION: 2.0
+[1424028461] qh: Socket '/usr/local/nagios/var/rw/nagios.qh' successfully initialized
+[1424028461] qh: core query handler registered
+[1424028461] nerd: Channel hostchecks registered successfully
+[1424028461] nerd: Channel servicechecks registered successfully
+[1424028461] nerd: Channel opathchecks registered successfully
+[1424028461] nerd: Fully initialized and ready to rock!
+[1424028461] wproc: Successfully registered manager as @wproc with query handler
+[1424028461] wproc: Registry request: name=Core Worker 30082;pid=30082
+[1424028461] wproc: Registry request: name=Core Worker 30079;pid=30079
+[1424028461] wproc: Registry request: name=Core Worker 30080;pid=30080
+[1424028461] wproc: Registry request: name=Core Worker 30081;pid=30081
+[1424028461] Warning: Duplicate definition found for command 'process-service-perfdata-for-nagiosgraph' (config file '/usr/local/nagios/etc/objects/commands.cfg', starting on line 252)
+[1424028461] Error: Could not add object property in file '/usr/local/nagios/etc/objects/commands.cfg' on line 253.
+[1424028461] Bailing out due to one or more errors encountered in the configuration files. Run Nagios from the command line with the -v option to verify your config before restarting. (PID=30078)
+[1424028461] Event broker module 'NERD' deinitialized successfully.
+[1424028461] Nagios 4.0.8 starting... (PID=30084)
+[1424028461] Local time is Sun Feb 15 19:27:41 GMT 2015
+[1424028461] LOG VERSION: 2.0
+[1424028461] qh: Socket '/usr/local/nagios/var/rw/nagios.qh' successfully initialized
+[1424028461] qh: core query handler registered
+[1424028461] nerd: Channel hostchecks registered successfully
+[1424028461] nerd: Channel servicechecks registered successfully
+[1424028461] nerd: Channel opathchecks registered successfully
+[1424028461] nerd: Fully initialized and ready to rock!
+[1424028461] wproc: Successfully registered manager as @wproc with query handler
+[1424028461] wproc: Registry request: name=Core Worker 30086;pid=30086
+[1424028461] wproc: Registry request: name=Core Worker 30088;pid=30088
+[1424028461] wproc: Registry request: name=Core Worker 30087;pid=30087
+[1424028461] wproc: Registry request: name=Core Worker 30085;pid=30085
+[1424028461] Warning: Duplicate definition found for command 'process-service-perfdata-for-nagiosgraph' (config file '/usr/local/nagios/etc/objects/commands.cfg', starting on line 252)
+[1424028461] Error: Could not add object property in file '/usr/local/nagios/etc/objects/commands.cfg' on line 253.
+[1424028461] Bailing out due to one or more errors encountered in the configuration files. Run Nagios from the command line with the -v option to verify your config before restarting. (PID=30084)
+[1424028461] Event broker module 'NERD' deinitialized successfully.
+[1424029488] Nagios 4.0.8 starting... (PID=30384)
+[1424029488] Local time is Sun Feb 15 19:44:48 GMT 2015
+[1424029488] LOG VERSION: 2.0
+[1424029488] qh: Socket '/usr/local/nagios/var/rw/nagios.qh' successfully initialized
+[1424029488] qh: core query handler registered
+[1424029488] nerd: Channel hostchecks registered successfully
+[1424029488] nerd: Channel servicechecks registered successfully
+[1424029488] nerd: Channel opathchecks registered successfully
+[1424029488] nerd: Fully initialized and ready to rock!
+[1424029488] wproc: Successfully registered manager as @wproc with query handler
+[1424029488] wproc: Registry request: name=Core Worker 30388;pid=30388
+[1424029488] wproc: Registry request: name=Core Worker 30387;pid=30387
+[1424029488] wproc: Registry request: name=Core Worker 30389;pid=30389
+[1424029488] wproc: Registry request: name=Core Worker 30386;pid=30386
+[1424029488] Successfully launched command file worker with pid 30390
+[1424030530] Caught SIGTERM, shutting down...
+[1424030530] Successfully shutdown... (PID=30384)
+[1424030530] Event broker module 'NERD' deinitialized successfully.
+[1424030530] Nagios 4.0.8 starting... (PID=30791)
+[1424030530] Local time is Sun Feb 15 20:02:10 GMT 2015
+[1424030530] LOG VERSION: 2.0
+[1424030530] qh: Socket '/usr/local/nagios/var/rw/nagios.qh' successfully initialized
+[1424030530] qh: core query handler registered
+[1424030530] nerd: Channel hostchecks registered successfully
+[1424030530] nerd: Channel servicechecks registered successfully
+[1424030530] nerd: Channel opathchecks registered successfully
+[1424030530] nerd: Fully initialized and ready to rock!
+[1424030530] wproc: Successfully registered manager as @wproc with query handler
+[1424030530] wproc: Registry request: name=Core Worker 30794;pid=30794
+[1424030530] wproc: Registry request: name=Core Worker 30795;pid=30795
+[1424030530] wproc: Registry request: name=Core Worker 30796;pid=30796
+[1424030530] wproc: Registry request: name=Core Worker 30793;pid=30793
+[1424030530] Successfully launched command file worker with pid 30797
+[1424032641] Caught SIGTERM, shutting down...
+[1424032641] Successfully shutdown... (PID=30791)
+[1424032641] Event broker module 'NERD' deinitialized successfully.
+[1424032641] Nagios 4.0.8 starting... (PID=31600)
+[1424032641] Local time is Sun Feb 15 20:37:21 GMT 2015
+[1424032641] LOG VERSION: 2.0
+[1424032641] qh: Socket '/usr/local/nagios/var/rw/nagios.qh' successfully initialized
+[1424032641] qh: core query handler registered
+[1424032641] nerd: Channel hostchecks registered successfully
+[1424032641] nerd: Channel servicechecks registered successfully
+[1424032641] nerd: Channel opathchecks registered successfully
+[1424032641] nerd: Fully initialized and ready to rock!
+[1424032641] wproc: Successfully registered manager as @wproc with query handler
+[1424032641] wproc: Registry request: name=Core Worker 31604;pid=31604
+[1424032641] wproc: Registry request: name=Core Worker 31603;pid=31603
+[1424032641] wproc: Registry request: name=Core Worker 31605;pid=31605
+[1424032641] wproc: Registry request: name=Core Worker 31602;pid=31602
+[1424032641] Error: Service has no hosts and/or service_description (config file '/usr/local/nagios/etc/objects/templates.cfg', starting on line 190)
+[1424032641] Bailing out due to one or more errors encountered in the configuration files. Run Nagios from the command line with the -v option to verify your config before restarting. (PID=31600)
+[1424032641] Event broker module 'NERD' deinitialized successfully.
+[1424032641] Nagios 4.0.8 starting... (PID=31606)
+[1424032641] Local time is Sun Feb 15 20:37:21 GMT 2015
+[1424032641] LOG VERSION: 2.0
+[1424032641] qh: Socket '/usr/local/nagios/var/rw/nagios.qh' successfully initialized
+[1424032641] qh: core query handler registered
+[1424032641] nerd: Channel hostchecks registered successfully
+[1424032641] nerd: Channel servicechecks registered successfully
+[1424032641] nerd: Channel opathchecks registered successfully
+[1424032641] nerd: Fully initialized and ready to rock!
+[1424032641] wproc: Successfully registered manager as @wproc with query handler
+[1424032641] wproc: Registry request: name=Core Worker 31610;pid=31610
+[1424032641] wproc: Registry request: name=Core Worker 31608;pid=31608
+[1424032641] wproc: Registry request: name=Core Worker 31611;pid=31611
+[1424032641] wproc: Registry request: name=Core Worker 31609;pid=31609
+[1424032641] Error: Service has no hosts and/or service_description (config file '/usr/local/nagios/etc/objects/templates.cfg', starting on line 190)
+[1424032641] Bailing out due to one or more errors encountered in the configuration files. Run Nagios from the command line with the -v option to verify your config before restarting. (PID=31606)
+[1424032641] Event broker module 'NERD' deinitialized successfully.
+[1424032641] Nagios 4.0.8 starting... (PID=31612)
+[1424032641] Local time is Sun Feb 15 20:37:21 GMT 2015
+[1424032641] LOG VERSION: 2.0
+[1424032641] qh: Socket '/usr/local/nagios/var/rw/nagios.qh' successfully initialized
+[1424032641] qh: core query handler registered
+[1424032641] nerd: Channel hostchecks registered successfully
+[1424032641] nerd: Channel servicechecks registered successfully
+[1424032641] nerd: Channel opathchecks registered successfully
+[1424032641] nerd: Fully initialized and ready to rock!
+[1424032641] wproc: Successfully registered manager as @wproc with query handler
+[1424032641] wproc: Registry request: name=Core Worker 31617;pid=31617
+[1424032641] wproc: Registry request: name=Core Worker 31616;pid=31616
+[1424032641] wproc: Registry request: name=Core Worker 31615;pid=31615
+[1424032641] wproc: Registry request: name=Core Worker 31614;pid=31614
+[1424032641] Error: Service has no hosts and/or service_description (config file '/usr/local/nagios/etc/objects/templates.cfg', starting on line 190)
+[1424032641] Bailing out due to one or more errors encountered in the configuration files. Run Nagios from the command line with the -v option to verify your config before restarting. (PID=31612)
+[1424032641] Event broker module 'NERD' deinitialized successfully.
+[1424032641] Nagios 4.0.8 starting... (PID=31618)
+[1424032641] Local time is Sun Feb 15 20:37:21 GMT 2015
+[1424032641] LOG VERSION: 2.0
+[1424032641] qh: Socket '/usr/local/nagios/var/rw/nagios.qh' successfully initialized
+[1424032641] qh: core query handler registered
+[1424032641] nerd: Channel hostchecks registered successfully
+[1424032641] nerd: Channel servicechecks registered successfully
+[1424032641] nerd: Channel opathchecks registered successfully
+[1424032641] nerd: Fully initialized and ready to rock!
+[1424032641] wproc: Successfully registered manager as @wproc with query handler
+[1424032641] wproc: Registry request: name=Core Worker 31621;pid=31621
+[1424032641] wproc: Registry request: name=Core Worker 31622;pid=31622
+[1424032642] wproc: Registry request: name=Core Worker 31620;pid=31620
+[1424032642] wproc: Registry request: name=Core Worker 31623;pid=31623
+[1424032642] Error: Service has no hosts and/or service_description (config file '/usr/local/nagios/etc/objects/templates.cfg', starting on line 190)
+[1424032642] Bailing out due to one or more errors encountered in the configuration files. Run Nagios from the command line with the -v option to verify your config before restarting. (PID=31618)
+[1424032642] Event broker module 'NERD' deinitialized successfully.
+[1424032642] Nagios 4.0.8 starting... (PID=31624)
+[1424032642] Local time is Sun Feb 15 20:37:22 GMT 2015
+[1424032642] LOG VERSION: 2.0
+[1424032642] qh: Socket '/usr/local/nagios/var/rw/nagios.qh' successfully initialized
+[1424032642] qh: core query handler registered
+[1424032642] nerd: Channel hostchecks registered successfully
+[1424032642] nerd: Channel servicechecks registered successfully
+[1424032642] nerd: Channel opathchecks registered successfully
+[1424032642] nerd: Fully initialized and ready to rock!
+[1424032642] wproc: Successfully registered manager as @wproc with query handler
+[1424032642] wproc: Registry request: name=Core Worker 31628;pid=31628
+[1424032642] wproc: Registry request: name=Core Worker 31629;pid=31629
+[1424032642] wproc: Registry request: name=Core Worker 31627;pid=31627
+[1424032642] wproc: Registry request: name=Core Worker 31626;pid=31626
+[1424032642] Error: Service has no hosts and/or service_description (config file '/usr/local/nagios/etc/objects/templates.cfg', starting on line 190)
+[1424032642] Bailing out due to one or more errors encountered in the configuration files. Run Nagios from the command line with the -v option to verify your config before restarting. (PID=31624)
+[1424032642] Event broker module 'NERD' deinitialized successfully.
+[1424032642] Nagios 4.0.8 starting... (PID=31630)
+[1424032642] Local time is Sun Feb 15 20:37:22 GMT 2015
+[1424032642] LOG VERSION: 2.0
+[1424032642] qh: Socket '/usr/local/nagios/var/rw/nagios.qh' successfully initialized
+[1424032642] qh: core query handler registered
+[1424032642] nerd: Channel hostchecks registered successfully
+[1424032642] nerd: Channel servicechecks registered successfully
+[1424032642] nerd: Channel opathchecks registered successfully
+[1424032642] nerd: Fully initialized and ready to rock!
+[1424032642] wproc: Successfully registered manager as @wproc with query handler
+[1424032642] wproc: Registry request: name=Core Worker 31635;pid=31635
+[1424032642] wproc: Registry request: name=Core Worker 31632;pid=31632
+[1424032642] wproc: Registry request: name=Core Worker 31633;pid=31633
+[1424032642] wproc: Registry request: name=Core Worker 31634;pid=31634
+[1424032642] Error: Service has no hosts and/or service_description (config file '/usr/local/nagios/etc/objects/templates.cfg', starting on line 190)
+[1424032642] Bailing out due to one or more errors encountered in the configuration files. Run Nagios from the command line with the -v option to verify your config before restarting. (PID=31630)
+[1424032642] Event broker module 'NERD' deinitialized successfully.
+[1424032771] Nagios 4.0.8 starting... (PID=31736)
+[1424032771] Local time is Sun Feb 15 20:39:31 GMT 2015
+[1424032771] LOG VERSION: 2.0
+[1424032771] qh: Socket '/usr/local/nagios/var/rw/nagios.qh' successfully initialized
+[1424032771] qh: core query handler registered
+[1424032771] nerd: Channel hostchecks registered successfully
+[1424032771] nerd: Channel servicechecks registered successfully
+[1424032771] nerd: Channel opathchecks registered successfully
+[1424032771] nerd: Fully initialized and ready to rock!
+[1424032771] wproc: Successfully registered manager as @wproc with query handler
+[1424032771] wproc: Registry request: name=Core Worker 31739;pid=31739
+[1424032771] wproc: Registry request: name=Core Worker 31738;pid=31738
+[1424032771] wproc: Registry request: name=Core Worker 31740;pid=31740
+[1424032771] wproc: Registry request: name=Core Worker 31741;pid=31741
+[1424032773] Successfully launched command file worker with pid 31742
+[1424035020] Caught SIGTERM, shutting down...
+[1424035020] Successfully shutdown... (PID=31736)
+[1424035020] Event broker module 'NERD' deinitialized successfully.
+[1424035020] Nagios 4.0.8 starting... (PID=32736)
+[1424035020] Local time is Sun Feb 15 21:17:00 GMT 2015
+[1424035020] LOG VERSION: 2.0
+[1424035020] qh: Socket '/usr/local/nagios/var/rw/nagios.qh' successfully initialized
+[1424035020] qh: core query handler registered
+[1424035020] nerd: Channel hostchecks registered successfully
+[1424035020] nerd: Channel servicechecks registered successfully
+[1424035020] nerd: Channel opathchecks registered successfully
+[1424035020] nerd: Fully initialized and ready to rock!
+[1424035020] wproc: Successfully registered manager as @wproc with query handler
+[1424035020] wproc: Registry request: name=Core Worker 32739;pid=32739
+[1424035020] wproc: Registry request: name=Core Worker 32738;pid=32738
+[1424035020] wproc: Registry request: name=Core Worker 32740;pid=32740
+[1424035020] wproc: Registry request: name=Core Worker 32737;pid=32737
+[1424035020] Successfully launched command file worker with pid 32742
+[1424038620] Auto-save of retention data completed successfully.
+[1424038933] Caught SIGTERM, shutting down...
+[1424038933] Successfully shutdown... (PID=32736)
+[1424038933] Event broker module 'NERD' deinitialized successfully.
+[1424038933] Nagios 4.0.8 starting... (PID=1822)
+[1424038933] Local time is Sun Feb 15 22:22:13 GMT 2015
+[1424038933] LOG VERSION: 2.0
+[1424038933] qh: Socket '/usr/local/nagios/var/rw/nagios.qh' successfully initialized
+[1424038933] qh: core query handler registered
+[1424038933] nerd: Channel hostchecks registered successfully
+[1424038933] nerd: Channel servicechecks registered successfully
+[1424038933] nerd: Channel opathchecks registered successfully
+[1424038933] nerd: Fully initialized and ready to rock!
+[1424038933] wproc: Successfully registered manager as @wproc with query handler
+[1424038933] wproc: Registry request: name=Core Worker 1830;pid=1830
+[1424038933] wproc: Registry request: name=Core Worker 1828;pid=1828
+[1424038933] wproc: Registry request: name=Core Worker 1825;pid=1825
+[1424038933] wproc: Registry request: name=Core Worker 1824;pid=1824
+[1424038933] Successfully launched command file worker with pid 1831
+[1424039317] Caught SIGTERM, shutting down...
+[1424039317] Successfully shutdown... (PID=1822)
+[1424039317] Event broker module 'NERD' deinitialized successfully.
+[1424039317] Nagios 4.0.8 starting... (PID=2226)
+[1424039317] Local time is Sun Feb 15 22:28:37 GMT 2015
+[1424039317] LOG VERSION: 2.0
+[1424039317] qh: Socket '/usr/local/nagios/var/rw/nagios.qh' successfully initialized
+[1424039317] qh: core query handler registered
+[1424039317] nerd: Channel hostchecks registered successfully
+[1424039317] nerd: Channel servicechecks registered successfully
+[1424039317] nerd: Channel opathchecks registered successfully
+[1424039317] nerd: Fully initialized and ready to rock!
+[1424039317] wproc: Successfully registered manager as @wproc with query handler
+[1424039317] wproc: Registry request: name=Core Worker 2229;pid=2229
+[1424039317] wproc: Registry request: name=Core Worker 2230;pid=2230
+[1424039317] wproc: Registry request: name=Core Worker 2232;pid=2232
+[1424039317] wproc: Registry request: name=Core Worker 2228;pid=2228
+[1424039317] Successfully launched command file worker with pid 2233
+[1424111864] Warning: A system time change of 71532 seconds (0d 19h 52m 12s forwards in time) has been detected.  Compensating...
+[1424457765] Warning: A system time change of 345893 seconds (4d 0h 4m 53s forwards in time) has been detected.  Compensating...
+[1424459104] Warning: A system time change of 1270 seconds (0d 0h 21m 10s forwards in time) has been detected.  Compensating...
+[1424461612] Auto-save of retention data completed successfully.
+[1424465212] Auto-save of retention data completed successfully.
+[1424468812] Auto-save of retention data completed successfully.
+[1424472412] Auto-save of retention data completed successfully.
+[1424538447] Warning: A system time change of 63546 seconds (0d 17h 39m 6s forwards in time) has been detected.  Compensating...
+[1424539558] Auto-save of retention data completed successfully.
+[1424543159] Auto-save of retention data completed successfully.
+[1424552096] Warning: A system time change of 6148 seconds (0d 1h 42m 28s forwards in time) has been detected.  Compensating...
+[1424553234] Auto-save of retention data completed successfully.
+[1424553535] SERVICE ALERT: localhost;Current Load;WARNING;SOFT;1;WARNING - load average: 4.53, 4.41, 2.79
+[1424553594] SERVICE ALERT: localhost;Current Load;WARNING;SOFT;2;WARNING - load average: 3.09, 4.04, 2.76
+[1424553654] SERVICE ALERT: localhost;Current Load;OK;SOFT;3;OK - load average: 2.03, 3.60, 2.69
+[1424625655] Warning: A system time change of 70147 seconds (0d 19h 29m 7s forwards in time) has been detected.  Compensating...
+[1424626005] Caught SIGTERM, shutting down...
+[1424626006] Successfully shutdown... (PID=2226)
+[1424626006] Event broker module 'NERD' deinitialized successfully.
+[1424626006] Nagios 4.0.8 starting... (PID=1173)
+[1424626006] Local time is Sun Feb 22 17:26:46 GMT 2015
+[1424626006] LOG VERSION: 2.0
+[1424626006] qh: Socket '/usr/local/nagios/var/rw/nagios.qh' successfully initialized
+[1424626006] qh: core query handler registered
+[1424626006] nerd: Channel hostchecks registered successfully
+[1424626006] nerd: Channel servicechecks registered successfully
+[1424626006] nerd: Channel opathchecks registered successfully
+[1424626006] nerd: Fully initialized and ready to rock!
+[1424626006] wproc: Successfully registered manager as @wproc with query handler
+[1424626006] wproc: Registry request: name=Core Worker 1176;pid=1176
+[1424626006] wproc: Registry request: name=Core Worker 1177;pid=1177
+[1424626006] wproc: Registry request: name=Core Worker 1175;pid=1175
+[1424626006] wproc: Registry request: name=Core Worker 1178;pid=1178
+[1424626007] Successfully launched command file worker with pid 1184
+[1424626216] Caught SIGTERM, shutting down...
+[1424626216] Successfully shutdown... (PID=1173)
+[1424626216] Event broker module 'NERD' deinitialized successfully.
+[1424626216] Nagios 4.0.8 starting... (PID=1325)
+[1424626216] Local time is Sun Feb 22 17:30:16 GMT 2015
+[1424626216] LOG VERSION: 2.0
+[1424626216] qh: Socket '/usr/local/nagios/var/rw/nagios.qh' successfully initialized
+[1424626216] qh: core query handler registered
+[1424626216] nerd: Channel hostchecks registered successfully
+[1424626216] nerd: Channel servicechecks registered successfully
+[1424626216] nerd: Channel opathchecks registered successfully
+[1424626216] nerd: Fully initialized and ready to rock!
+[1424626216] wproc: Successfully registered manager as @wproc with query handler
+[1424626216] wproc: Registry request: name=Core Worker 1329;pid=1329
+[1424626216] wproc: Registry request: name=Core Worker 1328;pid=1328
+[1424626217] wproc: Registry request: name=Core Worker 1330;pid=1330
+[1424626217] wproc: Registry request: name=Core Worker 1327;pid=1327
+[1424626217] Successfully launched command file worker with pid 1331
+[1424627471] Caught SIGTERM, shutting down...
+[1424627471] Successfully shutdown... (PID=1325)
+[1424627471] Event broker module 'NERD' deinitialized successfully.
+[1424627471] Nagios 4.0.8 starting... (PID=2410)
+[1424627471] Local time is Sun Feb 22 17:51:11 GMT 2015
+[1424627471] LOG VERSION: 2.0
+[1424627471] qh: Socket '/usr/local/nagios/var/rw/nagios.qh' successfully initialized
+[1424627471] qh: core query handler registered
+[1424627471] nerd: Channel hostchecks registered successfully
+[1424627471] nerd: Channel servicechecks registered successfully
+[1424627471] nerd: Channel opathchecks registered successfully
+[1424627471] nerd: Fully initialized and ready to rock!
+[1424627471] wproc: Successfully registered manager as @wproc with query handler
+[1424627471] wproc: Registry request: name=Core Worker 2413;pid=2413
+[1424627471] wproc: Registry request: name=Core Worker 2414;pid=2414
+[1424627471] wproc: Registry request: name=Core Worker 2411;pid=2411
+[1424627471] wproc: Registry request: name=Core Worker 2412;pid=2412
+[1424627471] Successfully launched command file worker with pid 2416
+[1424628778] Caught SIGTERM, shutting down...
+[1424628778] Successfully shutdown... (PID=2410)
+[1424628778] Event broker module 'NERD' deinitialized successfully.
+[1424628778] Nagios 4.0.8 starting... (PID=3070)
+[1424628778] Local time is Sun Feb 22 18:12:58 GMT 2015
+[1424628778] LOG VERSION: 2.0
+[1424628778] qh: Socket '/usr/local/nagios/var/rw/nagios.qh' successfully initialized
+[1424628778] qh: core query handler registered
+[1424628778] nerd: Channel hostchecks registered successfully
+[1424628778] nerd: Channel servicechecks registered successfully
+[1424628778] nerd: Channel opathchecks registered successfully
+[1424628778] nerd: Fully initialized and ready to rock!
+[1424628778] wproc: Successfully registered manager as @wproc with query handler
+[1424628779] wproc: Registry request: name=Core Worker 3074;pid=3074
+[1424628779] wproc: Registry request: name=Core Worker 3073;pid=3073
+[1424628779] wproc: Registry request: name=Core Worker 3072;pid=3072
+[1424628779] wproc: Registry request: name=Core Worker 3071;pid=3071
+[1424628779] Successfully launched command file worker with pid 3076
+[1424629215] Caught SIGTERM, shutting down...
+[1424629215] Successfully shutdown... (PID=3070)
+[1424629215] Event broker module 'NERD' deinitialized successfully.
+[1424629215] Nagios 4.0.8 starting... (PID=3394)
+[1424629215] Local time is Sun Feb 22 18:20:15 GMT 2015
+[1424629215] LOG VERSION: 2.0
+[1424629215] qh: Socket '/usr/local/nagios/var/rw/nagios.qh' successfully initialized
+[1424629215] qh: core query handler registered
+[1424629215] nerd: Channel hostchecks registered successfully
+[1424629215] nerd: Channel servicechecks registered successfully
+[1424629215] nerd: Channel opathchecks registered successfully
+[1424629215] nerd: Fully initialized and ready to rock!
+[1424629215] wproc: Successfully registered manager as @wproc with query handler
+[1424629215] wproc: Registry request: name=Core Worker 3398;pid=3398
+[1424629215] wproc: Registry request: name=Core Worker 3399;pid=3399
+[1424629215] wproc: Registry request: name=Core Worker 3396;pid=3396
+[1424629215] wproc: Registry request: name=Core Worker 3397;pid=3397
+[1424629215] Successfully launched command file worker with pid 3400
+[1424629649] Caught SIGTERM, shutting down...
+[1424629649] Successfully shutdown... (PID=3394)
+[1424629649] Event broker module 'NERD' deinitialized successfully.
+[1424629649] Nagios 4.0.8 starting... (PID=3592)
+[1424629649] Local time is Sun Feb 22 18:27:29 GMT 2015
+[1424629649] LOG VERSION: 2.0
+[1424629649] qh: Socket '/usr/local/nagios/var/rw/nagios.qh' successfully initialized
+[1424629649] qh: core query handler registered
+[1424629649] nerd: Channel hostchecks registered successfully
+[1424629649] nerd: Channel servicechecks registered successfully
+[1424629649] nerd: Channel opathchecks registered successfully
+[1424629649] nerd: Fully initialized and ready to rock!
+[1424629649] wproc: Successfully registered manager as @wproc with query handler
+[1424629649] wproc: Registry request: name=Core Worker 3596;pid=3596
+[1424629650] wproc: Registry request: name=Core Worker 3597;pid=3597
+[1424629650] wproc: Registry request: name=Core Worker 3594;pid=3594
+[1424629650] wproc: Registry request: name=Core Worker 3595;pid=3595
+[1424629650] Successfully launched command file worker with pid 3598
+[1424630106] Warning: Service performance data file processing command '/usr/local/nagiosgraph/bin/insert.pl' timed out after 5 seconds
+[1424631547] Caught SIGTERM, shutting down...
+[1424631547] Successfully shutdown... (PID=3592)
+[1424631547] Event broker module 'NERD' deinitialized successfully.
+[1424631547] Nagios 4.0.8 starting... (PID=7796)
+[1424631547] Local time is Sun Feb 22 18:59:07 GMT 2015
+[1424631547] LOG VERSION: 2.0
+[1424631547] qh: Socket '/usr/local/nagios/var/rw/nagios.qh' successfully initialized
+[1424631547] qh: core query handler registered
+[1424631547] nerd: Channel hostchecks registered successfully
+[1424631547] nerd: Channel servicechecks registered successfully
+[1424631547] nerd: Channel opathchecks registered successfully
+[1424631547] nerd: Fully initialized and ready to rock!
+[1424631547] wproc: Successfully registered manager as @wproc with query handler
+[1424631547] wproc: Registry request: name=Core Worker 7800;pid=7800
+[1424631547] wproc: Registry request: name=Core Worker 7798;pid=7798
+[1424631547] wproc: Registry request: name=Core Worker 7801;pid=7801
+[1424631547] wproc: Registry request: name=Core Worker 7799;pid=7799
+[1424631547] Successfully launched command file worker with pid 7802
+[1424632195] Caught SIGTERM, shutting down...
+[1424632195] Successfully shutdown... (PID=7796)
+[1424632195] Event broker module 'NERD' deinitialized successfully.
+[1424632196] Nagios 4.0.8 starting... (PID=8266)
+[1424632196] Local time is Sun Feb 22 19:09:56 GMT 2015
+[1424632196] LOG VERSION: 2.0
+[1424632196] qh: Socket '/usr/local/nagios/var/rw/nagios.qh' successfully initialized
+[1424632196] qh: core query handler registered
+[1424632196] nerd: Channel hostchecks registered successfully
+[1424632196] nerd: Channel servicechecks registered successfully
+[1424632196] nerd: Channel opathchecks registered successfully
+[1424632196] nerd: Fully initialized and ready to rock!
+[1424632196] wproc: Successfully registered manager as @wproc with query handler
+[1424632196] wproc: Registry request: name=Core Worker 8267;pid=8267
+[1424632196] wproc: Registry request: name=Core Worker 8269;pid=8269
+[1424632196] wproc: Registry request: name=Core Worker 8270;pid=8270
+[1424632196] wproc: Registry request: name=Core Worker 8268;pid=8268
+[1424632196] Successfully launched command file worker with pid 8272
+[1424632499] Caught SIGTERM, shutting down...
+[1424632499] Successfully shutdown... (PID=8266)
+[1424632499] Event broker module 'NERD' deinitialized successfully.
+[1424632499] Nagios 4.0.8 starting... (PID=8590)
+[1424632499] Local time is Sun Feb 22 19:14:59 GMT 2015
+[1424632499] LOG VERSION: 2.0
+[1424632499] qh: Socket '/usr/local/nagios/var/rw/nagios.qh' successfully initialized
+[1424632499] qh: core query handler registered
+[1424632499] nerd: Channel hostchecks registered successfully
+[1424632499] nerd: Channel servicechecks registered successfully
+[1424632499] nerd: Channel opathchecks registered successfully
+[1424632499] nerd: Fully initialized and ready to rock!
+[1424632499] wproc: Successfully registered manager as @wproc with query handler
+[1424632499] wproc: Registry request: name=Core Worker 8594;pid=8594
+[1424632499] wproc: Registry request: name=Core Worker 8592;pid=8592
+[1424632499] wproc: Registry request: name=Core Worker 8595;pid=8595
+[1424632499] wproc: Registry request: name=Core Worker 8593;pid=8593
+[1424632499] Warning: Duplicate definition found for hostgroup 'linux-servers' (config file '/usr/local/nagios/etc/objects/linuxhost.cfg', starting on line 45)
+[1424632499] Error: Could not add object property in file '/usr/local/nagios/etc/objects/linuxhost.cfg' on line 46.
+[1424632499] Bailing out due to one or more errors encountered in the configuration files. Run Nagios from the command line with the -v option to verify your config before restarting. (PID=8590)
+[1424632499] Event broker module 'NERD' deinitialized successfully.
+[1424632499] Nagios 4.0.8 starting... (PID=8596)
+[1424632499] Local time is Sun Feb 22 19:14:59 GMT 2015
+[1424632499] LOG VERSION: 2.0
+[1424632499] qh: Socket '/usr/local/nagios/var/rw/nagios.qh' successfully initialized
+[1424632499] qh: core query handler registered
+[1424632499] nerd: Channel hostchecks registered successfully
+[1424632499] nerd: Channel servicechecks registered successfully
+[1424632499] nerd: Channel opathchecks registered successfully
+[1424632499] nerd: Fully initialized and ready to rock!
+[1424632499] wproc: Successfully registered manager as @wproc with query handler
+[1424632499] wproc: Registry request: name=Core Worker 8597;pid=8597
+[1424632499] wproc: Registry request: name=Core Worker 8601;pid=8601
+[1424632499] wproc: Registry request: name=Core Worker 8599;pid=8599
+[1424632499] wproc: Registry request: name=Core Worker 8598;pid=8598
+[1424632499] Warning: Duplicate definition found for hostgroup 'linux-servers' (config file '/usr/local/nagios/etc/objects/linuxhost.cfg', starting on line 45)
+[1424632499] Error: Could not add object property in file '/usr/local/nagios/etc/objects/linuxhost.cfg' on line 46.
+[1424632499] Bailing out due to one or more errors encountered in the configuration files. Run Nagios from the command line with the -v option to verify your config before restarting. (PID=8596)
+[1424632499] Event broker module 'NERD' deinitialized successfully.
+[1424632499] Nagios 4.0.8 starting... (PID=8602)
+[1424632499] Local time is Sun Feb 22 19:14:59 GMT 2015
+[1424632499] LOG VERSION: 2.0
+[1424632499] qh: Socket '/usr/local/nagios/var/rw/nagios.qh' successfully initialized
+[1424632499] qh: core query handler registered
+[1424632499] nerd: Channel hostchecks registered successfully
+[1424632499] nerd: Channel servicechecks registered successfully
+[1424632499] nerd: Channel opathchecks registered successfully
+[1424632499] nerd: Fully initialized and ready to rock!
+[1424632499] wproc: Successfully registered manager as @wproc with query handler
+[1424632499] wproc: Registry request: name=Core Worker 8607;pid=8607
+[1424632499] wproc: Registry request: name=Core Worker 8605;pid=8605
+[1424632499] wproc: Registry request: name=Core Worker 8606;pid=8606
+[1424632499] wproc: Registry request: name=Core Worker 8604;pid=8604
+[1424632499] Warning: Duplicate definition found for hostgroup 'linux-servers' (config file '/usr/local/nagios/etc/objects/linuxhost.cfg', starting on line 45)
+[1424632499] Error: Could not add object property in file '/usr/local/nagios/etc/objects/linuxhost.cfg' on line 46.
+[1424632499] Bailing out due to one or more errors encountered in the configuration files. Run Nagios from the command line with the -v option to verify your config before restarting. (PID=8602)
+[1424632499] Event broker module 'NERD' deinitialized successfully.
+[1424632499] Nagios 4.0.8 starting... (PID=8608)
+[1424632499] Local time is Sun Feb 22 19:14:59 GMT 2015
+[1424632499] LOG VERSION: 2.0
+[1424632499] qh: Socket '/usr/local/nagios/var/rw/nagios.qh' successfully initialized
+[1424632499] qh: core query handler registered
+[1424632499] nerd: Channel hostchecks registered successfully
+[1424632499] nerd: Channel servicechecks registered successfully
+[1424632499] nerd: Channel opathchecks registered successfully
+[1424632499] nerd: Fully initialized and ready to rock!
+[1424632499] wproc: Successfully registered manager as @wproc with query handler
+[1424632499] wproc: Registry request: name=Core Worker 8611;pid=8611
+[1424632499] wproc: Registry request: name=Core Worker 8610;pid=8610
+[1424632499] wproc: Registry request: name=Core Worker 8612;pid=8612
+[1424632499] wproc: Registry request: name=Core Worker 8613;pid=8613
+[1424632499] Warning: Duplicate definition found for hostgroup 'linux-servers' (config file '/usr/local/nagios/etc/objects/linuxhost.cfg', starting on line 45)
+[1424632499] Error: Could not add object property in file '/usr/local/nagios/etc/objects/linuxhost.cfg' on line 46.
+[1424632499] Bailing out due to one or more errors encountered in the configuration files. Run Nagios from the command line with the -v option to verify your config before restarting. (PID=8608)
+[1424632499] Event broker module 'NERD' deinitialized successfully.
+[1424632499] Nagios 4.0.8 starting... (PID=8614)
+[1424632499] Local time is Sun Feb 22 19:14:59 GMT 2015
+[1424632499] LOG VERSION: 2.0
+[1424632499] qh: Socket '/usr/local/nagios/var/rw/nagios.qh' successfully initialized
+[1424632499] qh: core query handler registered
+[1424632499] nerd: Channel hostchecks registered successfully
+[1424632499] nerd: Channel servicechecks registered successfully
+[1424632499] nerd: Channel opathchecks registered successfully
+[1424632499] nerd: Fully initialized and ready to rock!
+[1424632499] wproc: Successfully registered manager as @wproc with query handler
+[1424632499] wproc: Registry request: name=Core Worker 8618;pid=8618
+[1424632499] wproc: Registry request: name=Core Worker 8619;pid=8619
+[1424632499] wproc: Registry request: name=Core Worker 8616;pid=8616
+[1424632499] wproc: Registry request: name=Core Worker 8617;pid=8617
+[1424632499] Warning: Duplicate definition found for hostgroup 'linux-servers' (config file '/usr/local/nagios/etc/objects/linuxhost.cfg', starting on line 45)
+[1424632499] Error: Could not add object property in file '/usr/local/nagios/etc/objects/linuxhost.cfg' on line 46.
+[1424632499] Bailing out due to one or more errors encountered in the configuration files. Run Nagios from the command line with the -v option to verify your config before restarting. (PID=8614)
+[1424632499] Event broker module 'NERD' deinitialized successfully.
+[1424632499] Nagios 4.0.8 starting... (PID=8620)
+[1424632499] Local time is Sun Feb 22 19:14:59 GMT 2015
+[1424632499] LOG VERSION: 2.0
+[1424632499] qh: Socket '/usr/local/nagios/var/rw/nagios.qh' successfully initialized
+[1424632499] qh: core query handler registered
+[1424632499] nerd: Channel hostchecks registered successfully
+[1424632499] nerd: Channel servicechecks registered successfully
+[1424632499] nerd: Channel opathchecks registered successfully
+[1424632499] nerd: Fully initialized and ready to rock!
+[1424632499] wproc: Successfully registered manager as @wproc with query handler
+[1424632500] wproc: Registry request: name=Core Worker 8623;pid=8623
+[1424632500] wproc: Registry request: name=Core Worker 8622;pid=8622
+[1424632500] wproc: Registry request: name=Core Worker 8624;pid=8624
+[1424632500] wproc: Registry request: name=Core Worker 8621;pid=8621
+[1424632500] Warning: Duplicate definition found for hostgroup 'linux-servers' (config file '/usr/local/nagios/etc/objects/linuxhost.cfg', starting on line 45)
+[1424632500] Error: Could not add object property in file '/usr/local/nagios/etc/objects/linuxhost.cfg' on line 46.
+[1424632500] Bailing out due to one or more errors encountered in the configuration files. Run Nagios from the command line with the -v option to verify your config before restarting. (PID=8620)
+[1424632500] Event broker module 'NERD' deinitialized successfully.
+[1424632523] Nagios 4.0.8 starting... (PID=8676)
+[1424632523] Local time is Sun Feb 22 19:15:23 GMT 2015
+[1424632523] LOG VERSION: 2.0
+[1424632523] qh: Socket '/usr/local/nagios/var/rw/nagios.qh' successfully initialized
+[1424632523] qh: core query handler registered
+[1424632523] nerd: Channel hostchecks registered successfully
+[1424632523] nerd: Channel servicechecks registered successfully
+[1424632523] nerd: Channel opathchecks registered successfully
+[1424632523] nerd: Fully initialized and ready to rock!
+[1424632523] wproc: Successfully registered manager as @wproc with query handler
+[1424632523] wproc: Registry request: name=Core Worker 8679;pid=8679
+[1424632523] wproc: Registry request: name=Core Worker 8681;pid=8681
+[1424632523] wproc: Registry request: name=Core Worker 8680;pid=8680
+[1424632523] wproc: Registry request: name=Core Worker 8678;pid=8678
+[1424632523] Warning: Duplicate definition found for hostgroup 'linux-servers' (config file '/usr/local/nagios/etc/objects/linuxhost.cfg', starting on line 45)
+[1424632523] Error: Could not add object property in file '/usr/local/nagios/etc/objects/linuxhost.cfg' on line 46.
+[1424632523] Bailing out due to one or more errors encountered in the configuration files. Run Nagios from the command line with the -v option to verify your config before restarting. (PID=8676)
+[1424632523] Event broker module 'NERD' deinitialized successfully.
+[1424632523] Nagios 4.0.8 starting... (PID=8682)
+[1424632523] Local time is Sun Feb 22 19:15:23 GMT 2015
+[1424632523] LOG VERSION: 2.0
+[1424632523] qh: Socket '/usr/local/nagios/var/rw/nagios.qh' successfully initialized
+[1424632523] qh: core query handler registered
+[1424632523] nerd: Channel hostchecks registered successfully
+[1424632523] nerd: Channel servicechecks registered successfully
+[1424632523] nerd: Channel opathchecks registered successfully
+[1424632523] nerd: Fully initialized and ready to rock!
+[1424632523] wproc: Successfully registered manager as @wproc with query handler
+[1424632523] wproc: Registry request: name=Core Worker 8686;pid=8686
+[1424632523] wproc: Registry request: name=Core Worker 8687;pid=8687
+[1424632523] wproc: Registry request: name=Core Worker 8684;pid=8684
+[1424632523] wproc: Registry request: name=Core Worker 8685;pid=8685
+[1424632523] Warning: Duplicate definition found for hostgroup 'linux-servers' (config file '/usr/local/nagios/etc/objects/linuxhost.cfg', starting on line 45)
+[1424632523] Error: Could not add object property in file '/usr/local/nagios/etc/objects/linuxhost.cfg' on line 46.
+[1424632523] Bailing out due to one or more errors encountered in the configuration files. Run Nagios from the command line with the -v option to verify your config before restarting. (PID=8682)
+[1424632523] Event broker module 'NERD' deinitialized successfully.
+[1424632523] Nagios 4.0.8 starting... (PID=8688)
+[1424632523] Local time is Sun Feb 22 19:15:23 GMT 2015
+[1424632523] LOG VERSION: 2.0
+[1424632523] qh: Socket '/usr/local/nagios/var/rw/nagios.qh' successfully initialized
+[1424632523] qh: core query handler registered
+[1424632523] nerd: Channel hostchecks registered successfully
+[1424632523] nerd: Channel servicechecks registered successfully
+[1424632523] nerd: Channel opathchecks registered successfully
+[1424632523] nerd: Fully initialized and ready to rock!
+[1424632523] wproc: Successfully registered manager as @wproc with query handler
+[1424632523] wproc: Registry request: name=Core Worker 8691;pid=8691
+[1424632523] wproc: Registry request: name=Core Worker 8690;pid=8690
+[1424632523] wproc: Registry request: name=Core Worker 8692;pid=8692
+[1424632523] wproc: Registry request: name=Core Worker 8693;pid=8693
+[1424632523] Warning: Duplicate definition found for hostgroup 'linux-servers' (config file '/usr/local/nagios/etc/objects/linuxhost.cfg', starting on line 45)
+[1424632523] Error: Could not add object property in file '/usr/local/nagios/etc/objects/linuxhost.cfg' on line 46.
+[1424632523] Bailing out due to one or more errors encountered in the configuration files. Run Nagios from the command line with the -v option to verify your config before restarting. (PID=8688)
+[1424632523] Event broker module 'NERD' deinitialized successfully.
+[1424632523] Nagios 4.0.8 starting... (PID=8694)
+[1424632523] Local time is Sun Feb 22 19:15:23 GMT 2015
+[1424632523] LOG VERSION: 2.0
+[1424632523] qh: Socket '/usr/local/nagios/var/rw/nagios.qh' successfully initialized
+[1424632523] qh: core query handler registered
+[1424632523] nerd: Channel hostchecks registered successfully
+[1424632523] nerd: Channel servicechecks registered successfully
+[1424632523] nerd: Channel opathchecks registered successfully
+[1424632523] nerd: Fully initialized and ready to rock!
+[1424632523] wproc: Successfully registered manager as @wproc with query handler
+[1424632523] wproc: Registry request: name=Core Worker 8699;pid=8699
+[1424632523] wproc: Registry request: name=Core Worker 8697;pid=8697
+[1424632523] wproc: Registry request: name=Core Worker 8696;pid=8696
+[1424632523] wproc: Registry request: name=Core Worker 8698;pid=8698
+[1424632523] Warning: Duplicate definition found for hostgroup 'linux-servers' (config file '/usr/local/nagios/etc/objects/linuxhost.cfg', starting on line 45)
+[1424632523] Error: Could not add object property in file '/usr/local/nagios/etc/objects/linuxhost.cfg' on line 46.
+[1424632523] Bailing out due to one or more errors encountered in the configuration files. Run Nagios from the command line with the -v option to verify your config before restarting. (PID=8694)
+[1424632523] Event broker module 'NERD' deinitialized successfully.
+[1424632523] Nagios 4.0.8 starting... (PID=8700)
+[1424632523] Local time is Sun Feb 22 19:15:23 GMT 2015
+[1424632523] LOG VERSION: 2.0
+[1424632523] qh: Socket '/usr/local/nagios/var/rw/nagios.qh' successfully initialized
+[1424632523] qh: core query handler registered
+[1424632523] nerd: Channel hostchecks registered successfully
+[1424632523] nerd: Channel servicechecks registered successfully
+[1424632523] nerd: Channel opathchecks registered successfully
+[1424632523] nerd: Fully initialized and ready to rock!
+[1424632523] wproc: Successfully registered manager as @wproc with query handler
+[1424632523] wproc: Registry request: name=Core Worker 8701;pid=8701
+[1424632523] wproc: Registry request: name=Core Worker 8702;pid=8702
+[1424632523] wproc: Registry request: name=Core Worker 8704;pid=8704
+[1424632523] wproc: Registry request: name=Core Worker 8703;pid=8703
+[1424632523] Warning: Duplicate definition found for hostgroup 'linux-servers' (config file '/usr/local/nagios/etc/objects/linuxhost.cfg', starting on line 45)
+[1424632523] Error: Could not add object property in file '/usr/local/nagios/etc/objects/linuxhost.cfg' on line 46.
+[1424632523] Bailing out due to one or more errors encountered in the configuration files. Run Nagios from the command line with the -v option to verify your config before restarting. (PID=8700)
+[1424632523] Event broker module 'NERD' deinitialized successfully.
+[1424632523] Nagios 4.0.8 starting... (PID=8706)
+[1424632523] Local time is Sun Feb 22 19:15:23 GMT 2015
+[1424632523] LOG VERSION: 2.0
+[1424632523] qh: Socket '/usr/local/nagios/var/rw/nagios.qh' successfully initialized
+[1424632523] qh: core query handler registered
+[1424632523] nerd: Channel hostchecks registered successfully
+[1424632523] nerd: Channel servicechecks registered successfully
+[1424632523] nerd: Channel opathchecks registered successfully
+[1424632523] nerd: Fully initialized and ready to rock!
+[1424632523] wproc: Successfully registered manager as @wproc with query handler
+[1424632523] wproc: Registry request: name=Core Worker 8710;pid=8710
+[1424632523] wproc: Registry request: name=Core Worker 8707;pid=8707
+[1424632523] wproc: Registry request: name=Core Worker 8708;pid=8708
+[1424632523] wproc: Registry request: name=Core Worker 8709;pid=8709
+[1424632523] Warning: Duplicate definition found for hostgroup 'linux-servers' (config file '/usr/local/nagios/etc/objects/linuxhost.cfg', starting on line 45)
+[1424632523] Error: Could not add object property in file '/usr/local/nagios/etc/objects/linuxhost.cfg' on line 46.
+[1424632523] Bailing out due to one or more errors encountered in the configuration files. Run Nagios from the command line with the -v option to verify your config before restarting. (PID=8706)
+[1424632523] Event broker module 'NERD' deinitialized successfully.
+[1424633616] Nagios 4.0.8 starting... (PID=9097)
+[1424633616] Local time is Sun Feb 22 19:33:36 GMT 2015
+[1424633616] LOG VERSION: 2.0
+[1424633616] qh: Socket '/usr/local/nagios/var/rw/nagios.qh' successfully initialized
+[1424633616] qh: core query handler registered
+[1424633616] nerd: Channel hostchecks registered successfully
+[1424633616] nerd: Channel servicechecks registered successfully
+[1424633616] nerd: Channel opathchecks registered successfully
+[1424633616] nerd: Fully initialized and ready to rock!
+[1424633616] wproc: Successfully registered manager as @wproc with query handler
+[1424633616] wproc: Registry request: name=Core Worker 9101;pid=9101
+[1424633616] wproc: Registry request: name=Core Worker 9102;pid=9102
+[1424633616] wproc: Registry request: name=Core Worker 9100;pid=9100
+[1424633616] wproc: Registry request: name=Core Worker 9099;pid=9099
+[1424633616] Error: Could not find any host matching 'tecmint' (config file '/usr/local/nagios/etc/objects/ubuntu.cfg', starting on line 54)
+[1424633616] Error: Failed to expand host list 'tecmint' for service 'FTP Monitoring' (/usr/local/nagios/etc/objects/ubuntu.cfg:54)
+[1424633616] Bailing out due to one or more errors encountered in the configuration files. Run Nagios from the command line with the -v option to verify your config before restarting. (PID=9097)
+[1424633616] Event broker module 'NERD' deinitialized successfully.
+[1424633616] Nagios 4.0.8 starting... (PID=9103)
+[1424633616] Local time is Sun Feb 22 19:33:36 GMT 2015
+[1424633616] LOG VERSION: 2.0
+[1424633616] qh: Socket '/usr/local/nagios/var/rw/nagios.qh' successfully initialized
+[1424633616] qh: core query handler registered
+[1424633616] nerd: Channel hostchecks registered successfully
+[1424633616] nerd: Channel servicechecks registered successfully
+[1424633616] nerd: Channel opathchecks registered successfully
+[1424633616] nerd: Fully initialized and ready to rock!
+[1424633616] wproc: Successfully registered manager as @wproc with query handler
+[1424633616] wproc: Registry request: name=Core Worker 9108;pid=9108
+[1424633616] wproc: Registry request: name=Core Worker 9107;pid=9107
+[1424633616] wproc: Registry request: name=Core Worker 9106;pid=9106
+[1424633616] wproc: Registry request: name=Core Worker 9105;pid=9105
+[1424633616] Error: Could not find any host matching 'tecmint' (config file '/usr/local/nagios/etc/objects/ubuntu.cfg', starting on line 54)
+[1424633616] Error: Failed to expand host list 'tecmint' for service 'FTP Monitoring' (/usr/local/nagios/etc/objects/ubuntu.cfg:54)
+[1424633616] Bailing out due to one or more errors encountered in the configuration files. Run Nagios from the command line with the -v option to verify your config before restarting. (PID=9103)
+[1424633616] Event broker module 'NERD' deinitialized successfully.
+[1424633616] Nagios 4.0.8 starting... (PID=9109)
+[1424633616] Local time is Sun Feb 22 19:33:36 GMT 2015
+[1424633616] LOG VERSION: 2.0
+[1424633616] qh: Socket '/usr/local/nagios/var/rw/nagios.qh' successfully initialized
+[1424633616] qh: core query handler registered
+[1424633616] nerd: Channel hostchecks registered successfully
+[1424633616] nerd: Channel servicechecks registered successfully
+[1424633616] nerd: Channel opathchecks registered successfully
+[1424633616] nerd: Fully initialized and ready to rock!
+[1424633616] wproc: Successfully registered manager as @wproc with query handler
+[1424633616] wproc: Registry request: name=Core Worker 9113;pid=9113
+[1424633616] wproc: Registry request: name=Core Worker 9111;pid=9111
+[1424633616] wproc: Registry request: name=Core Worker 9112;pid=9112
+[1424633616] wproc: Registry request: name=Core Worker 9110;pid=9110
+[1424633616] Error: Could not find any host matching 'tecmint' (config file '/usr/local/nagios/etc/objects/ubuntu.cfg', starting on line 54)
+[1424633616] Error: Failed to expand host list 'tecmint' for service 'FTP Monitoring' (/usr/local/nagios/etc/objects/ubuntu.cfg:54)
+[1424633616] Bailing out due to one or more errors encountered in the configuration files. Run Nagios from the command line with the -v option to verify your config before restarting. (PID=9109)
+[1424633616] Event broker module 'NERD' deinitialized successfully.
+[1424633616] Nagios 4.0.8 starting... (PID=9115)
+[1424633616] Local time is Sun Feb 22 19:33:36 GMT 2015
+[1424633616] LOG VERSION: 2.0
+[1424633616] qh: Socket '/usr/local/nagios/var/rw/nagios.qh' successfully initialized
+[1424633616] qh: core query handler registered
+[1424633616] nerd: Channel hostchecks registered successfully
+[1424633616] nerd: Channel servicechecks registered successfully
+[1424633616] nerd: Channel opathchecks registered successfully
+[1424633616] nerd: Fully initialized and ready to rock!
+[1424633616] wproc: Successfully registered manager as @wproc with query handler
+[1424633616] wproc: Registry request: name=Core Worker 9117;pid=9117
+[1424633616] wproc: Registry request: name=Core Worker 9118;pid=9118
+[1424633616] wproc: Registry request: name=Core Worker 9116;pid=9116
+[1424633616] wproc: Registry request: name=Core Worker 9119;pid=9119
+[1424633616] Error: Could not find any host matching 'tecmint' (config file '/usr/local/nagios/etc/objects/ubuntu.cfg', starting on line 54)
+[1424633616] Error: Failed to expand host list 'tecmint' for service 'FTP Monitoring' (/usr/local/nagios/etc/objects/ubuntu.cfg:54)
+[1424633616] Bailing out due to one or more errors encountered in the configuration files. Run Nagios from the command line with the -v option to verify your config before restarting. (PID=9115)
+[1424633616] Event broker module 'NERD' deinitialized successfully.
+[1424633616] Nagios 4.0.8 starting... (PID=9121)
+[1424633616] Local time is Sun Feb 22 19:33:36 GMT 2015
+[1424633616] LOG VERSION: 2.0
+[1424633616] qh: Socket '/usr/local/nagios/var/rw/nagios.qh' successfully initialized
+[1424633616] qh: core query handler registered
+[1424633616] nerd: Channel hostchecks registered successfully
+[1424633616] nerd: Channel servicechecks registered successfully
+[1424633616] nerd: Channel opathchecks registered successfully
+[1424633616] nerd: Fully initialized and ready to rock!
+[1424633616] wproc: Successfully registered manager as @wproc with query handler
+[1424633616] wproc: Registry request: name=Core Worker 9126;pid=9126
+[1424633616] wproc: Registry request: name=Core Worker 9124;pid=9124
+[1424633616] wproc: Registry request: name=Core Worker 9125;pid=9125
+[1424633616] wproc: Registry request: name=Core Worker 9123;pid=9123
+[1424633616] Error: Could not find any host matching 'tecmint' (config file '/usr/local/nagios/etc/objects/ubuntu.cfg', starting on line 54)
+[1424633616] Error: Failed to expand host list 'tecmint' for service 'FTP Monitoring' (/usr/local/nagios/etc/objects/ubuntu.cfg:54)
+[1424633616] Bailing out due to one or more errors encountered in the configuration files. Run Nagios from the command line with the -v option to verify your config before restarting. (PID=9121)
+[1424633616] Event broker module 'NERD' deinitialized successfully.
+[1424633616] Nagios 4.0.8 starting... (PID=9127)
+[1424633616] Local time is Sun Feb 22 19:33:36 GMT 2015
+[1424633616] LOG VERSION: 2.0
+[1424633616] qh: Socket '/usr/local/nagios/var/rw/nagios.qh' successfully initialized
+[1424633616] qh: core query handler registered
+[1424633616] nerd: Channel hostchecks registered successfully
+[1424633616] nerd: Channel servicechecks registered successfully
+[1424633616] nerd: Channel opathchecks registered successfully
+[1424633616] nerd: Fully initialized and ready to rock!
+[1424633616] wproc: Successfully registered manager as @wproc with query handler
+[1424633616] wproc: Registry request: name=Core Worker 9130;pid=9130
+[1424633616] wproc: Registry request: name=Core Worker 9131;pid=9131
+[1424633616] wproc: Registry request: name=Core Worker 9128;pid=9128
+[1424633616] wproc: Registry request: name=Core Worker 9129;pid=9129
+[1424633616] Error: Could not find any host matching 'tecmint' (config file '/usr/local/nagios/etc/objects/ubuntu.cfg', starting on line 54)
+[1424633616] Error: Failed to expand host list 'tecmint' for service 'FTP Monitoring' (/usr/local/nagios/etc/objects/ubuntu.cfg:54)
+[1424633616] Bailing out due to one or more errors encountered in the configuration files. Run Nagios from the command line with the -v option to verify your config before restarting. (PID=9127)
+[1424633616] Event broker module 'NERD' deinitialized successfully.
+[1424633985] Nagios 4.0.8 starting... (PID=9264)
+[1424633985] Local time is Sun Feb 22 19:39:45 GMT 2015
+[1424633985] LOG VERSION: 2.0
+[1424633985] qh: Socket '/usr/local/nagios/var/rw/nagios.qh' successfully initialized
+[1424633985] qh: core query handler registered
+[1424633985] nerd: Channel hostchecks registered successfully
+[1424633985] nerd: Channel servicechecks registered successfully
+[1424633985] nerd: Channel opathchecks registered successfully
+[1424633985] nerd: Fully initialized and ready to rock!
+[1424633985] wproc: Successfully registered manager as @wproc with query handler
+[1424633985] wproc: Registry request: name=Core Worker 9268;pid=9268
+[1424633985] wproc: Registry request: name=Core Worker 9269;pid=9269
+[1424633985] wproc: Registry request: name=Core Worker 9267;pid=9267
+[1424633985] wproc: Registry request: name=Core Worker 9266;pid=9266
+[1424633985] Successfully launched command file worker with pid 9270
+[1424634154] SERVICE ALERT: myubuntu;CPU Load;CRITICAL;SOFT;1;CHECK_NRPE: Socket timeout after 10 seconds.
+[1424634218] SERVICE ALERT: myubuntu;Current Users;CRITICAL;SOFT;1;CHECK_NRPE: Socket timeout after 10 seconds.
+[1424634274] SERVICE ALERT: myubuntu;CPU Load;CRITICAL;SOFT;2;CHECK_NRPE: Socket timeout after 10 seconds.
+[1424634282] SERVICE ALERT: myubuntu;FTP Monitoring;CRITICAL;SOFT;1;CHECK_NRPE: Socket timeout after 10 seconds.
+[1424634338] SERVICE ALERT: myubuntu;Current Users;CRITICAL;SOFT;2;CHECK_NRPE: Socket timeout after 10 seconds.
+[1424634346] SERVICE ALERT: myubuntu;SSH Monitoring;CRITICAL;SOFT;1;CHECK_NRPE: Socket timeout after 10 seconds.
+[1424634394] SERVICE ALERT: myubuntu;CPU Load;CRITICAL;HARD;3;CHECK_NRPE: Socket timeout after 10 seconds.
+[1424634394] SERVICE NOTIFICATION: nagiosadmin;myubuntu;CPU Load;CRITICAL;notify-service-by-email;CHECK_NRPE: Socket timeout after 10 seconds.
+[1424634402] SERVICE ALERT: myubuntu;FTP Monitoring;CRITICAL;SOFT;2;CHECK_NRPE: Socket timeout after 10 seconds.
+[1424634410] SERVICE ALERT: myubuntu;Total Processes;CRITICAL;SOFT;1;CHECK_NRPE: Socket timeout after 10 seconds.
+[1424634458] SERVICE ALERT: myubuntu;Current Users;CRITICAL;HARD;3;CHECK_NRPE: Socket timeout after 10 seconds.
+[1424634458] SERVICE NOTIFICATION: nagiosadmin;myubuntu;Current Users;CRITICAL;notify-service-by-email;CHECK_NRPE: Socket timeout after 10 seconds.
+[1424634466] SERVICE ALERT: myubuntu;SSH Monitoring;CRITICAL;SOFT;2;CHECK_NRPE: Socket timeout after 10 seconds.
+[1424634506] Caught SIGTERM, shutting down...
+[1424634506] Successfully shutdown... (PID=9264)
+[1424634506] Event broker module 'NERD' deinitialized successfully.
+[1424634507] Nagios 4.0.8 starting... (PID=9603)
+[1424634507] Local time is Sun Feb 22 19:48:27 GMT 2015
+[1424634507] LOG VERSION: 2.0
+[1424634507] qh: Socket '/usr/local/nagios/var/rw/nagios.qh' successfully initialized
+[1424634507] qh: core query handler registered
+[1424634507] nerd: Channel hostchecks registered successfully
+[1424634507] nerd: Channel servicechecks registered successfully
+[1424634507] nerd: Channel opathchecks registered successfully
+[1424634507] nerd: Fully initialized and ready to rock!
+[1424634507] wproc: Successfully registered manager as @wproc with query handler
+[1424634507] wproc: Registry request: name=Core Worker 9605;pid=9605
+[1424634507] wproc: Registry request: name=Core Worker 9606;pid=9606
+[1424634507] wproc: Registry request: name=Core Worker 9607;pid=9607
+[1424634507] wproc: Registry request: name=Core Worker 9608;pid=9608
+[1424634507] Successfully launched command file worker with pid 9609
+[1424634522] SERVICE ALERT: myubuntu;FTP Monitoring;WARNING;HARD;3;(No output on stdout) stderr: Could not resolve hostname -c: Name or service not known
+[1424634522] SERVICE NOTIFICATION: nagiosadmin;myubuntu;FTP Monitoring;WARNING;notify-service-by-email;(No output on stdout) stderr: Could not resolve hostname -c: Name or service not known
+[1424634530] SERVICE ALERT: myubuntu;Total Processes;WARNING;SOFT;2;(No output on stdout) stderr: Could not resolve hostname -c: Name or service not known
+[1424634650] SERVICE ALERT: myubuntu;Total Processes;WARNING;HARD;3;(No output on stdout) stderr: Could not resolve hostname -c: Name or service not known
+[1424634650] SERVICE NOTIFICATION: nagiosadmin;myubuntu;Total Processes;WARNING;notify-service-by-email;(No output on stdout) stderr: Could not resolve hostname -c: Name or service not known
+[1424634803] SERVICE ALERT: myubuntu;SSH Monitoring;WARNING;HARD;3;(No output on stdout) stderr: Could not resolve hostname -c: Name or service not known
+[1424634803] SERVICE NOTIFICATION: nagiosadmin;myubuntu;SSH Monitoring;WARNING;notify-service-by-email;(No output on stdout) stderr: Could not resolve hostname -c: Name or service not known
+[1424634873] Warning: Service performance data file processing command '/usr/local/nagiosgraph/bin/insert.pl' timed out after 5 seconds
+[1424634933] Warning: Service performance data file processing command '/usr/local/nagiosgraph/bin/insert.pl' timed out after 5 seconds
+[1424634950] SERVICE ALERT: localhost;Current Load;WARNING;SOFT;1;WARNING - load average: 5.67, 2.90, 1.74
+[1424634994] SERVICE ALERT: myubuntu;CPU Load;WARNING;HARD;3;(No output on stdout) stderr: Could not resolve hostname -c: Name or service not known
+[1424634994] SERVICE NOTIFICATION: nagiosadmin;myubuntu;CPU Load;WARNING;notify-service-by-email;(No output on stdout) stderr: Could not resolve hostname -c: Name or service not known
+[1424635008] SERVICE ALERT: localhost;Current Load;OK;SOFT;2;OK - load average: 2.94, 2.65, 1.73
+[1424635146] SERVICE ALERT: myubuntu;Current Users;WARNING;HARD;3;(No output on stdout) stderr: Could not resolve hostname -c: Name or service not known
+[1424635146] SERVICE NOTIFICATION: nagiosadmin;myubuntu;Current Users;WARNING;notify-service-by-email;(No output on stdout) stderr: Could not resolve hostname -c: Name or service not known
+[1424635725] Caught SIGTERM, shutting down...
+[1424635726] Successfully shutdown... (PID=9603)
+[1424635726] Event broker module 'NERD' deinitialized successfully.
+[1424635726] Nagios 4.0.8 starting... (PID=10323)
+[1424635726] Local time is Sun Feb 22 20:08:46 GMT 2015
+[1424635726] LOG VERSION: 2.0
+[1424635726] qh: Socket '/usr/local/nagios/var/rw/nagios.qh' successfully initialized
+[1424635726] qh: core query handler registered
+[1424635726] nerd: Channel hostchecks registered successfully
+[1424635726] nerd: Channel servicechecks registered successfully
+[1424635726] nerd: Channel opathchecks registered successfully
+[1424635726] nerd: Fully initialized and ready to rock!
+[1424635726] wproc: Successfully registered manager as @wproc with query handler
+[1424635726] wproc: Registry request: name=Core Worker 10327;pid=10327
+[1424635726] wproc: Registry request: name=Core Worker 10325;pid=10325
+[1424635726] wproc: Registry request: name=Core Worker 10326;pid=10326
+[1424635726] wproc: Registry request: name=Core Worker 10328;pid=10328
+[1424635726] Successfully launched command file worker with pid 10329
+[1424637197] Caught SIGTERM, shutting down...
+[1424637197] Successfully shutdown... (PID=10323)
+[1424637197] Event broker module 'NERD' deinitialized successfully.
+[1424637197] Nagios 4.0.8 starting... (PID=11081)
+[1424637197] Local time is Sun Feb 22 20:33:17 GMT 2015
+[1424637197] LOG VERSION: 2.0
+[1424637197] qh: Socket '/usr/local/nagios/var/rw/nagios.qh' successfully initialized
+[1424637197] qh: core query handler registered
+[1424637197] nerd: Channel hostchecks registered successfully
+[1424637197] nerd: Channel servicechecks registered successfully
+[1424637197] nerd: Channel opathchecks registered successfully
+[1424637197] nerd: Fully initialized and ready to rock!
+[1424637197] wproc: Successfully registered manager as @wproc with query handler
+[1424637197] wproc: Registry request: name=Core Worker 11086;pid=11086
+[1424637197] wproc: Registry request: name=Core Worker 11085;pid=11085
+[1424637197] wproc: Registry request: name=Core Worker 11083;pid=11083
+[1424637197] wproc: Registry request: name=Core Worker 11084;pid=11084
+[1424637197] Successfully launched command file worker with pid 11087
+[1424637681] Caught SIGTERM, shutting down...
+[1424637681] Successfully shutdown... (PID=11081)
+[1424637681] Event broker module 'NERD' deinitialized successfully.
+[1424637681] Nagios 4.0.8 starting... (PID=11395)
+[1424637681] Local time is Sun Feb 22 20:41:21 GMT 2015
+[1424637681] LOG VERSION: 2.0
+[1424637681] qh: Socket '/usr/local/nagios/var/rw/nagios.qh' successfully initialized
+[1424637681] qh: core query handler registered
+[1424637681] nerd: Channel hostchecks registered successfully
+[1424637681] nerd: Channel servicechecks registered successfully
+[1424637681] nerd: Channel opathchecks registered successfully
+[1424637681] nerd: Fully initialized and ready to rock!
+[1424637681] wproc: Successfully registered manager as @wproc with query handler
+[1424637681] wproc: Registry request: name=Core Worker 11399;pid=11399
+[1424637681] wproc: Registry request: name=Core Worker 11397;pid=11397
+[1424637681] wproc: Registry request: name=Core Worker 11400;pid=11400
+[1424637681] wproc: Registry request: name=Core Worker 11398;pid=11398
+[1424637681] Successfully launched command file worker with pid 11401
+[1424637781] Caught SIGTERM, shutting down...
+[1424637781] Successfully shutdown... (PID=11395)
+[1424637781] Event broker module 'NERD' deinitialized successfully.
+[1424637782] Nagios 4.0.8 starting... (PID=11475)
+[1424637782] Local time is Sun Feb 22 20:43:02 GMT 2015
+[1424637782] LOG VERSION: 2.0
+[1424637782] qh: Socket '/usr/local/nagios/var/rw/nagios.qh' successfully initialized
+[1424637782] qh: core query handler registered
+[1424637782] nerd: Channel hostchecks registered successfully
+[1424637782] nerd: Channel servicechecks registered successfully
+[1424637782] nerd: Channel opathchecks registered successfully
+[1424637782] nerd: Fully initialized and ready to rock!
+[1424637782] wproc: Successfully registered manager as @wproc with query handler
+[1424637782] wproc: Registry request: name=Core Worker 11479;pid=11479
+[1424637782] wproc: Registry request: name=Core Worker 11476;pid=11476
+[1424637782] wproc: Registry request: name=Core Worker 11477;pid=11477
+[1424637782] wproc: Registry request: name=Core Worker 11478;pid=11478
+[1424637782] Successfully launched command file worker with pid 11481
+[1424639617] Warning: Service performance data file processing command '/usr/local/nagiosgraph/bin/insert.pl' timed out after 5 seconds
+[1424721875] Warning: Service performance data file processing command '/usr/local/nagiosgraph/bin/insert.pl' timed out after 5 seconds
+[1424721876] Warning: A system time change of 82150 seconds (0d 22h 49m 10s forwards in time) has been detected.  Compensating...
+[1424722874] Caught SIGTERM, shutting down...
+[1424722875] Successfully shutdown... (PID=11475)
+[1424722875] Event broker module 'NERD' deinitialized successfully.
+[1424722875] Nagios 4.0.8 starting... (PID=13390)
+[1424722875] Local time is Mon Feb 23 20:21:15 GMT 2015
+[1424722875] LOG VERSION: 2.0
+[1424722875] qh: Socket '/usr/local/nagios/var/rw/nagios.qh' successfully initialized
+[1424722875] qh: core query handler registered
+[1424722875] nerd: Channel hostchecks registered successfully
+[1424722875] nerd: Channel servicechecks registered successfully
+[1424722875] nerd: Channel opathchecks registered successfully
+[1424722875] nerd: Fully initialized and ready to rock!
+[1424722875] wproc: Successfully registered manager as @wproc with query handler
+[1424722875] wproc: Registry request: name=Core Worker 13395;pid=13395
+[1424722875] wproc: Registry request: name=Core Worker 13394;pid=13394
+[1424722875] wproc: Registry request: name=Core Worker 13393;pid=13393
+[1424722875] wproc: Registry request: name=Core Worker 13392;pid=13392
+[1424722876] Successfully launched command file worker with pid 13396
+[1424722942] SERVICE ALERT: Linux_ubuntu;Check Load;WARNING;SOFT;1;(No output on stdout) stderr: Could not resolve hostname -c: Name or service not known
+[1424723182] SERVICE ALERT: Linux_ubuntu;Check Load;WARNING;SOFT;2;(No output on stdout) stderr: Could not resolve hostname -c: Name or service not known
+[1424723422] SERVICE ALERT: Linux_ubuntu;Check Load;WARNING;SOFT;3;(No output on stdout) stderr: Could not resolve hostname -c: Name or service not known
+[1424723603] Caught SIGTERM, shutting down...
+[1424723603] Successfully shutdown... (PID=13390)
+[1424723603] Event broker module 'NERD' deinitialized successfully.
+[1424723603] Nagios 4.0.8 starting... (PID=13780)
+[1424723603] Local time is Mon Feb 23 20:33:23 GMT 2015
+[1424723603] LOG VERSION: 2.0
+[1424723603] qh: Socket '/usr/local/nagios/var/rw/nagios.qh' successfully initialized
+[1424723603] qh: core query handler registered
+[1424723603] nerd: Channel hostchecks registered successfully
+[1424723603] nerd: Channel servicechecks registered successfully
+[1424723603] nerd: Channel opathchecks registered successfully
+[1424723603] nerd: Fully initialized and ready to rock!
+[1424723603] wproc: Successfully registered manager as @wproc with query handler
+[1424723603] wproc: Registry request: name=Core Worker 13782;pid=13782
+[1424723603] wproc: Registry request: name=Core Worker 13783;pid=13783
+[1424723603] wproc: Registry request: name=Core Worker 13785;pid=13785
+[1424723603] wproc: Registry request: name=Core Worker 13784;pid=13784
+[1424723603] Successfully launched command file worker with pid 13786
+[1424723677] SERVICE ALERT: Linux_ubuntu;CPU Load;CRITICAL;SOFT;1;CHECK_NRPE: Socket timeout after 10 seconds.
+[1424723797] SERVICE ALERT: Linux_ubuntu;CPU Load;CRITICAL;SOFT;2;CHECK_NRPE: Socket timeout after 10 seconds.
+[1424723917] SERVICE ALERT: Linux_ubuntu;CPU Load;CRITICAL;HARD;3;CHECK_NRPE: Socket timeout after 10 seconds.
+[1424723917] SERVICE NOTIFICATION: nagiosadmin;Linux_ubuntu;CPU Load;CRITICAL;notify-service-by-email;CHECK_NRPE: Socket timeout after 10 seconds.
+[1424723949] Caught SIGTERM, shutting down...
+[1424723949] Successfully shutdown... (PID=13780)
+[1424723949] Event broker module 'NERD' deinitialized successfully.
+[1424723950] Nagios 4.0.8 starting... (PID=13983)
+[1424723950] Local time is Mon Feb 23 20:39:10 GMT 2015
+[1424723950] LOG VERSION: 2.0
+[1424723950] qh: Socket '/usr/local/nagios/var/rw/nagios.qh' successfully initialized
+[1424723950] qh: core query handler registered
+[1424723950] nerd: Channel hostchecks registered successfully
+[1424723950] nerd: Channel servicechecks registered successfully
+[1424723950] nerd: Channel opathchecks registered successfully
+[1424723950] nerd: Fully initialized and ready to rock!
+[1424723950] wproc: Successfully registered manager as @wproc with query handler
+[1424723950] wproc: Registry request: name=Core Worker 13985;pid=13985
+[1424723950] wproc: Registry request: name=Core Worker 13987;pid=13987
+[1424723950] wproc: Registry request: name=Core Worker 13988;pid=13988
+[1424723950] wproc: Registry request: name=Core Worker 13984;pid=13984
+[1424723950] Successfully launched command file worker with pid 13989
+[1424723997] Caught SIGTERM, shutting down...
+[1424723997] Successfully shutdown... (PID=13983)
+[1424723997] Event broker module 'NERD' deinitialized successfully.
+[1424724010] Nagios 4.0.8 starting... (PID=14079)
+[1424724010] Local time is Mon Feb 23 20:40:10 GMT 2015
+[1424724010] LOG VERSION: 2.0
+[1424724010] qh: Socket '/usr/local/nagios/var/rw/nagios.qh' successfully initialized
+[1424724010] qh: core query handler registered
+[1424724010] nerd: Channel hostchecks registered successfully
+[1424724010] nerd: Channel servicechecks registered successfully
+[1424724010] nerd: Channel opathchecks registered successfully
+[1424724010] nerd: Fully initialized and ready to rock!
+[1424724010] wproc: Successfully registered manager as @wproc with query handler
+[1424724011] wproc: Registry request: name=Core Worker 14081;pid=14081
+[1424724011] wproc: Registry request: name=Core Worker 14082;pid=14082
+[1424724011] wproc: Registry request: name=Core Worker 14080;pid=14080
+[1424724011] wproc: Registry request: name=Core Worker 14083;pid=14083
+[1424724011] Successfully launched command file worker with pid 14085
+[1424724307] Caught SIGTERM, shutting down...
+[1424724307] Successfully shutdown... (PID=14079)
+[1424724307] Event broker module 'NERD' deinitialized successfully.
+[1424724307] Nagios 4.0.8 starting... (PID=14263)
+[1424724307] Local time is Mon Feb 23 20:45:07 GMT 2015
+[1424724307] LOG VERSION: 2.0
+[1424724307] qh: Socket '/usr/local/nagios/var/rw/nagios.qh' successfully initialized
+[1424724307] qh: core query handler registered
+[1424724307] nerd: Channel hostchecks registered successfully
+[1424724307] nerd: Channel servicechecks registered successfully
+[1424724307] nerd: Channel opathchecks registered successfully
+[1424724307] nerd: Fully initialized and ready to rock!
+[1424724307] wproc: Successfully registered manager as @wproc with query handler
+[1424724307] wproc: Registry request: name=Core Worker 14264;pid=14264
+[1424724307] wproc: Registry request: name=Core Worker 14266;pid=14266
+[1424724307] wproc: Registry request: name=Core Worker 14265;pid=14265
+[1424724307] wproc: Registry request: name=Core Worker 14267;pid=14267
+[1424724307] Warning: Host 'Linux_ubuntu' has no default contacts or contactgroups defined!
+[1424724307] Successfully launched command file worker with pid 14269
+[1424724389] SERVICE ALERT: Linux_ubuntu;Current Users;WARNING;SOFT;1;(No output on stdout) stderr: Could not resolve hostname -c: Name or service not known
+[1424724509] SERVICE ALERT: Linux_ubuntu;Current Users;WARNING;SOFT;2;(No output on stdout) stderr: Could not resolve hostname -c: Name or service not known
+[1424724517] SERVICE ALERT: Linux_ubuntu;CPU Load;WARNING;HARD;3;(No output on stdout) stderr: Could not resolve hostname -c: Name or service not known
+[1424724517] SERVICE NOTIFICATION: nagiosadmin;Linux_ubuntu;CPU Load;WARNING;notify-service-by-email;(No output on stdout) stderr: Could not resolve hostname -c: Name or service not known
+[1424724629] SERVICE ALERT: Linux_ubuntu;Current Users;WARNING;HARD;3;(No output on stdout) stderr: Could not resolve hostname -c: Name or service not known
+[1424724629] SERVICE NOTIFICATION: nagiosadmin;Linux_ubuntu;Current Users;WARNING;notify-service-by-email;(No output on stdout) stderr: Could not resolve hostname -c: Name or service not known
+[1424725116] Caught SIGTERM, shutting down...
+[1424725116] Successfully shutdown... (PID=14263)
+[1424725116] Event broker module 'NERD' deinitialized successfully.
+[1424725116] Nagios 4.0.8 starting... (PID=14693)
+[1424725116] Local time is Mon Feb 23 20:58:36 GMT 2015
+[1424725116] LOG VERSION: 2.0
+[1424725116] qh: Socket '/usr/local/nagios/var/rw/nagios.qh' successfully initialized
+[1424725116] qh: core query handler registered
+[1424725116] nerd: Channel hostchecks registered successfully
+[1424725116] nerd: Channel servicechecks registered successfully
+[1424725116] nerd: Channel opathchecks registered successfully
+[1424725116] nerd: Fully initialized and ready to rock!
+[1424725116] wproc: Successfully registered manager as @wproc with query handler
+[1424725116] wproc: Registry request: name=Core Worker 14695;pid=14695
+[1424725116] wproc: Registry request: name=Core Worker 14697;pid=14697
+[1424725116] wproc: Registry request: name=Core Worker 14696;pid=14696
+[1424725116] wproc: Registry request: name=Core Worker 14694;pid=14694
+[1424725116] Warning: Service 'PING' on host 'Linux_ubuntu' has no default contacts or contactgroups defined!
+[1424725116] Warning: Service 'PING' on host 'Linux_ubuntu'  has a notification interval less than its check interval!  Notifications are only re-sent after checks are made, so the effective notification interval will be that of the check interval.
+[1424725116] Warning: Host 'Linux_ubuntu' has no default contacts or contactgroups defined!
+[1424725116] Successfully launched command file worker with pid 14699
+[1424725230] Caught SIGTERM, shutting down...
+[1424725230] Successfully shutdown... (PID=14693)
+[1424725230] Event broker module 'NERD' deinitialized successfully.
+[1424725230] Nagios 4.0.8 starting... (PID=14821)
+[1424725230] Local time is Mon Feb 23 21:00:30 GMT 2015
+[1424725230] LOG VERSION: 2.0
+[1424725230] qh: Socket '/usr/local/nagios/var/rw/nagios.qh' successfully initialized
+[1424725230] qh: core query handler registered
+[1424725230] nerd: Channel hostchecks registered successfully
+[1424725230] nerd: Channel servicechecks registered successfully
+[1424725230] nerd: Channel opathchecks registered successfully
+[1424725230] nerd: Fully initialized and ready to rock!
+[1424725230] wproc: Successfully registered manager as @wproc with query handler
+[1424725230] wproc: Registry request: name=Core Worker 14823;pid=14823
+[1424725230] wproc: Registry request: name=Core Worker 14822;pid=14822
+[1424725230] wproc: Registry request: name=Core Worker 14824;pid=14824
+[1424725230] wproc: Registry request: name=Core Worker 14825;pid=14825
+[1424725230] Warning: Service 'PING' on host 'Linux_ubuntu' has no default contacts or contactgroups defined!
+[1424725230] Warning: Service 'PING' on host 'Linux_ubuntu'  has a notification interval less than its check interval!  Notifications are only re-sent after checks are made, so the effective notification interval will be that of the check interval.
+[1424725230] Warning: Host 'Linux_ubuntu' has no default contacts or contactgroups defined!
+[1424725230] Successfully launched command file worker with pid 14827
+[1424725260] wproc: Core Worker 14823: job 0 (pid=14828) timed out. Killing it
+[1424725260] wproc: CHECK job 0 from worker Core Worker 14823 timed out after 30.03s
+[1424725260] wproc:   host=linksys-srw224p; service=(null);
+[1424725260] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1424725260] Warning: Check of host 'linksys-srw224p' timed out after 30.03 seconds
+[1424725260] HOST ALERT: linksys-srw224p;DOWN;SOFT;1;(Host check timed out after 30.03 seconds)
+[1424725260] wproc: Core Worker 14823: job 0 (pid=14828): Dormant child reaped
+[1424725324] SERVICE ALERT: linksys-srw224p;PING;CRITICAL;SOFT;1;PING CRITICAL - Packet loss = 100%
+[1424725350] HOST ALERT: linksys-srw224p;DOWN;SOFT;2;PING CRITICAL - Packet loss = 100%
+[1424725384] SERVICE ALERT: linksys-srw224p;PING;CRITICAL;SOFT;2;PING CRITICAL - Packet loss = 100%
+[1424725398] SERVICE ALERT: linksys-srw224p;Port 1 Bandwidth Usage;UNKNOWN;SOFT;1;check_mrtgtraf: Unable to open MRTG log file
+[1424725414] HOST ALERT: linksys-srw224p;DOWN;SOFT;3;PING CRITICAL - Packet loss = 100%
+[1424725418] Caught SIGTERM, shutting down...
+[1424725418] Successfully shutdown... (PID=14821)
+[1424725418] Event broker module 'NERD' deinitialized successfully.
+[1424725419] Nagios 4.0.8 starting... (PID=14949)
+[1424725419] Local time is Mon Feb 23 21:03:39 GMT 2015
+[1424725419] LOG VERSION: 2.0
+[1424725419] qh: Socket '/usr/local/nagios/var/rw/nagios.qh' successfully initialized
+[1424725419] qh: core query handler registered
+[1424725419] nerd: Channel hostchecks registered successfully
+[1424725419] nerd: Channel servicechecks registered successfully
+[1424725419] nerd: Channel opathchecks registered successfully
+[1424725419] nerd: Fully initialized and ready to rock!
+[1424725419] wproc: Successfully registered manager as @wproc with query handler
+[1424725419] wproc: Registry request: name=Core Worker 14950;pid=14950
+[1424725419] wproc: Registry request: name=Core Worker 14951;pid=14951
+[1424725419] wproc: Registry request: name=Core Worker 14953;pid=14953
+[1424725419] wproc: Registry request: name=Core Worker 14952;pid=14952
+[1424725419] Warning: Service 'PING' on host 'Linux_ubuntu' has no default contacts or contactgroups defined!
+[1424725419] Warning: Service 'PING' on host 'Linux_ubuntu'  has a notification interval less than its check interval!  Notifications are only re-sent after checks are made, so the effective notification interval will be that of the check interval.
+[1424725419] Warning: Host 'Linux_ubuntu' has no default contacts or contactgroups defined!
+[1424725419] Successfully launched command file worker with pid 14955
+[1424725438] SERVICE ALERT: linksys-srw224p;PING;OK;SOFT;3;PING OK - Packet loss = 0%, RTA = 0.06 ms
+[1424725442] HOST ALERT: linksys-srw224p;UP;SOFT;2;PING OK - Packet loss = 0%, RTA = 0.07 ms
+[1424725491] SERVICE ALERT: linksys-srw224p;Port 1 Link Status;UNKNOWN;SOFT;1;External command error: Timeout: No Response from 10.0.2.15:161.
+[1424725518] SERVICE ALERT: linksys-srw224p;Port 1 Bandwidth Usage;UNKNOWN;SOFT;2;check_mrtgtraf: Unable to open MRTG log file
+[1424725574] SERVICE ALERT: linksys-srw224p;Uptime;UNKNOWN;SOFT;1;External command error: Bad operator (INTEGER): At line 73 in /usr/share/mibs/ietf/SNMPv2-PDU
+[1424725601] Caught SIGTERM, shutting down...
+[1424725601] Successfully shutdown... (PID=14949)
+[1424725601] Event broker module 'NERD' deinitialized successfully.
+[1424725601] Nagios 4.0.8 starting... (PID=15096)
+[1424725601] Local time is Mon Feb 23 21:06:41 GMT 2015
+[1424725601] LOG VERSION: 2.0
+[1424725601] qh: Socket '/usr/local/nagios/var/rw/nagios.qh' successfully initialized
+[1424725601] qh: core query handler registered
+[1424725601] nerd: Channel hostchecks registered successfully
+[1424725601] nerd: Channel servicechecks registered successfully
+[1424725601] nerd: Channel opathchecks registered successfully
+[1424725601] nerd: Fully initialized and ready to rock!
+[1424725601] wproc: Successfully registered manager as @wproc with query handler
+[1424725601] wproc: Registry request: name=Core Worker 15100;pid=15100
+[1424725601] wproc: Registry request: name=Core Worker 15098;pid=15098
+[1424725601] wproc: Registry request: name=Core Worker 15097;pid=15097
+[1424725601] wproc: Registry request: name=Core Worker 15099;pid=15099
+[1424725601] Warning: Service 'PING' on host 'Linux_ubuntu' has no default contacts or contactgroups defined!
+[1424725601] Warning: Service 'PING' on host 'Linux_ubuntu'  has a notification interval less than its check interval!  Notifications are only re-sent after checks are made, so the effective notification interval will be that of the check interval.
+[1424725601] Warning: Host 'Linux_ubuntu' has no default contacts or contactgroups defined!
+[1424725601] Successfully launched command file worker with pid 15102
+[1424725602] SERVICE ALERT: linksys-srw224p;Port 1 Link Status;UNKNOWN;SOFT;2;External command error: Error in packet
+[1424725638] SERVICE ALERT: linksys-srw224p;Port 1 Bandwidth Usage;UNKNOWN;HARD;3;check_mrtgtraf: Unable to open MRTG log file
+[1424725638] SERVICE NOTIFICATION: nagiosadmin;linksys-srw224p;Port 1 Bandwidth Usage;UNKNOWN;notify-service-by-email;check_mrtgtraf: Unable to open MRTG log file
+[1424725688] SERVICE ALERT: linksys-srw224p;Uptime;OK;SOFT;2;SNMP OK - Timeticks: (2809375) 7:48:13.75
+[1424725722] SERVICE ALERT: linksys-srw224p;Port 1 Link Status;UNKNOWN;HARD;3;External command error: Error in packet
+[1424725722] SERVICE NOTIFICATION: nagiosadmin;linksys-srw224p;Port 1 Link Status;UNKNOWN;notify-service-by-email;External command error: Error in packet
+[1424726020] Caught SIGTERM, shutting down...
+[1424726020] Successfully shutdown... (PID=15096)
+[1424726020] Event broker module 'NERD' deinitialized successfully.
+[1424726020] Nagios 4.0.8 starting... (PID=15586)
+[1424726020] Local time is Mon Feb 23 21:13:40 GMT 2015
+[1424726020] LOG VERSION: 2.0
+[1424726020] qh: Socket '/usr/local/nagios/var/rw/nagios.qh' successfully initialized
+[1424726020] qh: core query handler registered
+[1424726020] nerd: Channel hostchecks registered successfully
+[1424726020] nerd: Channel servicechecks registered successfully
+[1424726020] nerd: Channel opathchecks registered successfully
+[1424726020] nerd: Fully initialized and ready to rock!
+[1424726020] wproc: Successfully registered manager as @wproc with query handler
+[1424726020] wproc: Registry request: name=Core Worker 15587;pid=15587
+[1424726020] wproc: Registry request: name=Core Worker 15589;pid=15589
+[1424726020] wproc: Registry request: name=Core Worker 15590;pid=15590
+[1424726020] wproc: Registry request: name=Core Worker 15588;pid=15588
+[1424726020] Warning: Service 'PING' on host 'Linux_ubuntu' has no default contacts or contactgroups defined!
+[1424726020] Warning: Service 'PING' on host 'Linux_ubuntu'  has a notification interval less than its check interval!  Notifications are only re-sent after checks are made, so the effective notification interval will be that of the check interval.
+[1424726020] Warning: Host 'Linux_ubuntu' has no default contacts or contactgroups defined!
+[1424726020] Successfully launched command file worker with pid 15592
+[1424726292] SERVICE ALERT: linksys-srw224p;Uptime;UNKNOWN;SOFT;1;External command error: Bad operator (INTEGER): At line 73 in /usr/share/mibs/ietf/SNMPv2-PDU
+[1424726415] SERVICE ALERT: linksys-srw224p;Uptime;UNKNOWN;SOFT;2;External command error: Bad operator (INTEGER): At line 73 in /usr/share/mibs/ietf/SNMPv2-PDU
+[1424726533] SERVICE ALERT: linksys-srw224p;Uptime;UNKNOWN;HARD;3;External command error: Bad operator (INTEGER): At line 73 in /usr/share/mibs/ietf/SNMPv2-PDU
+[1424726533] SERVICE NOTIFICATION: nagiosadmin;linksys-srw224p;Uptime;UNKNOWN;notify-service-by-email;External command error: Bad operator (INTEGER): At line 73 in /usr/share/mibs/ietf/SNMPv2-PDU
+[1424727056] Caught SIGTERM, shutting down...
+[1424727056] Successfully shutdown... (PID=15586)
+[1424727056] Event broker module 'NERD' deinitialized successfully.
+[1424727056] Nagios 4.0.8 starting... (PID=16251)
+[1424727056] Local time is Mon Feb 23 21:30:56 GMT 2015
+[1424727056] LOG VERSION: 2.0
+[1424727056] qh: Socket '/usr/local/nagios/var/rw/nagios.qh' successfully initialized
+[1424727056] qh: core query handler registered
+[1424727056] nerd: Channel hostchecks registered successfully
+[1424727056] nerd: Channel servicechecks registered successfully
+[1424727056] nerd: Channel opathchecks registered successfully
+[1424727056] nerd: Fully initialized and ready to rock!
+[1424727056] wproc: Successfully registered manager as @wproc with query handler
+[1424727056] wproc: Registry request: name=Core Worker 16255;pid=16255
+[1424727056] wproc: Registry request: name=Core Worker 16256;pid=16256
+[1424727056] wproc: Registry request: name=Core Worker 16253;pid=16253
+[1424727056] wproc: Registry request: name=Core Worker 16254;pid=16254
+[1424727056] Warning: Service 'CPU Load' on host 'Linux_ubuntu' has no default contacts or contactgroups defined!
+[1424727056] Warning: Service 'CPU Load' on host 'Linux_ubuntu' has no notification time period defined!
+[1424727056] Warning: Service 'PING' on host 'Linux_ubuntu' has no default contacts or contactgroups defined!
+[1424727056] Warning: Service 'PING' on host 'Linux_ubuntu'  has a notification interval less than its check interval!  Notifications are only re-sent after checks are made, so the effective notification interval will be that of the check interval.
+[1424727056] Warning: Service 'Response Time' on host 'Linux_ubuntu' has no default contacts or contactgroups defined!
+[1424727056] Warning: Service 'Response Time' on host 'Linux_ubuntu' has no notification time period defined!
+[1424727056] Warning: Host 'Linux_ubuntu' has no default contacts or contactgroups defined!
+[1424727056] Successfully launched command file worker with pid 16257
+[1424727124] Caught SIGTERM, shutting down...
+[1424727124] Successfully shutdown... (PID=16251)
+[1424727124] Event broker module 'NERD' deinitialized successfully.
+[1424727124] Nagios 4.0.8 starting... (PID=16316)
+[1424727124] Local time is Mon Feb 23 21:32:04 GMT 2015
+[1424727124] LOG VERSION: 2.0
+[1424727124] qh: Socket '/usr/local/nagios/var/rw/nagios.qh' successfully initialized
+[1424727124] qh: core query handler registered
+[1424727124] nerd: Channel hostchecks registered successfully
+[1424727124] nerd: Channel servicechecks registered successfully
+[1424727124] nerd: Channel opathchecks registered successfully
+[1424727124] nerd: Fully initialized and ready to rock!
+[1424727124] wproc: Successfully registered manager as @wproc with query handler
+[1424727124] wproc: Registry request: name=Core Worker 16318;pid=16318
+[1424727124] wproc: Registry request: name=Core Worker 16317;pid=16317
+[1424727125] wproc: Registry request: name=Core Worker 16319;pid=16319
+[1424727125] wproc: Registry request: name=Core Worker 16320;pid=16320
+[1424727125] Warning: Service 'CPU Load' on host 'Linux_ubuntu' has no default contacts or contactgroups defined!
+[1424727125] Warning: Service 'CPU Load' on host 'Linux_ubuntu' has no notification time period defined!
+[1424727125] Warning: Service 'PING' on host 'Linux_ubuntu' has no default contacts or contactgroups defined!
+[1424727125] Warning: Service 'PING' on host 'Linux_ubuntu'  has a notification interval less than its check interval!  Notifications are only re-sent after checks are made, so the effective notification interval will be that of the check interval.
+[1424727125] Warning: Service 'Response Time' on host 'Linux_ubuntu' has no default contacts or contactgroups defined!
+[1424727125] Warning: Service 'Response Time' on host 'Linux_ubuntu' has no notification time period defined!
+[1424727125] Warning: Host 'Linux_ubuntu' has no default contacts or contactgroups defined!
+[1424727125] Successfully launched command file worker with pid 16322
+[1424727127] SERVICE ALERT: linksys-srw224p;Uptime;OK;HARD;3;SNMP OK - Timeticks: (2953039) 8:12:10.39
+[1424727127] SERVICE NOTIFICATION: nagiosadmin;linksys-srw224p;Uptime;OK;notify-service-by-email;SNMP OK - Timeticks: (2953039) 8:12:10.39
+[1424727563] Caught SIGTERM, shutting down...
+[1424727563] Successfully shutdown... (PID=16316)
+[1424727563] Event broker module 'NERD' deinitialized successfully.
+[1424727563] Nagios 4.0.8 starting... (PID=16611)
+[1424727563] Local time is Mon Feb 23 21:39:23 GMT 2015
+[1424727563] LOG VERSION: 2.0
+[1424727563] qh: Socket '/usr/local/nagios/var/rw/nagios.qh' successfully initialized
+[1424727563] qh: core query handler registered
+[1424727563] nerd: Channel hostchecks registered successfully
+[1424727563] nerd: Channel servicechecks registered successfully
+[1424727563] nerd: Channel opathchecks registered successfully
+[1424727563] nerd: Fully initialized and ready to rock!
+[1424727563] wproc: Successfully registered manager as @wproc with query handler
+[1424727564] wproc: Registry request: name=Core Worker 16612;pid=16612
+[1424727564] wproc: Registry request: name=Core Worker 16614;pid=16614
+[1424727564] wproc: Registry request: name=Core Worker 16613;pid=16613
+[1424727564] wproc: Registry request: name=Core Worker 16615;pid=16615
+[1424727564] Error: Unexpected token or statement in file '/usr/local/nagios/etc/objects/switch.cfg' on line 102.
+[1424727564] Bailing out due to one or more errors encountered in the configuration files. Run Nagios from the command line with the -v option to verify your config before restarting. (PID=16611)
+[1424727564] Event broker module 'NERD' deinitialized successfully.
+[1424727564] Nagios 4.0.8 starting... (PID=16617)
+[1424727564] Local time is Mon Feb 23 21:39:24 GMT 2015
+[1424727564] LOG VERSION: 2.0
+[1424727564] qh: Socket '/usr/local/nagios/var/rw/nagios.qh' successfully initialized
+[1424727564] qh: core query handler registered
+[1424727564] nerd: Channel hostchecks registered successfully
+[1424727564] nerd: Channel servicechecks registered successfully
+[1424727564] nerd: Channel opathchecks registered successfully
+[1424727564] nerd: Fully initialized and ready to rock!
+[1424727564] wproc: Successfully registered manager as @wproc with query handler
+[1424727564] wproc: Registry request: name=Core Worker 16619;pid=16619
+[1424727564] wproc: Registry request: name=Core Worker 16621;pid=16621
+[1424727564] wproc: Registry request: name=Core Worker 16618;pid=16618
+[1424727564] wproc: Registry request: name=Core Worker 16620;pid=16620
+[1424727564] Error: Unexpected token or statement in file '/usr/local/nagios/etc/objects/switch.cfg' on line 102.
+[1424727564] Bailing out due to one or more errors encountered in the configuration files. Run Nagios from the command line with the -v option to verify your config before restarting. (PID=16617)
+[1424727564] Event broker module 'NERD' deinitialized successfully.
+[1424727564] Nagios 4.0.8 starting... (PID=16623)
+[1424727564] Local time is Mon Feb 23 21:39:24 GMT 2015
+[1424727564] LOG VERSION: 2.0
+[1424727564] qh: Socket '/usr/local/nagios/var/rw/nagios.qh' successfully initialized
+[1424727564] qh: core query handler registered
+[1424727564] nerd: Channel hostchecks registered successfully
+[1424727564] nerd: Channel servicechecks registered successfully
+[1424727564] nerd: Channel opathchecks registered successfully
+[1424727564] nerd: Fully initialized and ready to rock!
+[1424727564] wproc: Successfully registered manager as @wproc with query handler
+[1424727564] wproc: Registry request: name=Core Worker 16627;pid=16627
+[1424727564] wproc: Registry request: name=Core Worker 16624;pid=16624
+[1424727564] wproc: Registry request: name=Core Worker 16625;pid=16625
+[1424727564] wproc: Registry request: name=Core Worker 16626;pid=16626
+[1424727564] Error: Unexpected token or statement in file '/usr/local/nagios/etc/objects/switch.cfg' on line 102.
+[1424727564] Bailing out due to one or more errors encountered in the configuration files. Run Nagios from the command line with the -v option to verify your config before restarting. (PID=16623)
+[1424727564] Event broker module 'NERD' deinitialized successfully.
+[1424727564] Nagios 4.0.8 starting... (PID=16629)
+[1424727564] Local time is Mon Feb 23 21:39:24 GMT 2015
+[1424727564] LOG VERSION: 2.0
+[1424727564] qh: Socket '/usr/local/nagios/var/rw/nagios.qh' successfully initialized
+[1424727564] qh: core query handler registered
+[1424727564] nerd: Channel hostchecks registered successfully
+[1424727564] nerd: Channel servicechecks registered successfully
+[1424727564] nerd: Channel opathchecks registered successfully
+[1424727564] nerd: Fully initialized and ready to rock!
+[1424727564] wproc: Successfully registered manager as @wproc with query handler
+[1424727564] wproc: Registry request: name=Core Worker 16632;pid=16632
+[1424727564] wproc: Registry request: name=Core Worker 16631;pid=16631
+[1424727564] wproc: Registry request: name=Core Worker 16633;pid=16633
+[1424727564] wproc: Registry request: name=Core Worker 16630;pid=16630
+[1424727564] Error: Unexpected token or statement in file '/usr/local/nagios/etc/objects/switch.cfg' on line 102.
+[1424727564] Bailing out due to one or more errors encountered in the configuration files. Run Nagios from the command line with the -v option to verify your config before restarting. (PID=16629)
+[1424727564] Event broker module 'NERD' deinitialized successfully.
+[1424727564] Nagios 4.0.8 starting... (PID=16635)
+[1424727564] Local time is Mon Feb 23 21:39:24 GMT 2015
+[1424727564] LOG VERSION: 2.0
+[1424727564] qh: Socket '/usr/local/nagios/var/rw/nagios.qh' successfully initialized
+[1424727564] qh: core query handler registered
+[1424727564] nerd: Channel hostchecks registered successfully
+[1424727564] nerd: Channel servicechecks registered successfully
+[1424727564] nerd: Channel opathchecks registered successfully
+[1424727564] nerd: Fully initialized and ready to rock!
+[1424727564] wproc: Successfully registered manager as @wproc with query handler
+[1424727564] wproc: Registry request: name=Core Worker 16639;pid=16639
+[1424727564] wproc: Registry request: name=Core Worker 16638;pid=16638
+[1424727564] wproc: Registry request: name=Core Worker 16637;pid=16637
+[1424727564] wproc: Registry request: name=Core Worker 16640;pid=16640
+[1424727564] Error: Unexpected token or statement in file '/usr/local/nagios/etc/objects/switch.cfg' on line 102.
+[1424727564] Bailing out due to one or more errors encountered in the configuration files. Run Nagios from the command line with the -v option to verify your config before restarting. (PID=16635)
+[1424727564] Event broker module 'NERD' deinitialized successfully.
+[1424727564] Nagios 4.0.8 starting... (PID=16641)
+[1424727564] Local time is Mon Feb 23 21:39:24 GMT 2015
+[1424727564] LOG VERSION: 2.0
+[1424727564] qh: Socket '/usr/local/nagios/var/rw/nagios.qh' successfully initialized
+[1424727564] qh: core query handler registered
+[1424727564] nerd: Channel hostchecks registered successfully
+[1424727564] nerd: Channel servicechecks registered successfully
+[1424727564] nerd: Channel opathchecks registered successfully
+[1424727564] nerd: Fully initialized and ready to rock!
+[1424727564] wproc: Successfully registered manager as @wproc with query handler
+[1424727564] wproc: Registry request: name=Core Worker 16646;pid=16646
+[1424727564] wproc: Registry request: name=Core Worker 16644;pid=16644
+[1424727564] wproc: Registry request: name=Core Worker 16645;pid=16645
+[1424727564] wproc: Registry request: name=Core Worker 16643;pid=16643
+[1424727564] Error: Unexpected token or statement in file '/usr/local/nagios/etc/objects/switch.cfg' on line 102.
+[1424727564] Bailing out due to one or more errors encountered in the configuration files. Run Nagios from the command line with the -v option to verify your config before restarting. (PID=16641)
+[1424727564] Event broker module 'NERD' deinitialized successfully.
+[1424727599] Nagios 4.0.8 starting... (PID=16681)
+[1424727599] Local time is Mon Feb 23 21:39:59 GMT 2015
+[1424727599] LOG VERSION: 2.0
+[1424727599] qh: Socket '/usr/local/nagios/var/rw/nagios.qh' successfully initialized
+[1424727599] qh: core query handler registered
+[1424727599] nerd: Channel hostchecks registered successfully
+[1424727599] nerd: Channel servicechecks registered successfully
+[1424727599] nerd: Channel opathchecks registered successfully
+[1424727599] nerd: Fully initialized and ready to rock!
+[1424727599] wproc: Successfully registered manager as @wproc with query handler
+[1424727599] wproc: Registry request: name=Core Worker 16685;pid=16685
+[1424727599] wproc: Registry request: name=Core Worker 16686;pid=16686
+[1424727599] wproc: Registry request: name=Core Worker 16684;pid=16684
+[1424727599] wproc: Registry request: name=Core Worker 16683;pid=16683
+[1424727599] Warning: Service 'CPU Load' on host 'Linux_ubuntu' has no default contacts or contactgroups defined!
+[1424727599] Warning: Service 'CPU Load' on host 'Linux_ubuntu' has no notification time period defined!
+[1424727599] Warning: Service 'PING' on host 'Linux_ubuntu' has no default contacts or contactgroups defined!
+[1424727599] Warning: Service 'PING' on host 'Linux_ubuntu'  has a notification interval less than its check interval!  Notifications are only re-sent after checks are made, so the effective notification interval will be that of the check interval.
+[1424727599] Warning: Service 'Response Time' on host 'Linux_ubuntu' has no default contacts or contactgroups defined!
+[1424727599] Warning: Service 'Response Time' on host 'Linux_ubuntu' has no notification time period defined!
+[1424727599] Warning: Host 'Linux_ubuntu' has no default contacts or contactgroups defined!
+[1424727599] Successfully launched command file worker with pid 16687
+[1424727695] Caught SIGTERM, shutting down...
+[1424727695] Successfully shutdown... (PID=16681)
+[1424727695] Event broker module 'NERD' deinitialized successfully.
+[1424727695] Nagios 4.0.8 starting... (PID=16807)
+[1424727695] Local time is Mon Feb 23 21:41:35 GMT 2015
+[1424727695] LOG VERSION: 2.0
+[1424727695] qh: Socket '/usr/local/nagios/var/rw/nagios.qh' successfully initialized
+[1424727695] qh: core query handler registered
+[1424727695] nerd: Channel hostchecks registered successfully
+[1424727695] nerd: Channel servicechecks registered successfully
+[1424727695] nerd: Channel opathchecks registered successfully
+[1424727695] nerd: Fully initialized and ready to rock!
+[1424727695] wproc: Successfully registered manager as @wproc with query handler
+[1424727695] wproc: Registry request: name=Core Worker 16808;pid=16808
+[1424727695] wproc: Registry request: name=Core Worker 16811;pid=16811
+[1424727695] wproc: Registry request: name=Core Worker 16809;pid=16809
+[1424727695] wproc: Registry request: name=Core Worker 16810;pid=16810
+[1424727695] Warning: Service 'CPU Load' on host 'Linux_ubuntu' has no default contacts or contactgroups defined!
+[1424727695] Warning: Service 'CPU Load' on host 'Linux_ubuntu' has no notification time period defined!
+[1424727695] Warning: Service 'PING' on host 'Linux_ubuntu' has no default contacts or contactgroups defined!
+[1424727695] Warning: Service 'PING' on host 'Linux_ubuntu'  has a notification interval less than its check interval!  Notifications are only re-sent after checks are made, so the effective notification interval will be that of the check interval.
+[1424727695] Warning: Service 'Response Time' on host 'Linux_ubuntu' has no default contacts or contactgroups defined!
+[1424727695] Warning: Service 'Response Time' on host 'Linux_ubuntu' has no notification time period defined!
+[1424727695] Warning: Host 'Linux_ubuntu' has no default contacts or contactgroups defined!
+[1424727695] Successfully launched command file worker with pid 16813
+[1424734738] Warning: A system time change of 4773 seconds (0d 1h 19m 33s forwards in time) has been detected.  Compensating...
