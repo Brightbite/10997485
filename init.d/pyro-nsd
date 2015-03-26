@@ -1,0 +1,72 @@
+#!/bin/sh
+### BEGIN INIT INFO
+# Provides:          pyro-nsd
+# Required-Start:    $time $local_fs $remote_fs $network
+# Required-Stop:     $time $local_fs $remote_fs $network
+# Default-Start:     2 3 4 5
+# Default-Stop:      0 1 6
+# Short-Description: Pyro name server daemon
+# Description:       Debian init script for pyro-nsd (Pyro name server daemon)
+### END INIT INFO
+
+PATH=/usr/local/sbin:/usr/local/bin:/sbin:/bin:/usr/sbin:/usr/bin
+DAEMON=/usr/bin/pyro-nsd
+DESC="Pyro name server daemon"
+NAME=pyro-nsd
+
+test -x $DAEMON || exit 0
+
+# Defaults - don't touch, edit /etc/default/pyro-nsd
+ENABLED=0
+
+if [ -f /etc/default/pyro-nsd ] ; then
+        . /etc/default/pyro-nsd
+fi
+
+if [ "$ENABLED" = "0" ]; then
+    echo "$DESC: disabled, see /etc/default/pyro-nsd"
+    exit 0
+fi
+  
+PYRO_NS=/usr/bin/pyro-nsd
+END_PHRASE="python remote objects name service: pyro-nsd"
+
+set -e
+
+case "$1" in
+    start)
+	echo -n "Starting $DESC: "
+	$DAEMON start $OPTIONS
+	echo "$NAME."
+	;;
+    stop)
+        echo -n "Stopping $DESC: "
+	$DAEMON stop $OPTIONS
+	echo "$NAME."
+	;;
+    restart|force-reload)
+	echo -n "Restarting $DESC: "
+	$DAEMON stop $OPTIONS
+	sleep 1
+	$DAEMON start $OPTIONS
+	echo "$NAME."
+	;;
+    status)
+	STATUS="$($DAEMON status)"
+	echo "$STATUS"
+	if echo "$STATUS" | grep -q "not running"; then
+	    if [ -f "$PYRO_PID" ]; then
+	        exit 1
+	    else
+	        exit 3
+	    fi
+	fi
+	;;
+    *)
+	echo -n "Usage: /etc/init.d/pyro-nsd " >&2
+	echo "{start|stop|restart|force-reload|status}" >&2
+	exit 1
+	;;
+esac
+     
+exit 0
