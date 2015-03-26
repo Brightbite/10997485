@@ -17,7 +17,7 @@ Apache2 commands:
   - sudo service apache2 restart
 
 Get access to the localhost on the web browser:
-  - http:127.0.0.1
+  - http://127.0.0.1
 
 Nagios account for login nagios web interface
   - ID: nagiosadmin
