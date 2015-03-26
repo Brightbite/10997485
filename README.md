@@ -278,23 +278,26 @@ etc
   - xul-ext
   - zabbix
   
-          *.nagiosnrpe.cfg.swp
-          *.pwd.lock
-          *adduser.conf
-          *aliases	
-          *anacrontab	
-          *apg.conf	
-          *bash.bashrc	
-          *bash_completion	
-          *bindresvport.blacklist	
-          *blkid.conf	
-          *blkid.tab	
-          *brlapi.key	
-          *brltty.conf	
-          *ca-certificates.conf	
-          *ca-certificates.conf.dpkg-old	
-          *checkinstallrc
-          colord.conf	
+
+
+
+.nagiosnrpe.cfg.swp
+.pwd.lock
+adduser.conf
+aliases	
+anacrontab	
+apg.conf	
+bash.bashrc	
+bash_completion	
+bindresvport.blacklist	
+blkid.conf	
+blkid.tab	
+brlapi.key	
+brltty.conf	
+ca-certificates.conf	
+ca-certificates.conf.dpkg-old	
+checkinstallrc
+colord.conf	
           crontab	
           daemon.conf	
           debconf.conf	
