@@ -2331,3 +2331,117 @@
 [1426526400] Error: Could not load module '/usr/local/nagios/etc/-1' -> /usr/local/nagios/etc/-1: cannot open shared object file: No such file or directory
 [1426526400] Error: Failed to load module '/usr/local/nagios/etc/-1'.
 [1426526400] Error: Module loading failed. Aborting.
+[1427370217] Nagios 4.0.8 starting... (PID=3000)
+[1427370217] Local time is Thu Mar 26 11:43:37 GMT 2015
+[1427370217] LOG VERSION: 2.0
+[1427370217] qh: Socket '/usr/local/nagios/var/rw/nagios.qh' successfully initialized
+[1427370217] qh: core query handler registered
+[1427370217] nerd: Channel hostchecks registered successfully
+[1427370217] nerd: Channel servicechecks registered successfully
+[1427370217] nerd: Channel opathchecks registered successfully
+[1427370217] nerd: Fully initialized and ready to rock!
+[1427370217] wproc: Successfully registered manager as @wproc with query handler
+[1427370217] wproc: Registry request: name=Core Worker 3004;pid=3004
+[1427370217] wproc: Registry request: name=Core Worker 3002;pid=3002
+[1427370217] wproc: Registry request: name=Core Worker 3003;pid=3003
+[1427370217] wproc: Registry request: name=Core Worker 3005;pid=3005
+[1427370217] Error: Could not load module '/usr/local/lib/mk-livestatus/livestatus.o' -> /usr/local/lib/mk-livestatus/livestatus.o: undefined symbol: last_command_check
+[1427370217] Error: Failed to load module '/usr/local/lib/mk-livestatus/livestatus.o'.
+[1427370217] Error: Could not load module '/usr/local/nagios/etc/-1' -> /usr/local/nagios/etc/-1: cannot open shared object file: No such file or directory
+[1427370217] Error: Failed to load module '/usr/local/nagios/etc/-1'.
+[1427370217] Error: Module loading failed. Aborting.
+[1427370217] Nagios 4.0.8 starting... (PID=3006)
+[1427370217] Local time is Thu Mar 26 11:43:37 GMT 2015
+[1427370217] LOG VERSION: 2.0
+[1427370217] qh: Socket '/usr/local/nagios/var/rw/nagios.qh' successfully initialized
+[1427370217] qh: core query handler registered
+[1427370217] nerd: Channel hostchecks registered successfully
+[1427370217] nerd: Channel servicechecks registered successfully
+[1427370217] nerd: Channel opathchecks registered successfully
+[1427370217] nerd: Fully initialized and ready to rock!
+[1427370217] wproc: Successfully registered manager as @wproc with query handler
+[1427370217] wproc: Registry request: name=Core Worker 3011;pid=3011
+[1427370217] wproc: Registry request: name=Core Worker 3010;pid=3010
+[1427370217] wproc: Registry request: name=Core Worker 3009;pid=3009
+[1427370217] wproc: Registry request: name=Core Worker 3008;pid=3008
+[1427370217] Error: Could not load module '/usr/local/lib/mk-livestatus/livestatus.o' -> /usr/local/lib/mk-livestatus/livestatus.o: undefined symbol: last_command_check
+[1427370217] Error: Failed to load module '/usr/local/lib/mk-livestatus/livestatus.o'.
+[1427370217] Error: Could not load module '/usr/local/nagios/etc/-1' -> /usr/local/nagios/etc/-1: cannot open shared object file: No such file or directory
+[1427370217] Error: Failed to load module '/usr/local/nagios/etc/-1'.
+[1427370217] Error: Module loading failed. Aborting.
+[1427370217] Nagios 4.0.8 starting... (PID=3012)
+[1427370217] Local time is Thu Mar 26 11:43:37 GMT 2015
+[1427370217] LOG VERSION: 2.0
+[1427370217] qh: Socket '/usr/local/nagios/var/rw/nagios.qh' successfully initialized
+[1427370217] qh: core query handler registered
+[1427370217] nerd: Channel hostchecks registered successfully
+[1427370217] nerd: Channel servicechecks registered successfully
+[1427370217] nerd: Channel opathchecks registered successfully
+[1427370217] nerd: Fully initialized and ready to rock!
+[1427370217] wproc: Successfully registered manager as @wproc with query handler
+[1427370217] wproc: Registry request: name=Core Worker 3016;pid=3016
+[1427370217] wproc: Registry request: name=Core Worker 3014;pid=3014
+[1427370217] wproc: Registry request: name=Core Worker 3017;pid=3017
+[1427370217] wproc: Registry request: name=Core Worker 3015;pid=3015
+[1427370217] Error: Could not load module '/usr/local/lib/mk-livestatus/livestatus.o' -> /usr/local/lib/mk-livestatus/livestatus.o: undefined symbol: last_command_check
+[1427370217] Error: Failed to load module '/usr/local/lib/mk-livestatus/livestatus.o'.
+[1427370217] Error: Could not load module '/usr/local/nagios/etc/-1' -> /usr/local/nagios/etc/-1: cannot open shared object file: No such file or directory
+[1427370217] Error: Failed to load module '/usr/local/nagios/etc/-1'.
+[1427370217] Error: Module loading failed. Aborting.
+[1427370217] Nagios 4.0.8 starting... (PID=3018)
+[1427370217] Local time is Thu Mar 26 11:43:37 GMT 2015
+[1427370217] LOG VERSION: 2.0
+[1427370217] qh: Socket '/usr/local/nagios/var/rw/nagios.qh' successfully initialized
+[1427370217] qh: core query handler registered
+[1427370217] nerd: Channel hostchecks registered successfully
+[1427370217] nerd: Channel servicechecks registered successfully
+[1427370217] nerd: Channel opathchecks registered successfully
+[1427370217] nerd: Fully initialized and ready to rock!
+[1427370217] wproc: Successfully registered manager as @wproc with query handler
+[1427370217] wproc: Registry request: name=Core Worker 3022;pid=3022
+[1427370217] wproc: Registry request: name=Core Worker 3021;pid=3021
+[1427370217] wproc: Registry request: name=Core Worker 3020;pid=3020
+[1427370217] wproc: Registry request: name=Core Worker 3019;pid=3019
+[1427370217] Error: Could not load module '/usr/local/lib/mk-livestatus/livestatus.o' -> /usr/local/lib/mk-livestatus/livestatus.o: undefined symbol: last_command_check
+[1427370217] Error: Failed to load module '/usr/local/lib/mk-livestatus/livestatus.o'.
+[1427370217] Error: Could not load module '/usr/local/nagios/etc/-1' -> /usr/local/nagios/etc/-1: cannot open shared object file: No such file or directory
+[1427370217] Error: Failed to load module '/usr/local/nagios/etc/-1'.
+[1427370217] Error: Module loading failed. Aborting.
+[1427370217] Nagios 4.0.8 starting... (PID=3024)
+[1427370217] Local time is Thu Mar 26 11:43:37 GMT 2015
+[1427370217] LOG VERSION: 2.0
+[1427370217] qh: Socket '/usr/local/nagios/var/rw/nagios.qh' successfully initialized
+[1427370217] qh: core query handler registered
+[1427370217] nerd: Channel hostchecks registered successfully
+[1427370217] nerd: Channel servicechecks registered successfully
+[1427370217] nerd: Channel opathchecks registered successfully
+[1427370217] nerd: Fully initialized and ready to rock!
+[1427370217] wproc: Successfully registered manager as @wproc with query handler
+[1427370217] wproc: Registry request: name=Core Worker 3029;pid=3029
+[1427370217] wproc: Registry request: name=Core Worker 3028;pid=3028
+[1427370217] wproc: Registry request: name=Core Worker 3027;pid=3027
+[1427370217] wproc: Registry request: name=Core Worker 3026;pid=3026
+[1427370217] Error: Could not load module '/usr/local/lib/mk-livestatus/livestatus.o' -> /usr/local/lib/mk-livestatus/livestatus.o: undefined symbol: last_command_check
+[1427370217] Error: Failed to load module '/usr/local/lib/mk-livestatus/livestatus.o'.
+[1427370217] Error: Could not load module '/usr/local/nagios/etc/-1' -> /usr/local/nagios/etc/-1: cannot open shared object file: No such file or directory
+[1427370217] Error: Failed to load module '/usr/local/nagios/etc/-1'.
+[1427370217] Error: Module loading failed. Aborting.
+[1427370217] Nagios 4.0.8 starting... (PID=3030)
+[1427370217] Local time is Thu Mar 26 11:43:37 GMT 2015
+[1427370217] LOG VERSION: 2.0
+[1427370217] qh: Socket '/usr/local/nagios/var/rw/nagios.qh' successfully initialized
+[1427370217] qh: core query handler registered
+[1427370217] nerd: Channel hostchecks registered successfully
+[1427370217] nerd: Channel servicechecks registered successfully
+[1427370217] nerd: Channel opathchecks registered successfully
+[1427370217] nerd: Fully initialized and ready to rock!
+[1427370217] wproc: Successfully registered manager as @wproc with query handler
+[1427370217] wproc: Registry request: name=Core Worker 3034;pid=3034
+[1427370217] wproc: Registry request: name=Core Worker 3033;pid=3033
+[1427370217] wproc: Registry request: name=Core Worker 3035;pid=3035
+[1427370217] wproc: Registry request: name=Core Worker 3032;pid=3032
+[1427370217] Error: Could not load module '/usr/local/lib/mk-livestatus/livestatus.o' -> /usr/local/lib/mk-livestatus/livestatus.o: undefined symbol: last_command_check
+[1427370217] Error: Failed to load module '/usr/local/lib/mk-livestatus/livestatus.o'.
+[1427370217] Error: Could not load module '/usr/local/nagios/etc/-1' -> /usr/local/nagios/etc/-1: cannot open shared object file: No such file or directory
+[1427370217] Error: Failed to load module '/usr/local/nagios/etc/-1'.
+[1427370217] Error: Module loading failed. Aborting.
