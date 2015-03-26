@@ -1,0 +1,17 @@
+/usr/local/nagios/perl/bin/ucalc
+/usr/local/nagios/perl/lib/Math/Calc/Units.pm
+/usr/local/nagios/perl/lib/Math/Calc/Units/Compute.pm
+/usr/local/nagios/perl/lib/Math/Calc/Units/Convert.pm
+/usr/local/nagios/perl/lib/Math/Calc/Units/Convert/Base.pm
+/usr/local/nagios/perl/lib/Math/Calc/Units/Convert/Base2Metric.pm
+/usr/local/nagios/perl/lib/Math/Calc/Units/Convert/Byte.pm
+/usr/local/nagios/perl/lib/Math/Calc/Units/Convert/Combo.pm
+/usr/local/nagios/perl/lib/Math/Calc/Units/Convert/Date.pm
+/usr/local/nagios/perl/lib/Math/Calc/Units/Convert/Distance.pm
+/usr/local/nagios/perl/lib/Math/Calc/Units/Convert/Metric.pm
+/usr/local/nagios/perl/lib/Math/Calc/Units/Convert/Multi.pm
+/usr/local/nagios/perl/lib/Math/Calc/Units/Convert/Time.pm
+/usr/local/nagios/perl/lib/Math/Calc/Units/Grammar.pm
+/usr/local/nagios/perl/lib/Math/Calc/Units/Grammar.y
+/usr/local/nagios/perl/lib/Math/Calc/Units/Rank.pm
+/usr/local/nagios/perl/man/man3/Math::Calc::Units.3pm
