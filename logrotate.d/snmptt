@@ -1,0 +1,11 @@
+/var/log/snmptt/*.log /var/log/snmptt/*.debug {
+	missingok
+	notifempty
+	weekly
+	rotate 4
+	compress
+	sharedscripts
+	postrotate
+		/etc/init.d/snmptt reload > /dev/null
+	endscript
+}

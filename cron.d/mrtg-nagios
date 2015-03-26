@@ -1,0 +1,1 @@
+*/5 * * * *  root  env LANG=C /usr/bin/mrtg /usr/local/nagios/etc/mrtg.cfg

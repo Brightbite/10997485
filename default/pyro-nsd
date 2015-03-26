@@ -1,0 +1,9 @@
+# /etc/default/pyro-nsd
+
+# Change to one to enable pyro-nsd
+ENABLED=0
+
+# Options to pass to pyro-nsd
+# available: "--pidfile=..."
+OPTIONS=""
+
