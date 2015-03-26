@@ -277,120 +277,116 @@ etc
   - xml
   - xul-ext
   - zabbix
-  
-
-
-
-.nagiosnrpe.cfg.swp
-.pwd.lock
-adduser.conf
-aliases	
-anacrontab	
-apg.conf	
-bash.bashrc	
-bash_completion	
-bindresvport.blacklist	
-blkid.conf	
-blkid.tab	
-brlapi.key	
-brltty.conf	
-ca-certificates.conf	
-ca-certificates.conf.dpkg-old	
-checkinstallrc
-colord.conf	
-          crontab	
-          daemon.conf	
-          debconf.conf	
-          debian_version	
-          deluser.conf	
-          drirc	
-          environment	
-          fstab	
-          fuse.conf	
-          gai.conf	
-          group	
-          group-
-          gshadow	
-          gshadow-	
-          hdparm.conf
-          host.conf	
-          hostname	
-          hosts	
-          hosts.allow	
-          hosts.deny	
-          iftab	
-          inputrc	
-          insserv.conf	
-          issue	
-          issue.net	
-          kernel-img.conf	
-          kerneloops.conf	
-          ld.so.cache	
-          ld.so.conf	
-          legal	
-          libaudit.conf	
-          lintianrc
-          locale.alias	
-          localtime	
-          login.defs	
-          logrotate.conf	
-          lsb-release	
-          ltrace.conf	
-          magic	
-          magic.mime	
-          mailcap	
-          mailcap.order	
-          manpath.config	
-          mime.types	
-          mke2fs.conf	
-          modules	
-          mrtg.cfg	
-          mtab	
-          mtab.fuselock	
-          mtools.conf	
-          nagios4	
-          nail.rc	
-          nanorc	
-          netscsid.conf	
-          networks	
-          nsswitch.conf
-          os-release	
-          pam.conf	
-          papersize	
-          passwd	
-          passwd-	
-          pnm2ppa.conf	
-          popularity-contest.conf	
-          printcap	
-          profile
-          protocols	
-          rc.local	
-          resolv.conf	
-          rmt	
-          rpcetc	
-          rsyslog.conf	
-          securetty	
-          sensors3.conf	
-          services	
-          shadow	
-          shadow-	
-          shells	
-          signond.conf	
-          subgid	
-          subgid-	
-          subuid	
-          subuid-	
-          sudoers	
-          sysctl.conf
-          timezone	
-          ucf.conf	
-          updatedb.conf	
-          upstart-xsessions	
-          usb_modeswitch.conf	
-          vshell2.conf	
-          vshell2.conf~	
-          vtrgb	
-          wgetrc
-          wodim.conf	
-          xinetd.conf	
-          zsh_command_not_found	
+  - .nagiosnrpe.cfg.swp
+  - .pwd.lock
+  - adduser.conf
+  - aliases	
+  - anacrontab	
+  - apg.conf	
+  - bash.bashrc	
+  - bash_completion	
+  - bindresvport.blacklist	
+  - blkid.conf	
+  - blkid.tab	
+  - brlapi.key	
+  - brltty.conf	
+  - ca-certificates.conf	
+  - ca-certificates.conf.dpkg-old	
+  - checkinstallrc
+  - colord.conf	
+  - crontab	
+  - daemon.conf	
+  - debconf.conf	
+  - debian_version	
+  - deluser.conf	
+  - drirc	
+  - environment	
+  - fstab	
+  - fuse.conf	
+  - gai.conf	
+  - group	
+  - group-
+  - gshadow	
+  - gshadow-	
+  - hdparm.conf
+  - host.conf	
+  - hostname	
+  - hosts	
+  - hosts.allow	
+  - hosts.deny	
+  - iftab	
+  - inputrc	
+  - insserv.conf	
+  - issue	
+  - issue.net	
+  - kernel-img.conf	
+  - kerneloops.conf	
+  - ld.so.cache	
+  - ld.so.conf	
+  - legal	
+  - libaudit.conf	
+  - lintianrc
+  - locale.alias	
+  - localtime	
+  - login.defs	
+  - logrotate.conf	
+  - lsb-release	
+  - ltrace.conf	
+  - magic	
+  - magic.mime	
+  - mailcap	
+  - mailcap.order	
+  - manpath.config	
+  - mime.types	
+  - mke2fs.conf	
+  - modules	
+  - mrtg.cfg	
+  - mtab	
+  - mtab.fuselock	
+  - mtools.conf	
+  - nagios4	
+  - nail.rc	
+  - nanorc	
+  - netscsid.conf	
+  - networks	
+  - nsswitch.conf
+  - os-release	
+  - pam.conf	
+  - papersize	
+  - passwd	
+  - passwd-	
+  - pnm2ppa.conf	
+  - popularity-contest.conf	
+  - printcap	
+  - profile
+  - protocols	
+  - rc.local	
+  - resolv.conf	
+  - rmt	
+  - rpcetc	
+  - rsyslog.conf	
+  - securetty	
+  - sensors3.conf	
+  - services	
+  - shadow	
+  - shadow-	
+  - shells	
+  - signond.conf	
+  - subgid	
+  - subgid-	
+  - subuid	
+  - subuid-	
+  - sudoers	
+  - sysctl.conf
+  - timezone	
+  - ucf.conf	
+  - updatedb.conf	
+  - upstart-xsessions	
+  - usb_modeswitch.conf	
+  - vshell2.conf	
+  - vshell2.conf~	
+  - vtrgb	
+  - wgetrc
+  - wodim.conf	
+  - xinetd.conf	
+  - zsh_command_not_found	
